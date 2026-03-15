@@ -1,0 +1,69 @@
+2026-03-15 19:03:19.860 [info] [ChatSessionsService] registerContribution called for type='claude-code', canDelegate=true, when='config.github.copilot.chat.claudeAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-15 19:03:19.860 [info] [ChatSessionsService] _enableContribution: type='claude-code', canDelegate=true
+2026-03-15 19:03:19.861 [info] [ChatSessionsService] registerContribution called for type='copilotcli', canDelegate=true, when='config.github.copilot.chat.backgroundAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-15 19:03:19.861 [info] [ChatSessionsService] _enableContribution: type='copilotcli', canDelegate=true
+2026-03-15 19:03:19.861 [info] [ChatSessionsService] registerContribution called for type='copilot-cloud-agent', canDelegate=true, when='config.github.copilot.chat.cloudAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-15 19:03:19.861 [info] [ChatSessionsService] _enableContribution: type='copilot-cloud-agent', canDelegate=true
+2026-03-15 19:03:19.962 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-15 19:03:19.997 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-03-15 19:03:20.655 [info] Started local extension host with pid 86987.
+2026-03-15 19:03:21.284 [error] [Extension Host] (node:86987) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `Code Helper (Plugin) --trace-deprecation ...` to show where the warning was created)
+2026-03-15 19:03:21.285 [error] [Extension Host] (node:86987) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-03-15 19:03:22.407 [info] [perf] Render performance baseline is 8ms
+2026-03-15 19:03:23.704 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:03:23.956 [info] Auto updating outdated extensions. github.copilot-chat
+2026-03-15 19:05:03.248 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:05:19.903 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:05:39.289 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:06:15.047 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:06:25.283 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:12:11.882 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:12:53.033 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:14:29.921 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:14:32.415 [error] Canceled: Canceled
+    at wI (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:383:1431)
+    at vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4992:47396
+    at Array.forEach (<anonymous>)
+    at a.dispose (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4992:47304)
+    at nU.dispose (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4992:60603)
+    at cBi.dispose (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4999:10470)
+    at lBi.stopAllInReverse (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4999:9610)
+    at async hdt._doStopExtensionHosts (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4998:22317)
+2026-03-15 19:14:32.415 [warning] Failed to update in-progress status for chat session type 'claude-code': Canceled
+2026-03-15 19:14:32.415 [warning] Failed to update in-progress status for chat session type 'claude-code': Canceled
+2026-03-15 19:14:32.415 [warning] Failed to update in-progress status for chat session type 'claude-code': Canceled
+2026-03-15 19:14:32.415 [warning] Failed to update in-progress status for chat session type 'copilotcli': Canceled
+2026-03-15 19:14:32.415 [warning] Failed to update in-progress status for chat session type 'copilotcli': Canceled
+2026-03-15 19:14:32.415 [warning] Failed to update in-progress status for chat session type 'copilot-cloud-agent': Canceled
+2026-03-15 19:14:32.712 [info] Started local extension host with pid 87494.
+2026-03-15 19:14:32.897 [info] [ChatSessionsService] registerContribution called for type='claude-code', canDelegate=true, when='config.github.copilot.chat.claudeAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-15 19:14:32.897 [info] [ChatSessionsService] _enableContribution: type='claude-code', canDelegate=true
+2026-03-15 19:14:32.898 [info] [ChatSessionsService] registerContribution called for type='copilotcli', canDelegate=true, when='config.github.copilot.chat.backgroundAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-15 19:14:32.898 [info] [ChatSessionsService] _enableContribution: type='copilotcli', canDelegate=true
+2026-03-15 19:14:32.898 [info] [ChatSessionsService] registerContribution called for type='copilot-cloud-agent', canDelegate=true, when='config.github.copilot.chat.cloudAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-15 19:14:32.898 [info] [ChatSessionsService] _enableContribution: type='copilot-cloud-agent', canDelegate=true
+2026-03-15 19:14:33.112 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-15 19:14:33.203 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-03-15 19:14:33.379 [error] [Extension Host] (node:87494) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `Code Helper (Plugin) --trace-deprecation ...` to show where the warning was created)
+2026-03-15 19:14:33.379 [error] [Extension Host] (node:87494) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-03-15 19:14:35.346 [info] [perf] Render performance baseline is 7ms
+2026-03-15 19:14:35.826 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:17:29.931 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:18:06.724 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:40:38.679 [error] Canceled: Canceled
+    at wI (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:383:1431)
+    at vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4992:47396
+    at Array.forEach (<anonymous>)
+    at a.dispose (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4992:47304)
+    at nU.dispose (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4992:60603)
+    at cBi.dispose (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4999:10470)
+    at lBi.stopAllInReverse (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4999:9610)
+    at async hdt._doStopExtensionHosts (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4998:22317)
+2026-03-15 19:40:38.679 [warning] Failed to update in-progress status for chat session type 'claude-code': Canceled
+2026-03-15 19:40:38.679 [warning] Failed to update in-progress status for chat session type 'claude-code': Canceled
+2026-03-15 19:40:38.679 [warning] Failed to update in-progress status for chat session type 'claude-code': Canceled
+2026-03-15 19:40:38.679 [warning] Failed to update in-progress status for chat session type 'copilotcli': Canceled
+2026-03-15 19:40:38.679 [warning] Failed to update in-progress status for chat session type 'copilotcli': Canceled
+2026-03-15 19:40:38.679 [warning] Failed to update in-progress status for chat session type 'copilot-cloud-agent': Canceled

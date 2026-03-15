@@ -1,0 +1,1154 @@
+["INFO" - 7:03:22 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 7:03:22 PM] Extension Version: 12.3.0.
+["INFO" - 7:04:37 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:04:37 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:04:37 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:04:54 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:04:54 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:04:54 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:04:59 PM] Formatting file:///Users/kcwen/Documents/02_Projects/syncrex-site/src/content/blogs/20260315T1903-mac_setup.mdoc
+["INFO" - 7:04:59 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:04:59 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:04:59 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:04:59 PM] PrettierInstance:
+{
+  "version": "3.8.1",
+  "prettierModule": {
+    "__debug": {},
+    "util": {},
+    "doc": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "version": "3.8.1"
+  },
+  "modulePath": "/Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier"
+}
+["INFO" - 7:04:59 PM] Using ignore file (if present) at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierignore
+["INFO" - 7:04:59 PM] Resolved plugins:
+[
+  "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-astro/dist/index.js",
+  "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+]
+["INFO" - 7:04:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 7:04:59 PM] Parser not inferred, trying VS Code language.
+["INFO" - 7:04:59 PM] Using local configuration (VS Code configuration will not be used)
+["INFO" - 7:04:59 PM] Prettier Options:
+{
+  "filepath": "/Users/kcwen/Documents/02_Projects/syncrex-site/src/content/blogs/20260315T1903-mac_setup.mdoc",
+  "parser": "angular",
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-astro/dist/index.js",
+    "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+  ]
+}
+["INFO" - 7:04:59 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:04:59 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:04:59 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:04:59 PM] Formatting completed in 236ms.
+["INFO" - 7:05:05 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:05:05 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:05:05 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:05:08 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:05:08 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:05:08 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:05:11 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:05:11 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:05:11 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:06:10 PM] Formatting file:///Users/kcwen/Documents/02_Projects/syncrex-site/src/content/blogs/20260315T1903-mac_setup.mdoc
+["INFO" - 7:06:10 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:10 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:10 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:06:10 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:10 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:10 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:06:10 PM] PrettierInstance:
+{
+  "version": "3.8.1",
+  "prettierModule": {
+    "__debug": {},
+    "util": {},
+    "doc": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "version": "3.8.1"
+  },
+  "modulePath": "/Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier"
+}
+["INFO" - 7:06:10 PM] Using ignore file (if present) at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierignore
+["INFO" - 7:06:10 PM] Resolved plugins:
+[
+  "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-astro/dist/index.js",
+  "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+]
+["INFO" - 7:06:10 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 7:06:10 PM] Parser not inferred, trying VS Code language.
+["INFO" - 7:06:10 PM] Using local configuration (VS Code configuration will not be used)
+["INFO" - 7:06:10 PM] Prettier Options:
+{
+  "filepath": "/Users/kcwen/Documents/02_Projects/syncrex-site/src/content/blogs/20260315T1903-mac_setup.mdoc",
+  "parser": "angular",
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-astro/dist/index.js",
+    "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+  ]
+}
+["INFO" - 7:06:10 PM] Formatting completed in 78ms.
+["INFO" - 7:06:12 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:12 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:12 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:06:25 PM] Formatting file:///Users/kcwen/Documents/02_Projects/syncrex-site/src/content/blogs/20260315T1903-mac_setup.mdoc
+["INFO" - 7:06:25 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:25 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:25 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:06:25 PM] PrettierInstance:
+{
+  "version": "3.8.1",
+  "prettierModule": {
+    "__debug": {},
+    "util": {},
+    "doc": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "version": "3.8.1"
+  },
+  "modulePath": "/Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier"
+}
+["INFO" - 7:06:25 PM] Using ignore file (if present) at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierignore
+["INFO" - 7:06:25 PM] Resolved plugins:
+[
+  "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-astro/dist/index.js",
+  "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+]
+["INFO" - 7:06:25 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 7:06:25 PM] Parser not inferred, trying VS Code language.
+["INFO" - 7:06:25 PM] Using local configuration (VS Code configuration will not be used)
+["INFO" - 7:06:25 PM] Prettier Options:
+{
+  "filepath": "/Users/kcwen/Documents/02_Projects/syncrex-site/src/content/blogs/20260315T1903-mac_setup.mdoc",
+  "parser": "angular",
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-astro/dist/index.js",
+    "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+  ]
+}
+["INFO" - 7:06:25 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:25 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:25 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ],
+  "parser": "astro"
+}
+["INFO" - 7:06:25 PM] Formatting completed in 96ms.
+["INFO" - 7:06:25 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:25 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:25 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ],
+  "parser": "astro"
+}
+["INFO" - 7:06:26 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:26 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:26 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ],
+  "parser": "astro"
+}
+["INFO" - 7:06:26 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:26 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:26 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ],
+  "parser": "astro"
+}
+["INFO" - 7:06:27 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:27 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:27 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ],
+  "parser": "astro"
+}
+["INFO" - 7:06:27 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:27 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:27 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ],
+  "parser": "astro"
+}
+["INFO" - 7:06:28 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:28 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:28 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ],
+  "parser": "astro"
+}
+["INFO" - 7:06:28 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:28 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:28 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ],
+  "parser": "astro"
+}
+["INFO" - 7:06:34 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:06:34 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:06:34 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ],
+  "parser": "astro"
+}
+["INFO" - 7:07:57 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:07:57 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:07:57 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:09:05 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:09:05 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:09:05 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:09:11 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:09:11 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:09:11 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:10:33 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:10:33 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:10:33 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:11:40 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:11:40 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:11:40 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:12:04 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:12:04 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:12:04 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:12:09 PM] Formatting file:///Users/kcwen/Documents/02_Projects/syncrex-site/src/content/blogs/example-IllustrateBox.mdoc
+["INFO" - 7:12:09 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:12:09 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:12:09 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:12:09 PM] PrettierInstance:
+{
+  "version": "3.8.1",
+  "prettierModule": {
+    "__debug": {},
+    "util": {},
+    "doc": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "version": "3.8.1"
+  },
+  "modulePath": "/Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier"
+}
+["INFO" - 7:12:09 PM] Using ignore file (if present) at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierignore
+["INFO" - 7:12:09 PM] Resolved plugins:
+[
+  "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-astro/dist/index.js",
+  "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+]
+["INFO" - 7:12:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 7:12:09 PM] Parser not inferred, trying VS Code language.
+["INFO" - 7:12:09 PM] Using local configuration (VS Code configuration will not be used)
+["INFO" - 7:12:09 PM] Prettier Options:
+{
+  "filepath": "/Users/kcwen/Documents/02_Projects/syncrex-site/src/content/blogs/example-IllustrateBox.mdoc",
+  "parser": "angular",
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-astro/dist/index.js",
+    "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+  ]
+}
+["ERROR" - 7:12:09 PM] Error formatting document.
+["ERROR" - 7:12:09 PM] Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.) (51:23)
+  49 | ```javascript
+  50 | const greeting = "Hello Astro and Markdoc!";
+> 51 | console.log(greeting);
+     |                       ^
+SyntaxError: Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.) (51:23)
+  49 | ```javascript
+  50 | const greeting = "Hello Astro and Markdoc!";
+> 51 | console.log(greeting);
+     |                       ^
+    at ll (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/plugins/html.mjs:24:8634)
+    at jr (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/plugins/html.mjs:24:22609)
+    at Xr (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/plugins/html.mjs:24:21705)
+    at Kr (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/plugins/html.mjs:24:23222)
+    at Object.parse (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/plugins/html.mjs:24:23618)
+    at Object.parse (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs:3512:11214)
+    at parse5 (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/index.mjs:16420:11)
+    at coreFormat (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/index.mjs:16952:7)
+    at formatWithCursor (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/index.mjs:17172:14)
+    at Module.format2 (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/index.mjs:18730:25)
+    at PrettierEditService.format (file:///Users/kcwen/.vscode/extensions/esbenp.prettier-vscode-12.3.0/dist/extension.js:3288:29)
+    at PrettierEditProvider.provideEdits (file:///Users/kcwen/.vscode/extensions/esbenp.prettier-vscode-12.3.0/dist/extension.js:3159:20)
+    at QE.provideDocumentFormattingEdits (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:521:164242)
+["INFO" - 7:12:09 PM] Formatting completed in 85ms.
+["INFO" - 7:12:47 PM] Formatting file:///Users/kcwen/Documents/02_Projects/syncrex-site/src/content/blogs/example-IllustrateBox.mdoc
+["INFO" - 7:12:47 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:12:47 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:12:47 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:12:47 PM] PrettierInstance:
+{
+  "version": "3.8.1",
+  "prettierModule": {
+    "__debug": {},
+    "util": {},
+    "doc": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "version": "3.8.1"
+  },
+  "modulePath": "/Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier"
+}
+["INFO" - 7:12:47 PM] Using ignore file (if present) at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierignore
+["INFO" - 7:12:47 PM] Resolved plugins:
+[
+  "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-astro/dist/index.js",
+  "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+]
+["INFO" - 7:12:47 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 7:12:47 PM] Parser not inferred, trying VS Code language.
+["INFO" - 7:12:47 PM] Using local configuration (VS Code configuration will not be used)
+["INFO" - 7:12:47 PM] Prettier Options:
+{
+  "filepath": "/Users/kcwen/Documents/02_Projects/syncrex-site/src/content/blogs/example-IllustrateBox.mdoc",
+  "parser": "angular",
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-astro/dist/index.js",
+    "file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+  ]
+}
+["ERROR" - 7:12:47 PM] Error formatting document.
+["ERROR" - 7:12:47 PM] Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.) (55:1)
+  53 | {% /box %}
+  54 |
+> 55 |
+     | ^
+SyntaxError: Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.) (55:1)
+  53 | {% /box %}
+  54 |
+> 55 |
+     | ^
+    at ll (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/plugins/html.mjs:24:8634)
+    at jr (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/plugins/html.mjs:24:22609)
+    at Xr (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/plugins/html.mjs:24:21705)
+    at Kr (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/plugins/html.mjs:24:23222)
+    at Object.parse (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/plugins/html.mjs:24:23618)
+    at Object.parse (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier-plugin-tailwindcss/dist/index.mjs:3512:11214)
+    at parse5 (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/index.mjs:16420:11)
+    at coreFormat (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/index.mjs:16952:7)
+    at formatWithCursor (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/index.mjs:17172:14)
+    at Module.format2 (file:///Users/kcwen/Documents/02_Projects/syncrex-site/node_modules/prettier/index.mjs:18730:25)
+    at PrettierEditService.format (file:///Users/kcwen/.vscode/extensions/esbenp.prettier-vscode-12.3.0/dist/extension.js:3288:29)
+    at PrettierEditProvider.provideEdits (file:///Users/kcwen/.vscode/extensions/esbenp.prettier-vscode-12.3.0/dist/extension.js:3159:20)
+    at QE.provideDocumentFormattingEdits (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:521:164242)
+["INFO" - 7:12:47 PM] Formatting completed in 66ms.
+["INFO" - 7:14:26 PM] Formatting vscode-userdata:/Users/kcwen/Library/Application%20Support/Code/User/settings.json
+["INFO" - 7:14:26 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:14:26 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 7:14:26 PM] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": false
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 7:14:26 PM] Unable to resolve ignore path: .prettierignore for /Users/kcwen/Library/Application Support/Code/User/settings.json
+["INFO" - 7:14:26 PM] Resolved plugins:
+[]
+["WARN" - 7:14:26 PM] Parser not inferred, trying VS Code language.
+["INFO" - 7:14:26 PM] Using VS Code configuration
+["INFO" - 7:14:26 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "/Users/kcwen/Library/Application Support/Code/User/settings.json",
+  "parser": "jsonc"
+}
+["INFO" - 7:14:27 PM] Formatting completed in 29ms.
+["INFO" - 7:14:27 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:14:27 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:14:27 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}
+["INFO" - 7:14:29 PM] Using config file at /Users/kcwen/Documents/02_Projects/syncrex-site/.prettierrc
+["INFO" - 7:14:29 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 7:14:29 PM] Resolved config:
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ]
+}

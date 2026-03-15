@@ -1,0 +1,7 @@
+[user]
+	name = Kangcheng Wen
+	email = kangchengwen@proton.me
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
