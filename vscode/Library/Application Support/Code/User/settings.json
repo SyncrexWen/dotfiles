@@ -21,14 +21,14 @@
   "editor.fontSize": 20,
   "editor.lineHeight": 1.5,
   "terminal.integrated.fontFamily": "'FiraCode Nerd Font', 'Jetbrains Mono', monospace",
-  "apc.font.family": "Fira Code, JetBrains Mono, monospace", 
+  "apc.font.family": "Fira Code, JetBrains Mono, monospace",
   "apc.parts.font.family": {
     "sidebar": "Fira Code",
-    "titlebar": "Fira Code"
+    "titlebar": "Fira Code",
   },
   "apc.listRow": {
     "fontSize": 15,
-    "height": 26
+    "height": 26,
   },
 
   // ==========================================
@@ -90,7 +90,7 @@
   // Markdoc
   // ==========================================
   "files.associations": {
-    "*.mdoc": "markdoc"
+    "*.mdoc": "markdoc",
   },
   // ==========================================
   // Latex Workshop
@@ -176,4 +176,6 @@
   "auto-rename-tag.activationOnLanguage": ["html", "xml", "astro"],
   "security.workspace.trust.untrustedFiles": "open",
   "workbench.startupEditor": "none",
+  "gitlens.ai.model": "vscode",
+  "git.confirmSync": false,
 }
