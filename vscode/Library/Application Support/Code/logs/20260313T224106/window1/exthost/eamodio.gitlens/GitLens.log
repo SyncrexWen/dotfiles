@@ -1,0 +1,97 @@
+2026-03-13 22:41:09.618 [info] To enable debug logging, run "GitLens: Enable Debug Logging" or "Developer: Set Log Level..." from the Command Palette
+2026-03-13 22:41:09.618 [error]   [            1] GitLens v17.11.1  activating in Visual Studio Code (1.111.0) on the desktop; mode=production,language='en', logLevel='info', defaultDateLocale='null' (vscode|ca91f8c0c5fe84f2f3d2c82bcda05be29bac208dbfd818ecd7488ed127d75127|22c816b2-d8bf-48a2-8be4-9c76ae8ce5e31773412867385)
+2026-03-13 22:41:09.618 [error]   [            1] GitLens v17.11.1 activated [25ms]
+2026-03-13 22:41:09.618 [info]    [   6f →    70] LocalGitProvider.findGit Git (2.50.1 (Apple Git-155)) found in /usr/bin/git [31ms]
+2026-03-13 22:41:09.618 [info]    [   6f →    97] LocalGitProvider.repositorySearch(/Users/kcwen/Documents/02_Projects/syncrex-site) searching (depth=1)...
+2026-03-13 22:41:09.618 [info]    [IPC          ] Server started on http://127.0.0.1:64725
+2026-03-13 22:41:09.624 [info]    [GIT      14ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree [14ms]
+2026-03-13 22:41:09.631 [info]    [   6f →    97] LocalGitProvider.repositorySearch(/Users/kcwen/Documents/02_Projects/syncrex-site) found root repository in '/Users/kcwen/Documents/02_Projects/syncrex-site'
+2026-03-13 22:41:09.649 [info]    [GIT       8ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git remote -v [8ms]
+2026-03-13 22:41:09.650 [info]    [GIT      11ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree [11ms]
+2026-03-13 22:41:10.168 [warning] [    a →     b] ServerConnection.fetch(url=https://configs.gitkraken.dev/gitlens/product.json, options=undefined) completed [*602ms] (slow)
+2026-03-13 22:41:10.168 [warning] [    9 →     a] ServerConnection.fetchGkConfig(path=product.json, options=undefined) completed [*602ms] (slow)
+2026-03-13 22:41:10.652 [warning] [   78 →    95] GkCliIntegrationProvider.checkCliUpdateRequired completed [*1047ms] (slow)
+2026-03-13 22:41:10.652 [info]    [CLI          ] CLI core version is 3.1.54
+2026-03-13 22:41:11.047 [warning] [   d7 →    de] LocalGitProvider.getRemoteVisibility(remote=https://github.com/SyncrexWen/syncrex-site.git) returned private [*911ms] (slow)
+2026-03-13 22:41:11.047 [warning] [   dc →    df] LocalGitProvider.getRemoteVisibility(remote=https://github.com/SyncrexWen/syncrex-site.git) returned private [*911ms] (slow)
+2026-03-13 22:41:11.047 [warning] [   d5 →    d7] LocalGitProvider.visibility(e=/Users/kcwen/Documents/02_Projects/syncrex-site) returned private [*912ms] (slow)
+2026-03-13 22:41:11.047 [warning] [   da →    dc] LocalGitProvider.visibility(e=/Users/kcwen/Documents/02_Projects/syncrex-site) returned private [*912ms] (slow)
+2026-03-13 22:41:11.047 [warning] [   d2 →    d5] GitProviderService.visibilityCore(e=/Users/kcwen/Documents/02_Projects/syncrex-site) returned private [*912ms] (slow)
+2026-03-13 22:41:11.047 [warning] [   d9 →    da] GitProviderService.visibilityCore returned private [*912ms] (slow)
+2026-03-13 22:41:11.047 [warning] [   d0 →    d2] GitProviderService.visibility(e=/Users/kcwen/Documents/02_Projects/syncrex-site) returned private [*912ms] (slow)
+2026-03-13 22:41:11.047 [warning] [   d0 →    d9] GitProviderService.visibility returned private [*912ms] (slow)
+2026-03-13 22:41:11.047 [warning] [   cf →    d0] GitProviderService.accessCore(e=undefined) returned {"allowed":false,"subscription":{"current":{"plan":{"actual":{"id":"community","name":"GitLens Community","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2026-03-13T06:50:59.814Z"},"effective":{"id":"community","name":"GitLens Community","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2026-03-13T06:50:59.814Z"}},"state":0},"required":"pro"},"visibility":"private"} [*912ms] (slow)
+2026-03-13 22:41:11.048 [warning] [   b2 →    cf] GitProviderService.access returned {"allowed":false,"subscription":{"current":{"plan":{"actual":{"id":"community","name":"GitLens Community","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2026-03-13T06:50:59.814Z"},"effective":{"id":"community","name":"GitLens Community","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2026-03-13T06:50:59.814Z"}},"state":0},"required":"pro"},"visibility":"private"} [*913ms] (slow)
+2026-03-13 22:41:12.135 [warning] [   cb →    cc] VSCodeGkMcpProvider.getMcpConfigurationFromCLICore completed [*2017ms] (slow)
+2026-03-13 22:41:12.135 [warning] [   ca →    cb] VSCodeGkMcpProvider.getMcpConfigurationFromCLI completed [*2017ms] (slow)
+2026-03-13 22:41:12.136 [warning] [   84 →    ca] VSCodeGkMcpProvider.provideMcpServerDefinitions({"isCancellationRequested":false}) returned [{"label":"GitKraken","command":"/Users/kcwen/Library/Application Support/Code/User/globalStorage/eamodio.gitlens/gk","args":["mcp","--host=vscode","--source=gitlens","--scheme=vscode"],"env":{"GK_GL_PATH":"/var/folders/tx/0q2qm67n5_786kc87nv2lcxw0000gn/T/gitkraken/gitlens/gitlens-ipc-server-90118-64725.json"},"version":"3.1.54"}] [*2017ms] (slow)
+2026-03-13 22:41:44.663 [info]    [GIT      24ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-list --max-parents=0 HEAD -- [24ms]
+2026-03-13 22:41:44.665 [info]    [GIT      24ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git shortlog -s --all --no-min-parents --since=1.year.ago [24ms]
+2026-03-13 22:41:44.666 [info]    [  102 →   103] LocalSharedGkStorageLocationProvider.load Using shared GK path: /Users/kcwen/Library/Application Support/gk
+2026-03-13 22:42:14.347 [warning] [GIT          ] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ • ABORTED after 8ms (cancellation)
+2026-03-13 22:42:14.348 [error]   [GIT          ] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ • cancelled [8ms]
+2026-03-13 22:42:14.365 [info]    [GIT      10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get-regex ^branch\..*\.gk- [10ms]
+2026-03-13 22:42:14.372 [info]    [GIT       7ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get-regex -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config ^branch\..*\.gk-last-(accessed|modified)$ [7ms]
+2026-03-13 22:42:14.375 [warning] [GIT          ] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • ABORTED after 1ms (cancellation)
+2026-03-13 22:42:14.375 [error]   [GIT          ] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • cancelled [1ms]
+2026-03-13 22:42:14.375 [error] Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --abbrev-ref --symbolic-full-name @ @{u} --   [          109] BranchesGitSubProvider.getBranches — failed [36ms]
+2026-03-13 22:42:14.375 [error] Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --abbrev-ref --symbolic-full-name @ @{u} --   [          10e] BranchesGitSubProvider.getBranches — failed [27ms]
+2026-03-13 22:42:14.384 [info]    [GIT       8ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/ [8ms]
+2026-03-13 22:42:14.394 [info]    [GIT      10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ [10ms]
+2026-03-13 22:43:39.653 [info]    [GIT      18ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed [18ms]
+2026-03-13 22:43:39.672 [info]    [GIT      14ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed 2026-03-13T14:43:39.634Z [14ms]
+2026-03-13 22:46:47.300 [info] To enable debug logging, run "GitLens: Enable Debug Logging" or "Developer: Set Log Level..." from the Command Palette
+2026-03-13 22:46:47.300 [error]   [            1] GitLens v17.11.1  activating in Visual Studio Code (1.111.0) on the desktop; mode=production,language='en', logLevel='info', defaultDateLocale='null' (vscode|ca91f8c0c5fe84f2f3d2c82bcda05be29bac208dbfd818ecd7488ed127d75127|121b6343-1da5-4735-b5b0-e6dbfeb1bad41773413205121)
+2026-03-13 22:46:47.300 [error]   [            1] GitLens v17.11.1 activated [23ms]
+2026-03-13 22:46:47.300 [info]    [   6e →    6f] LocalGitProvider.findGit Git (2.50.1 (Apple Git-155)) found in /usr/bin/git [22ms]
+2026-03-13 22:46:47.300 [info]    [   6e →    94] LocalGitProvider.repositorySearch(/Users/kcwen/Documents/02_Projects/syncrex-site) searching (depth=1)...
+2026-03-13 22:46:47.300 [info]    [IPC          ] Server started on http://127.0.0.1:50168
+2026-03-13 22:46:47.317 [info]    [GIT      22ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree [22ms]
+2026-03-13 22:46:47.320 [info]    [   6e →    94] LocalGitProvider.repositorySearch(/Users/kcwen/Documents/02_Projects/syncrex-site) found root repository in '/Users/kcwen/Documents/02_Projects/syncrex-site'
+2026-03-13 22:46:47.338 [info]    [GIT      14ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree [14ms]
+2026-03-13 22:46:47.349 [info]    [GIT      20ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git remote -v [20ms]
+2026-03-13 22:46:47.874 [warning] [    a →     b] ServerConnection.fetch(url=https://configs.gitkraken.dev/gitlens/product.json, options=undefined) completed [*614ms] (slow)
+2026-03-13 22:46:47.874 [warning] [    9 →     a] ServerConnection.fetchGkConfig(path=product.json, options=undefined) completed [*614ms] (slow)
+2026-03-13 22:46:48.281 [warning] [   77 →    96] GkCliIntegrationProvider.checkCliUpdateRequired completed [*978ms] (slow)
+2026-03-13 22:46:48.281 [info]    [CLI          ] CLI core version is 3.1.54
+2026-03-13 22:46:49.630 [warning] [   c9 →    ca] VSCodeGkMcpProvider.getMcpConfigurationFromCLICore completed [*1832ms] (slow)
+2026-03-13 22:46:49.631 [warning] [   c8 →    c9] VSCodeGkMcpProvider.getMcpConfigurationFromCLI completed [*1832ms] (slow)
+2026-03-13 22:46:49.631 [warning] [   83 →    c8] VSCodeGkMcpProvider.provideMcpServerDefinitions({"isCancellationRequested":false}) returned [{"label":"GitKraken","command":"/Users/kcwen/Library/Application Support/Code/User/globalStorage/eamodio.gitlens/gk","args":["mcp","--host=vscode","--source=gitlens","--scheme=vscode"],"env":{"GK_GL_PATH":"/var/folders/tx/0q2qm67n5_786kc87nv2lcxw0000gn/T/gitkraken/gitlens/gitlens-ipc-server-90118-50168.json"},"version":"3.1.54"}] [*1833ms] (slow)
+2026-03-13 22:46:54.617 [info]    [GIT      16ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get-regex -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config ^branch\..*\.gk-last-(accessed|modified)$ [16ms]
+2026-03-13 22:46:54.620 [info]    [GIT      21ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ [21ms]
+2026-03-13 22:46:54.631 [warning] [GIT          ] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/ • ABORTED after 9ms (cancellation)
+2026-03-13 22:46:54.631 [error]   [GIT          ] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/ • cancelled [9ms]
+2026-03-13 22:46:54.631 [error] Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/   [           eb] TagsGitSubProvider.getTags 
+2026-03-13 22:46:54.631 [error] Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/   [           eb] TagsGitSubProvider.getTags — failed [10ms]
+2026-03-13 22:46:54.631 [error] Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/   [           ed] TagsGitSubProvider.getTags — failed [0ms]
+2026-03-13 22:46:54.643 [info]    [GIT      10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/ [10ms]
+2026-03-13 22:47:22.337 [info]    [GIT      10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-list --max-parents=0 HEAD -- [10ms]
+2026-03-13 22:47:22.337 [info]    [GIT      10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git shortlog -s --all --no-min-parents --since=1.year.ago [10ms]
+2026-03-13 22:47:22.342 [info]    [   fe →    ff] LocalSharedGkStorageLocationProvider.load Using shared GK path: /Users/kcwen/Library/Application Support/gk
+2026-03-13 22:49:17.351 [info]    [GIT      23ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed [23ms]
+2026-03-13 22:49:17.365 [info]    [GIT      12ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed 2026-03-13T14:49:17.327Z [12ms]
+2026-03-13 22:55:12.273 [info] To enable debug logging, run "GitLens: Enable Debug Logging" or "Developer: Set Log Level..." from the Command Palette
+2026-03-13 22:55:12.273 [error]   [            1] GitLens v17.11.1  activating in Visual Studio Code (1.111.0) on the desktop; mode=production,language='en', logLevel='info', defaultDateLocale='null' (vscode|ca91f8c0c5fe84f2f3d2c82bcda05be29bac208dbfd818ecd7488ed127d75127|eee4649e-e851-40f9-bdb2-8f9556a8f8311773413710106)
+2026-03-13 22:55:12.273 [error]   [            1] GitLens v17.11.1 activated [25ms]
+2026-03-13 22:55:12.273 [info]    [   6e →    6f] LocalGitProvider.findGit Git (2.50.1 (Apple Git-155)) found in /usr/bin/git [173ms]
+2026-03-13 22:55:12.273 [info]    [   6e →    98] LocalGitProvider.repositorySearch(/Users/kcwen/Documents/02_Projects/syncrex-site) searching (depth=1)...
+2026-03-13 22:55:12.273 [info]    [IPC          ] Server started on http://127.0.0.1:52818
+2026-03-13 22:55:12.278 [info]    [GIT      18ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree [18ms]
+2026-03-13 22:55:12.285 [info]    [   6e →    98] LocalGitProvider.repositorySearch(/Users/kcwen/Documents/02_Projects/syncrex-site) found root repository in '/Users/kcwen/Documents/02_Projects/syncrex-site'
+2026-03-13 22:55:12.307 [info]    [GIT      17ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree [17ms]
+2026-03-13 22:55:12.309 [info]    [GIT      14ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git remote -v [14ms]
+2026-03-13 22:55:12.753 [warning] [    a →     b] ServerConnection.fetch(url=https://configs.gitkraken.dev/gitlens/product.json, options=undefined) completed [*681ms] (slow)
+2026-03-13 22:55:12.753 [warning] [    9 →     a] ServerConnection.fetchGkConfig(path=product.json, options=undefined) completed [*681ms] (slow)
+2026-03-13 22:55:13.493 [warning] [   84 →    97] GkCliIntegrationProvider.checkCliUpdateRequired completed [*1380ms] (slow)
+2026-03-13 22:55:13.493 [info]    [CLI          ] CLI core version is 3.1.54
+2026-03-13 22:55:14.619 [warning] [   cb →    cc] VSCodeGkMcpProvider.getMcpConfigurationFromCLICore completed [*1848ms] (slow)
+2026-03-13 22:55:14.619 [warning] [   ca →    cb] VSCodeGkMcpProvider.getMcpConfigurationFromCLI completed [*1848ms] (slow)
+2026-03-13 22:55:14.619 [warning] [   84 →    ca] VSCodeGkMcpProvider.provideMcpServerDefinitions({"isCancellationRequested":false}) returned [{"label":"GitKraken","command":"/Users/kcwen/Library/Application Support/Code/User/globalStorage/eamodio.gitlens/gk","args":["mcp","--host=vscode","--source=gitlens","--scheme=vscode"],"env":{"GK_GL_PATH":"/var/folders/tx/0q2qm67n5_786kc87nv2lcxw0000gn/T/gitkraken/gitlens/gitlens-ipc-server-90118-52818.json"},"version":"3.1.54"}] [*1849ms] (slow)
+2026-03-13 22:55:47.318 [info]    [GIT      21ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-list --max-parents=0 HEAD -- [21ms]
+2026-03-13 22:55:47.320 [info]    [GIT      21ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git shortlog -s --all --no-min-parents --since=1.year.ago [21ms]
+2026-03-13 22:55:47.321 [info]    [   f3 →    f4] LocalSharedGkStorageLocationProvider.load Using shared GK path: /Users/kcwen/Library/Application Support/gk
+2026-03-13 22:57:42.315 [info]    [GIT      18ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get-regex -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config ^branch\..*\.gk-last-(accessed|modified)$ [18ms]
+2026-03-13 22:57:42.315 [info]    [GIT      21ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ [21ms]
+2026-03-13 22:57:42.331 [info]    [GIT      13ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed [13ms]
+2026-03-13 22:57:42.343 [info]    [GIT      11ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed 2026-03-13T14:57:42.316Z [11ms]
+2026-03-13 22:59:34.511 [info]    [GIT      10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/ [10ms]

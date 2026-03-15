@@ -1,0 +1,37 @@
+2026-03-13 22:41:09.632 [info] [         14ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree
+2026-03-13 22:41:09.649 [info] [          8ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git remote -v
+2026-03-13 22:41:09.650 [info] [         11ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree
+2026-03-13 22:41:44.663 [info] [         24ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-list --max-parents=0 HEAD --
+2026-03-13 22:41:44.665 [info] [         24ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git shortlog -s --all --no-min-parents --since=1.year.ago
+2026-03-13 22:42:14.348 [error] [          8ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ • FAILED
+Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/
+2026-03-13 22:42:14.365 [info] [         10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get-regex ^branch\..*\.gk-
+2026-03-13 22:42:14.372 [info] [          7ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get-regex -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config ^branch\..*\.gk-last-(accessed|modified)$
+2026-03-13 22:42:14.375 [error] [          1ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • FAILED
+Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --abbrev-ref --symbolic-full-name @ @{u} --
+2026-03-13 22:42:14.384 [info] [          8ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/
+2026-03-13 22:42:14.394 [info] [         10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/
+2026-03-13 22:43:39.656 [info] [         18ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed
+2026-03-13 22:43:39.672 [info] [         14ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed 2026-03-13T14:43:39.634Z
+2026-03-13 22:46:47.319 [info] [         22ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree
+2026-03-13 22:46:47.338 [info] [         14ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree
+2026-03-13 22:46:47.349 [info] [         20ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git remote -v
+2026-03-13 22:46:54.617 [info] [         16ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get-regex -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config ^branch\..*\.gk-last-(accessed|modified)$
+2026-03-13 22:46:54.620 [info] [         21ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/
+2026-03-13 22:46:54.631 [error] [          9ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/ • FAILED
+Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/
+2026-03-13 22:46:54.643 [info] [         10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/
+2026-03-13 22:47:22.337 [info] [         10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-list --max-parents=0 HEAD --
+2026-03-13 22:47:22.337 [info] [         10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git shortlog -s --all --no-min-parents --since=1.year.ago
+2026-03-13 22:49:17.351 [info] [         23ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed
+2026-03-13 22:49:17.365 [info] [         12ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed 2026-03-13T14:49:17.327Z
+2026-03-13 22:55:12.285 [info] [         18ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree
+2026-03-13 22:55:12.307 [info] [         17ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree
+2026-03-13 22:55:12.309 [info] [         14ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git remote -v
+2026-03-13 22:55:47.318 [info] [         21ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git rev-list --max-parents=0 HEAD --
+2026-03-13 22:55:47.320 [info] [         21ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git shortlog -s --all --no-min-parents --since=1.year.ago
+2026-03-13 22:57:42.315 [info] [         18ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get-regex -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config ^branch\..*\.gk-last-(accessed|modified)$
+2026-03-13 22:57:42.315 [info] [         21ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/
+2026-03-13 22:57:42.331 [info] [         13ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config --get -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed
+2026-03-13 22:57:42.343 [info] [         11ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git config -f /Users/kcwen/Documents/02_Projects/syncrex-site/.git/gk/config branch.main.gk-last-accessed 2026-03-13T14:57:42.316Z
+2026-03-13 22:59:34.511 [info] [         10ms] [/Users/kcwen/Documents/02_Projects/syncrex-site] git for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/

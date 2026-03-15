@@ -1,0 +1,7 @@
+2026-03-13 22:41:59.309 [error] Failed to set sticky bit on /private/var/folders/tx/0q2qm67n5_786kc87nv2lcxw0000gn/T/kcwen-code-zsh: Error: ENOENT: no such file or directory, chmod '/private/var/folders/tx/0q2qm67n5_786kc87nv2lcxw0000gn/T/kcwen-code-zsh'
+2026-03-13 22:46:45.194 [info] Expanding terminal instance, old id 2577cab4133bca4361e8cde7223776f0-1 -> new id undefined
+2026-03-13 22:46:45.581 [info] Persistent process reconnection "1"
+2026-03-13 22:46:45.590 [info] Persistent process "1": Replaying 1340 chars and 1 size events
+2026-03-13 22:55:10.525 [info] Expanding terminal instance, old id 2577cab4133bca4361e8cde7223776f0-1 -> new id undefined
+2026-03-13 22:55:10.704 [info] Persistent process reconnection "1"
+2026-03-13 22:55:10.708 [info] Persistent process "1": Replaying 1340 chars and 1 size events

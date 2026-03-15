@@ -1,0 +1,44 @@
+---
+title: "Callout 组件样式演示"
+description: "展示如何在博客文章中使用四种不同状态的提示框组件。"
+pubDate: 2026-03-15
+isDraft: false
+updates:
+  - date: 2026-03-15
+    content: "初始化 Callout 组件示例。"
+    type: "note"
+---
+
+在撰写“Mac 从零配置指南”时，不同级别的提示信息极其重要。以下是 `Callout` 组件的四种状态演示：
+
+## 1. 默认信息提示 (Info)
+
+如果你不传 `type`，默认就是 `info`。适合放置补充说明或前置阅读引导。
+
+{% callout title="阅读提示" %}
+本文主要分享我配置全新 Mac 的核心思路。如果你想直接复刻我的环境，请直接查看我的 👉 [Mac 配置硬核操作日志](./mac-setup-raw-log)。
+{% /callout %}
+
+## 2. 技巧提示 (Tip)
+
+设置 `type="tip"`。适合分享快捷键、效率工具等。
+
+{% callout type="tip" title="效率小技巧" %}
+在终端中使用 `Cmd + K` 可以快速清屏，这比输入 `clear` 命令要快得多。
+{% /callout %}
+
+## 3. 警告提示 (Warning)
+
+设置 `type="warning"`。适合提醒读者某个操作可能带来副作用（比如在日志版本中给出预警）。
+
+{% callout type="warning" title="⚠️ 预警：这是一份未经粉饰的 Raw Log" %}
+这篇文章包含大量的代码块和繁琐的细节，主要用作我个人的备忘录。阅读体验较差，请做好心理准备。
+{% /callout %}
+
+## 4. 危险提示 (Danger)
+
+设置 `type="danger"`。适合极其危险的终端操作提醒。**并且，这个组件允许不带 Title！**
+
+{% callout type="danger" %}
+在执行 `rm -rf` 之前，请务必确认你所在的目录！强烈建议不要在根目录下尝试此命令。
+{% /callout %}

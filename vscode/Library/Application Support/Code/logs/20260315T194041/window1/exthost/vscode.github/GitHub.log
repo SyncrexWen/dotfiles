@@ -1,0 +1,2 @@
+2026-03-15 19:40:43.871 [info] Log level: Info
+2026-03-15 19:40:43.889 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.

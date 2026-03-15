@@ -1,0 +1,146 @@
+{
+  // ==========================================
+  // Theme & Appearance
+  // ==========================================
+  "workbench.colorTheme": "Catppuccin Frappé",
+  "workbench.iconTheme": "catppuccin-vsc-icons",
+  "editor.fontFamily": "'Fira Code', 'Jetbrains Mono', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 18,
+  "editor.lineHeight": 1.5,
+
+  // ==========================================
+  // Editor Core
+  // ==========================================
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "files.autoSave": "onFocusChange",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.minimap.enabled": false,
+
+  // ==========================================
+  // Python
+  // ==========================================
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit",
+    },
+  },
+  "jupyter.alwaysTrustNotebooks": true,
+
+  // ==========================================
+  // Golang
+  // ==========================================
+  "[go]": {
+    "editor.defaultFormatter": "golang.go",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit",
+    },
+  },
+  "gopls": {
+    "formatting.gofumpt": true,
+  },
+
+  // ==========================================
+  // Astro, HTML & Prettier
+  // ==========================================
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[astro]": {
+    "editor.defaultFormatter": "astro-build.astro-vscode",
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "astro": "html",
+  },
+
+  // ==========================================
+  // Markdown
+  // ==========================================
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+  },
+  // ==========================================
+  // Latex Workshop
+  // ==========================================
+  "latex-workshop.latex.autoBuild.run": "onSave",
+  "latex-workshop.view.pdf.viewer": "tab",
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-pdf",
+        "-outdir=%OUTDIR%",
+        "%DOC%",
+      ],
+    },
+    {
+      "name": "xelatex",
+      "command": "xelatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%",
+      ],
+    },
+    {
+      "name": "bibtex",
+      "command": "bibtex",
+      "args": ["%DOCFILE%"],
+    },
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk 🔃",
+      "tools": ["latexmk"],
+    },
+    {
+      "name": "xelatex -> bibtex -> xelatex*2",
+      "tools": ["xelatex", "bibtex", "xelatex", "xelatex"],
+    },
+  ],
+  "latex-workshop.latex.clean.fileTypes": [
+    "*.aux",
+    "*.bbl",
+    "*.blg",
+    "*.idx",
+    "*.ind",
+    "*.lof",
+    "*.lot",
+    "*.out",
+    "*.toc",
+    "*.acn",
+    "*.acr",
+    "*.alg",
+    "*.glg",
+    "*.glo",
+    "*.gls",
+    "*.ist",
+    "*.fls",
+    "*.log",
+    "*.fdb_latexmk",
+    "*.synctex.gz",
+  ],
+  "latex-workshop.latex.autoClean.run": "onBuilt",
+
+  // ==========================================
+  // Other Extensions
+  // ==========================================
+
+  // ErrorLens
+  "errorLens.delay": 300,
+  "errorLens.fontStyleItalic": true,
+
+  // Paste Image
+  "pasteImage.path": "${documentWorkspaceFolder}/.assets/images/${documentBaseName}",
+  "pasteImage.prefix": "/",
+
+  // Auto Rename Tag
+  "auto-rename-tag.activationOnLanguage": ["html", "xml", "astro"],
+}

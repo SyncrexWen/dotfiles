@@ -1,0 +1,229 @@
+2026-03-15 19:03:20.867 [info] Extension host with pid 86987 started
+2026-03-15 19:03:20.867 [info] Skipping acquiring lock for /Users/kcwen/Library/Application Support/Code/User/workspaceStorage/2577cab4133bca4361e8cde7223776f0.
+2026-03-15 19:03:20.901 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-15 19:03:20.910 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2026-03-15 19:03:20.913 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-15 19:03:20.918 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editsAgent'
+2026-03-15 19:03:21.284 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-03-15 19:03:21.320 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2026-03-15 19:03:21.328 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-03-15 19:03:21.376 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2026-03-15 19:03:21.901 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-15 19:03:21.901 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2026-03-15 19:03:21.916 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-03-15 19:03:21.925 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: true, activationEvent: 'workspaceContains:README.md'
+2026-03-15 19:03:21.973 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2026-03-15 19:03:21.987 [info] ExtensionService#_doActivateExtension astro-build.astro-vscode, startup: true, activationEvent: 'workspaceContains:astro.config.*'
+2026-03-15 19:03:22.248 [info] Eager extensions activated
+2026-03-15 19:03:22.277 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:03:22.278 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:03:22.284 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:03:22.297 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:03:22.299 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:03:22.360 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:03:22.396 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:03:22.397 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:03:23.702 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1370:2453)
+    at Rce.updateCachedToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:2753:8797)
+2026-03-15 19:03:23.703 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1370:2453)
+    at ok._fetchModels (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:6546:4429)
+2026-03-15 19:03:27.019 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-15 19:03:27.023 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-15 19:03:27.030 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-03-15 19:04:37.356 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2026-03-15 19:04:54.449 [warning] TextEditor is closed/disposed
+2026-03-15 19:04:54.486 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2026-03-15 19:04:59.048 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-03-15 19:05:03.247 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1370:2453)
+    at Rce.updateCachedToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:2753:8797)
+2026-03-15 19:05:04.974 [warning] TextEditor is closed/disposed
+2026-03-15 19:05:11.202 [warning] TextEditor is closed/disposed
+2026-03-15 19:05:19.903 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1370:2453)
+    at Rce.updateCachedToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:2753:8797)
+2026-03-15 19:05:39.287 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1370:2453)
+    at Rce.updateCachedToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:2753:8797)
+2026-03-15 19:06:12.243 [warning] TextEditor is closed/disposed
+2026-03-15 19:06:15.046 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1370:2453)
+    at Rce.updateCachedToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:2753:8797)
+2026-03-15 19:06:25.278 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1370:2453)
+    at Rce.updateCachedToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:2753:8797)
+2026-03-15 19:06:25.795 [warning] TextEditor is closed/disposed
+2026-03-15 19:06:26.261 [warning] TextEditor is closed/disposed
+2026-03-15 19:06:26.830 [warning] TextEditor is closed/disposed
+2026-03-15 19:06:27.289 [warning] TextEditor is closed/disposed
+2026-03-15 19:06:27.764 [warning] TextEditor is closed/disposed
+2026-03-15 19:06:28.285 [warning] TextEditor is closed/disposed
+2026-03-15 19:06:28.875 [warning] TextEditor is closed/disposed
+2026-03-15 19:06:34.261 [warning] TextEditor is closed/disposed
+2026-03-15 19:07:56.975 [warning] TextEditor is closed/disposed
+2026-03-15 19:09:05.528 [warning] TextEditor is closed/disposed
+2026-03-15 19:09:11.261 [warning] TextEditor is closed/disposed
+2026-03-15 19:11:40.752 [warning] TextEditor is closed/disposed
+2026-03-15 19:12:04.090 [warning] TextEditor is closed/disposed
+2026-03-15 19:12:11.880 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1370:2453)
+    at Rce.updateCachedToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:2753:8797)
+2026-03-15 19:12:53.029 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1370:2453)
+    at Rce.updateCachedToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:2753:8797)
+2026-03-15 19:14:29.918 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:1370:2453)
+    at Rce.updateCachedToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.0/dist/extension.js:2753:8797)
+2026-03-15 19:14:32.389 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-15 19:14:32.414 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2026-03-15 19:14:32.421 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:521:147202)
+    at be.<anonymous> (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:490:34327)
+    at be.dispose (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:490:34404)
+    at Object.dispose (/Users/kcwen/.vscode/extensions/eamodio.gitlens-17.11.1/dist/gitlens.js:1641:17210)
+    at /Users/kcwen/.vscode/extensions/eamodio.gitlens-17.11.1/dist/gitlens.js:2430:58982
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/Users/kcwen/.vscode/extensions/eamodio.gitlens-17.11.1/dist/gitlens.js:2430:58963)
+    at yn (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:401:736)
+    at Wk._fn (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:18387)
+    at Wk.dispose (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:401:1248)
+    at ck._deactivate (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:14704)
+    at file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:12006
+    at Array.map (<anonymous>)
+    at ck._deactivateAll (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:11994)
+    at ck.terminate (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:12345)
+    at r.terminate (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:500:1072)
+    at Fs (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:800:11700)
+    at MessagePortMain.<anonymous> (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:800:8122)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+2026-03-15 19:14:32.426 [info] Extension host with pid 86987 exiting with code 0
+2026-03-15 19:14:32.948 [info] Extension host with pid 87494 started
+2026-03-15 19:14:32.948 [info] Skipping acquiring lock for /Users/kcwen/Library/Application Support/Code/User/workspaceStorage/2577cab4133bca4361e8cde7223776f0.
+2026-03-15 19:14:32.997 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-15 19:14:33.007 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2026-03-15 19:14:33.009 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-15 19:14:33.014 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editsAgent'
+2026-03-15 19:14:33.408 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2026-03-15 19:14:33.417 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-03-15 19:14:33.432 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-03-15 19:14:33.465 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2026-03-15 19:14:33.986 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-15 19:14:33.986 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2026-03-15 19:14:33.997 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-03-15 19:14:34.004 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: true, activationEvent: 'workspaceContains:README.md'
+2026-03-15 19:14:34.049 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2026-03-15 19:14:34.060 [info] ExtensionService#_doActivateExtension astro-build.astro-vscode, startup: true, activationEvent: 'workspaceContains:astro.config.*'
+2026-03-15 19:14:34.292 [info] Eager extensions activated
+2026-03-15 19:14:34.293 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:14:34.298 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:14:34.303 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:14:34.314 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:14:34.316 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:14:34.370 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:14:34.403 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:14:34.403 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:14:35.825 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:1370:2453)
+    at Rce.updateCachedToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:2753:8797)
+2026-03-15 19:14:35.826 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:1370:2453)
+    at ok._fetchModels (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:6546:4429)
+2026-03-15 19:14:39.095 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-15 19:14:39.099 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-15 19:14:39.106 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-03-15 19:17:18.743 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2026-03-15 19:17:29.930 [error] Error: GitHubLoginFailed
+    at xee._authShowWarnings (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:1656:18618)
+    at xee.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:1656:16336)
+    at hme.getCopilotToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:1370:2453)
+    at Rce.updateCachedToken (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:2753:8797)
+2026-03-15 19:17:30.043 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-03-15 19:17:30.872 [warning] TextEditor is closed/disposed
+2026-03-15 19:18:13.356 [warning] TextEditor is closed/disposed
+2026-03-15 19:20:01.486 [warning] TextEditor is closed/disposed
+2026-03-15 19:39:48.953 [info] ExtensionService#_doActivateExtension drcika.apc-extension, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 19:39:48.955 [error] Activating extension drcika.apc-extension failed due to an error:
+2026-03-15 19:39:48.956 [error] TypeError: Cannot read properties of undefined (reading 'filename')
+    at Object.<anonymous> (/Users/kcwen/.vscode/extensions/drcika.apc-extension-0.4.1/dist/patch.js:17:52)
+    at Module._compile (node:internal/modules/cjs/loader:1714:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1848:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+    at Module.c._load (node:electron/js2c/node_init:2:17993)
+    at Module.r._load (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:800:6589)
+    at Module.e._load (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:618:28611)
+    at Module.n._load (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:610:25255)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+    at Module.require (node:internal/modules/cjs/loader:1470:12)
+    at Module.require (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:428:36340)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (/Users/kcwen/.vscode/extensions/drcika.apc-extension-0.4.1/dist/extension.js:7:17)
+    at Module._compile (node:internal/modules/cjs/loader:1714:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1848:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+    at Module.c._load (node:electron/js2c/node_init:2:17993)
+    at Module.r._load (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:800:6589)
+    at Module.e._load (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:618:28611)
+    at Module.n._load (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:610:25255)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+    at Module.require (node:internal/modules/cjs/loader:1470:12)
+    at Module.require (/Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1/dist/extension.js:428:36340)
+    at require (node:internal/modules/helpers:147:16)
+    at ck._doLoadModule (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:649:1614)
+2026-03-15 19:39:59.659 [info] ExtensionService#_doActivateExtension stripe.markdoc-language-support, startup: false, activationEvent: 'onLanguage:markdoc'
+2026-03-15 19:40:38.662 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-15 19:40:38.675 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2026-03-15 19:40:38.681 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:521:147202)
+    at be.<anonymous> (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:490:34327)
+    at be.dispose (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:490:34404)
+    at Object.dispose (/Users/kcwen/.vscode/extensions/eamodio.gitlens-17.11.1/dist/gitlens.js:1641:17210)
+    at /Users/kcwen/.vscode/extensions/eamodio.gitlens-17.11.1/dist/gitlens.js:2430:58982
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/Users/kcwen/.vscode/extensions/eamodio.gitlens-17.11.1/dist/gitlens.js:2430:58963)
+    at yn (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:401:736)
+    at Wk._fn (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:18387)
+    at Wk.dispose (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:401:1248)
+    at ck._deactivate (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:14704)
+    at file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:12006
+    at Array.map (<anonymous>)
+    at ck._deactivateAll (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:11994)
+    at ck.terminate (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:12345)
+    at r.terminate (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:500:1072)
+    at Fs (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:800:11700)
+    at MessagePortMain.<anonymous> (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:800:8122)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+2026-03-15 19:40:38.686 [info] Extension host with pid 87494 exiting with code 0

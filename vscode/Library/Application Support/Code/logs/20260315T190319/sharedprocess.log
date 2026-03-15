@@ -1,0 +1,9 @@
+2026-03-15 19:03:24.965 [info] Getting Manifest... github.copilot-chat
+2026-03-15 19:03:26.091 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.111.0","date":"2026-03-06T23:06:10Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/Users/kcwen/.vscode/extensions/extensions.json","path":"/Users/kcwen/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-03-15 19:03:35.032 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 1719ms.
+2026-03-15 19:03:35.298 [info] Extracted extension to file:///Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1: github.copilot-chat
+2026-03-15 19:03:35.307 [info] Renamed to /Users/kcwen/.vscode/extensions/github.copilot-chat-0.39.1
+2026-03-15 19:03:35.324 [info] Marked extension as removed github.copilot-chat-0.39.0
+2026-03-15 19:03:35.327 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/Users/kcwen/.vscode/extensions/extensions.json
+2026-03-15 19:39:48.925 [info] Extensions added from another source drcika.apc-extension vscode-userdata:/Users/kcwen/.vscode/extensions/extensions.json
+2026-03-15 19:39:59.566 [info] Extensions added from another source stripe.markdoc-language-support vscode-userdata:/Users/kcwen/.vscode/extensions/extensions.json
