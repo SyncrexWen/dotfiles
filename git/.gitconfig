@@ -6,6 +6,6 @@
 [init]
 	defaultBranch = main
 [http]
-	proxy = http://127.0.0.1:7890
+	proxy = http://127.0.0.1:9910
 [https]
-	proxy = http://127.0.0.1:7890
+	proxy = http://127.0.0.1:9910
