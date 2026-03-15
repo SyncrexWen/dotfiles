@@ -1,0 +1,19 @@
+2026-03-15 19:40:42.204 [info] [ChatSessionsService] registerContribution called for type='claude-code', canDelegate=true, when='config.github.copilot.chat.claudeAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-15 19:40:42.204 [info] [ChatSessionsService] _enableContribution: type='claude-code', canDelegate=true
+2026-03-15 19:40:42.205 [info] [ChatSessionsService] registerContribution called for type='copilotcli', canDelegate=true, when='config.github.copilot.chat.backgroundAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-15 19:40:42.205 [info] [ChatSessionsService] _enableContribution: type='copilotcli', canDelegate=true
+2026-03-15 19:40:42.205 [info] [ChatSessionsService] registerContribution called for type='copilot-cloud-agent', canDelegate=true, when='config.github.copilot.chat.cloudAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-15 19:40:42.205 [info] [ChatSessionsService] _enableContribution: type='copilot-cloud-agent', canDelegate=true
+2026-03-15 19:40:42.414 [info] Started local extension host with pid 91146.
+2026-03-15 19:40:42.509 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-15 19:40:42.598 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-03-15 19:40:43.128 [error] [Extension Host] (node:91146) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `Code Helper (Plugin) --trace-deprecation ...` to show where the warning was created)
+2026-03-15 19:40:43.128 [error] [Extension Host] (node:91146) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-03-15 19:40:44.675 [info] [perf] Render performance baseline is 9ms
+2026-03-15 19:40:45.718 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:46:16.034 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:53:48.798 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:54:20.806 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:54:35.559 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-15 19:55:22.879 [error] An unknown error occurred. Please consult the log for more details.

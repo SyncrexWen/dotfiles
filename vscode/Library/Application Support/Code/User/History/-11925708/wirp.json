@@ -1,0 +1,81 @@
+{
+  // ==========================================
+  // Theme & Appearance
+  // ==========================================
+  "workbench.colorTheme": "Catppuccin Frappé",
+  "workbench.iconTheme": "catppuccin-vsc-icons",
+  "editor.fontFamily": "'Jetbrains Mono', 'Fira Code', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 18,
+  "editor.lineHeight": 1.5,
+
+  // ==========================================
+  // Editor Core
+  // ==========================================
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "files.autoSave": "onFocusChange",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.minimap.enabled": false,
+
+  // ==========================================
+  // Python
+  // ==========================================
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit",
+    },
+  },
+  "jupyter.alwaysTrustNotebooks": true,
+
+  // ==========================================
+  // Golang
+  // ==========================================
+  "[go]": {
+    "editor.defaultFormatter": "golang.go",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit",
+    },
+  },
+  "gopls": {
+    "formatting.gofumpt": true,
+  },
+
+  // ==========================================
+  // Astro, HTML & Prettier
+  // ==========================================
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[astro]": {
+    "editor.defaultFormatter": "astro-build.astro-vscode",
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "astro": "html",
+  },
+
+  // ==========================================
+  // Markdown & LaTeX
+  // ==========================================
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+  },
+  "latex-workshop.view.pdf.viewer": "tab",
+  "latex-workshop.latex.autoBuild.run": "onSave",
+
+  // ==========================================
+  // Other Extensions
+  // ==========================================
+
+  // ErrorLens
+  "errorLens.delay": 300,
+  "errorLens.fontStyleItalic": true,
+
+  // Paste Image
+  "pasteImage.path": "${documentWorkspaceFolder}/.assets/images/${documentBaseName}",
+  "pasteImage.prefix": "/",
+
+  // Auto Rename Tag
+  "auto-rename-tag.activationOnLanguage": ["html", "xml", "astro"],
+}
