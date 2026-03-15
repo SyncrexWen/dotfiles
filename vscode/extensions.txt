@@ -1,0 +1,39 @@
+# theme
+catppuccin.catppuccin-vsc
+catppuccin.catppuccin-vsc-icons
+
+# general
+esbenp.prettier-vscode
+usernamehw.errorlens
+eamodio.gitlens
+ms-vscode-remote.remote-ssh
+mushan.vscode-paste-image
+drcika.apc-extension
+
+# appearence
+mechatroner.rainbow-csv
+
+# python
+ms-python.python
+ms-toolsai.jupyter
+charliermarsh.ruff
+
+# golang
+golang.go
+
+# latex
+james-yu.latex-workshop
+
+# astro
+astro-build.astro-vscode
+bradlc.vscode-tailwindcss
+
+# markdown
+yzhang.markdown-all-in-one
+
+# markdoc
+stripe.markdoc-language-support
+
+# html
+formulahendry.auto-rename-tag
+
