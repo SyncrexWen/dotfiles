@@ -47,6 +47,7 @@ cask "keepingyouawake"
 cask "mos"
 cask "tailscale"
 cask "the-unarchiver"
+brew "htop"
 
 # ----------------------------------------
 # CLI Tools
