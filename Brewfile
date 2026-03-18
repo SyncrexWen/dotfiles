@@ -22,6 +22,7 @@ cask "notion"
 cask "obsidian"
 cask "updf"
 cask "zotero"
+cask "sublime-text"
 
 # ----------------------------------------
 # Media & Design
