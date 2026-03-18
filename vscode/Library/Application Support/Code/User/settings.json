@@ -3,7 +3,7 @@
   // Theme & Appearance
   // ==========================================
   "workbench.colorTheme": "Catppuccin Frappé",
-  "workbench.iconTheme": "catppuccin-vsc-icons",
+  "workbench.iconTheme": "catppuccin-frappe",
   "catppuccin-icons.associations.languages": {
     "typescriptreact": "typescript-react",
   },
