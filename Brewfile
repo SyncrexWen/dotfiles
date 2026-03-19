@@ -23,11 +23,12 @@ cask "obsidian"
 cask "updf"
 cask "zotero"
 cask "sublime-text"
+cask "anki"
 
 # ----------------------------------------
 # Media & Design
 # ----------------------------------------
-cask "handbrake"
+cask "handbrake-app"
 cask "iina"
 cask "obs"
 cask "qview"
@@ -46,7 +47,7 @@ cask "appcleaner"
 cask "battery-buddy"
 cask "keepingyouawake"
 cask "mos"
-cask "tailscale"
+cask "tailscale-app"
 cask "the-unarchiver"
 brew "htop"
 
