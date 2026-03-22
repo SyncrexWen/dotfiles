@@ -50,6 +50,7 @@ cask "mos"
 cask "tailscale-app"
 cask "the-unarchiver"
 brew "htop"
+cask "keka"
 
 # ----------------------------------------
 # CLI Tools
@@ -58,3 +59,9 @@ brew "jq"
 brew "tldr"
 brew "yt-dlp"
 brew "btop"
+
+# ----------------------------------------
+# Medical Related Tools
+# ----------------------------------------
+cask "horos"
+
