@@ -24,6 +24,7 @@ cask "updf"
 cask "zotero"
 cask "sublime-text"
 cask "anki"
+cask "squirrel-app"
 
 # ----------------------------------------
 # Media & Design
