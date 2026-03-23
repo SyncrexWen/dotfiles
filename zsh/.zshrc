@@ -46,4 +46,7 @@ export PATH="$HOME/go/bin:$PATH"
 # bat: batter cat
 alias cat='bat'
 
+# Character encoding
+export LANG="en_US.UTF-8"
+export LC_ALL="en_US.UTF-8"
 
