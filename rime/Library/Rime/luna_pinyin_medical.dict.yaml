@@ -1,0 +1,4844 @@
+---
+name: luna_pinyin_medical
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+...
+胃炎	wei yan	100
+肠炎	chang yan	100
+便秘	bian mi	100
+感冒	gan mao	100
+食管炎	shi guan yan	100
+阑尾炎	lan wei yan	100
+胃溃疡	wei kui yang	100
+胆囊炎	dan nang yan	100
+肠易激综合征	chang yi ji zong he zheng	100
+胰腺炎	yi xian yan	100
+肺炎	fei yan	100
+肝硬化	gan ying hua	100
+腹泻	fu xie	100
+腹痛	fu tong	100
+腹胀	fu zhang	100
+呕吐	ou tu	100
+恶心	e xin	100
+反流	fan liu	100
+胃肠不适	wei chang bu shi	100
+胃痛	wei tong	100
+打嗝	da ge	100
+发热	fa re	100
+消化不良	xiao hua bu liang	100
+稀便	xi bian	100
+痔疮	zhi chuang	100
+螺旋杆菌感染	luo xuan gan jun gan ran	100
+烧心	shao xin	100
+便血	bian xie	100
+胃肠功能紊乱	wei chang gong neng wen luan	100
+食欲不振	shi yu bu zhen	100
+排气	pai qi	100
+肠鸣	chang ming	100
+乏力	fa li	100
+痉挛	jing luan	100
+黑便	hei bian	100
+头晕	tou yun	100
+咳嗽	ke sou	100
+肛周疼痛	gang zhou teng tong	100
+头痛	tou tong	100
+焦躁	jiao zao	100
+过敏	guo min	100
+有痰	you tan	100
+饥饿感	ji e gan	100
+粘便	zhan bian	100
+背痛	bei tong	100
+脱水	tuo shui	100
+咽部痛	yan bu tong	100
+胸痛	xiong tong	100
+口苦	kou ku	100
+菌群失调	jun qun shi tiao	100
+心悸	xin ji	100
+贫血	pin xue	100
+呕血	ou xue	100
+体重下降	ti zhong xia jiang	100
+尿频	niao pin	100
+寒战	han zhan	100
+肠梗阻	chang geng zu	100
+吞咽困难	tun yan kun nan	100
+尿急	niao ji	100
+细菌感染	xi jun gan ran	100
+呼吸困难	hu xi kun nan	100
+水肿	shui zhong	100
+气促	qi cu	100
+鼻塞	bi se	100
+精神不振	jing shen bu zhen	100
+黄疸	huang dan	100
+喷嚏	pen ti	100
+里急后重	li ji hou zhong	100
+四肢麻木	si zhi ma mu	100
+月经紊乱	yue jing wen luan	100
+嗜睡	shi shui	100
+咽部灼烧感	yan bu zhuo shao gan	100
+肌肉酸痛	ji rou suan tong	100
+淋巴结肿大	lin ba jie zhong da	100
+奥美	ao mei	100
+吗丁啉	ma ding lin	100
+莫沙必利	mo sha bi li	100
+雷呗	lei bei	100
+益生菌	yi sheng jun	100
+达喜	da xi	100
+蒙脱石散	meng tuo shi san	100
+整肠生	zheng chang sheng	100
+阿莫西林	a mo xi lin	100
+曲美布汀	qu mei bu ting	100
+健胃消食片	jian wei xiao shi pian	100
+乳酸菌素	ru suan jun su	100
+抗生素	kang sheng su	100
+诺氟沙星	nuo fu sha xing	100
+乳果糖	ru guo tang	100
+藿香正气丸	huo xiang zheng qi wan	100
+泮托拉唑	pan tuo la zuo	100
+左氧氟沙星	zuo yang fu sha xing	100
+培菲康	pei fei kang	100
+开塞露	kai sai lu	100
+金双歧	jin shuang qi	100
+思密达	si mi da	100
+铝碳酸镁	lv tan suan mei	100
+肠溶胶囊	chang rong jiao nang	100
+克拉霉素	ke la mei su	100
+兰索拉唑	lan suo la zuo	100
+多潘立酮	duo pan li tong	100
+果胶铋	guo jiao bi	100
+马来酸曲美布汀	ma lai suan qu mei bu ting	100
+耐信	nai xin	100
+三九胃泰	san jiu wei tai	100
+复方消化酶	fu fang xiao hua mei	100
+胃复安	wei fu an	100
+颠茄片	dian jia pian	100
+胶体果胶铋	jiao ti guo jiao bi	100
+康复新液	kang fu xin ye	100
+诺氟沙星胶囊	nuo fu sha xing jiao nang	100
+布洛芬	bu luo fen	100
+甲硝唑	jia xiao zuo	100
+胃苏	wei su	100
+马来酸曲美布汀片	ma lai suan qu mei bu ting pian	100
+斯达舒	si da shu	100
+硫糖铝	liu tang lv	100
+四磨汤	si mo tang	100
+健脾丸	jian pi wan	100
+马来酸曲美布丁	ma lai suan qu mei bu ding	100
+得舒特	de shu te	100
+多酶片	duo mei pian	100
+补脾益肠丸	bu pi yi chang wan	100
+肠胃康	chang wei kang	100
+香砂养胃丸	xiang sha yang wei wan	100
+嗜酸乳杆菌	shi suan ru gan jun	100
+谷氨酰胺肠溶胶囊	gu an xian an chang rong jiao nang	100
+莫沙比利	mo sha bi li	100
+磷酸铝	lin suan lv	100
+泌特	mi te	100
+山莨菪碱	shan lang dang jian	100
+思连康	si lian kang	100
+瑞巴派特	rui ba pai te	100
+消炎利胆片	xiao yan li dan pian	100
+吗叮咛	ma ding ning	100
+人参健脾丸	ren shen jian pi wan	100
+​胃镜	​ wei jing	100
+肠镜	chang jing	100
+便常规	bian chang gui	100
+血常规	xue chang gui	100
+B超	B chao	100
+CT	CT	100
+腹部彩超	fu bu cai chao	100
+糖尿病	tang niao bing	100
+钡餐	bei can	100
+结肠镜	jie chang jing	100
+转氨酶	zhuan an mei	100
+尿常规	niao chang gui	100
+呼气实验	hu qi shi yan	100
+胶囊内镜	jiao nang nei jing	100
+胃蛋白酶	wei dan bai mei	100
+肛门镜	gang men jing	100
+尿检	niao jian	100
+腹腔镜	fu qiang jing	100
+小肠镜	xiao chang jing	100
+肝胆胰脾超声	gan dan yi pi chao sheng	100
+死亡	si wang	100
+缓解	huan jie	100
+预防	yu fang	100
+损害	sun hai	100
+疾病	ji bing	100
+手术	shou shu	100
+病人	bing ren	100
+感染	gan ran	100
+症状	zheng zhuang	100
+医学	yi xue	100
+诊断	zhen duan	100
+防治	fang zhi	100
+辐射	fu she	100
+敏感	min gan	100
+药物	yao wu	100
+部位	bu wei	100
+康复	kang fu	100
+营养	ying yang	100
+流行	liu xing	100
+医疗机构	yi liao ji gou	100
+急救	ji jiu	100
+血液	xue ye	100
+皮肤	pi fu	100
+临床	lin chuang	100
+保健	bao jian	100
+残疾	can ji	100
+救护车	jiu hu che	100
+抑制	yi zhi	100
+视觉	shi jue	100
+良性	liang xing	100
+样本	yang ben	100
+不适	bu shi	100
+疫情	yi qing	100
+身高	shen gao	100
+中医	zhong yi	100
+体内	ti nei	100
+损伤	sun shang	100
+消化	xiao hua	100
+怀孕	huai yun	100
+积水	ji shui	100
+病毒	bing du	100
+心脏	xin zang	100
+体重	ti zhong	100
+恶性	e xing	100
+神经	shen jing	100
+癌症	ai zheng	100
+骨折	gu zhe	100
+致死	zhi si	100
+消毒	xiao du	100
+疲劳	pi lao	100
+呼吸	hu xi	100
+疼痛	teng tong	100
+基因	ji yin	100
+瘫痪	tan huan	100
+昏迷	hun mi	100
+伤口	shang kou	100
+外科	wai ke	100
+高血压	gao xue ya	100
+心脏病	xin zang bing	100
+中毒	zhong du	100
+肢体	zhi ti	100
+中药	zhong yao	100
+生理	sheng li	100
+大脑	da nao	100
+肿瘤	zhong liu	100
+发育	fa yu	100
+按摩	an mo	100
+呼吸道	hu xi dao	100
+萎缩	wei suo	100
+弹性	tan xing	100
+肌肉	ji rou	100
+体质	ti zhi	100
+器官	qi guan	100
+再生	zai sheng	100
+治愈	zhi yu	100
+出血	chu xie	100
+发作	fa zuo	100
+急诊	ji zhen	100
+血压	xue ya	100
+发烧	fa shao	100
+传染病	chuan ran bing	100
+移植	yi zhi	100
+细菌	xi jun	100
+注射	zhu she	100
+疫苗	yi miao	100
+慢性	man xing	100
+急性	ji xing	100
+矫正	jiao zheng	100
+血管	xue guan	100
+颈部	jing bu	100
+视力	shi li	100
+诊治	zhen zhi	100
+二氧化碳	er yang hua tan	100
+监护	jian hu	100
+烧伤	shao shang	100
+创伤	chuang shang	100
+分化	fen hua	100
+细胞	xi bao	100
+发病率	fa bing lv	100
+白血病	bai xue bing	100
+外伤	wai shang	100
+新生儿	xin sheng er	100
+艾滋病	ai zi bing	100
+大腿	da tui	100
+流泪	liu lei	100
+内科	nei ke	100
+精神病	jing shen bing	100
+脂肪	zhi fang	100
+激光	ji guang	100
+化验	hua yan	100
+儿科	er ke	100
+根治	gen zhi	100
+生命体征	sheng ming ti zheng	100
+防疫	fang yi	100
+传染	chuan ran	100
+窒息	zhi xi	100
+并发症	bing fa zheng	100
+体温	ti wen	100
+畸形	ji xing	100
+硬化	ying hua	100
+蛋白质	dan bai zhi	100
+骨头	gu tou	100
+标本	biao ben	100
+口腔	kou qiang	100
+饱和	bao he	100
+晚期	wan qi	100
+错位	cuo wei	100
+四肢	si zhi	100
+肝脏	gan zang	100
+阳性	yang xing	100
+高危	gao wei	100
+献血	xian xie	100
+后遗症	hou yi zheng	100
+处方	chu fang	100
+免疫力	mian yi li	100
+鉴别	jian bie	100
+胎儿	tai er	100
+急诊科	ji zhen ke	100
+低位	di wei	100
+骨科	gu ke	100
+复发	fu fa	100
+遗传	yi chuan	100
+输血	shu xue	100
+慢性病	man xing bing	100
+中风	zhong feng	100
+失眠	shi mian	100
+病因	bing yin	100
+舌尖	she jian	100
+脉络	mai luo	100
+微生物	wei sheng wu	100
+病变	bing bian	100
+包扎	bao za	100
+猝死	cu si	100
+关节	guan jie	100
+心痛	xin tong	100
+衰竭	shuai jie	100
+失明	shi ming	100
+疗法	liao fa	100
+剂量	ji liang	100
+肾脏	shen zang	100
+擦伤	ca shang	100
+低压	di ya	100
+血糖	xue tang	100
+分娩	fen mian	100
+缺氧	que yang	100
+诱因	you yin	100
+眼科	yan ke	100
+眼眶	yan kuang	100
+挫伤	cuo shang	100
+取样	qu yang	100
+肠胃	chang wei	100
+胶囊	jiao nang	100
+接种	jie zhong	100
+支架	zhi jia	100
+妇产科	fu chan ke	100
+综合征	zong he zheng	100
+流产	liu chan	100
+刺伤	ci shang	100
+肺癌	fei ai	100
+麻木	ma mu	100
+解剖	jie pou	100
+纱布	sha bu	100
+抵抗力	di kang li	100
+放射性物质	fang she xing wu zhi	100
+心血管	xin xue guan	100
+免疫	mian yi	100
+超负荷	chao fu he	100
+隐性	yin xing	100
+妇科	fu ke	100
+不良反应	bu liang fan ying	100
+食物中毒	shi wu zhong du	100
+抑郁症	yi yu zheng	100
+消退	xiao tui	100
+麻醉	ma zui	100
+感染者	gan ran zhe	100
+红肿	hong zhong	100
+激素	ji su	100
+分泌	fen mi	100
+苍白	cang bai	100
+炎症	yan zheng	100
+乳腺癌	ru xian ai	100
+咬伤	yao shang	100
+异物	yi wu	100
+烫伤	tang shang	100
+骨骼	gu ge	100
+胸闷	xiong men	100
+甲醛	jia quan	100
+指甲	zhi jia	100
+紊乱	wen luan	100
+呼吸系统	hu xi xi tong	100
+下肢	xia zhi	100
+咽喉	yan hou	100
+内分泌	nei fen mi	100
+疗程	liao cheng	100
+休克	xiu ke	100
+软组织	ruan zu zhi	100
+机能	ji neng	100
+产后	chan hou	100
+产科	chan ke	100
+大动脉	da dong mai	100
+月经	yue jing	100
+截肢	jie zhi	100
+性行为	xing xing wei	100
+变异	bian yi	100
+肤色	fu se	100
+针灸	zhen jiu	100
+药物治疗	yao wu zhi liao	100
+预防措施	yu fang cuo shi	100
+生殖	sheng zhi	100
+抽搐	chou chu	100
+麻痹	ma bi	100
+肠道	chang dao	100
+游离	you li	100
+紫外线	zi wai xian	100
+反射	fan she	100
+血流	xue liu	100
+先天性	xian tian xing	100
+直接接触	zhi jie jie chu	100
+撕裂	si lie	100
+骨髓	gu sui	100
+肝癌	gan ai	100
+毒素	du su	100
+凹陷	ao xian	100
+先天性心脏病	xian tian xing xin zang bing	100
+阴性	yin xing	100
+病理	bing li	100
+白内障	bai nei zhang	100
+伤疤	shang ba	100
+刺痛	ci tong	100
+职业病	zhi ye bing	100
+药剂	yao ji	100
+拇指	mu zhi	100
+缝合	feng he	100
+呼吸机	hu xi ji	100
+制剂	zhi ji	100
+神经系统	shen jing xi tong	100
+敏感性	min gan xing	100
+心脑血管疾病	xin nao xue guan ji bing	100
+妊娠	ren shen	100
+放射	fang she	100
+止血	zhi xue	100
+动脉	dong mai	100
+幻觉	huan jue	100
+光滑	guang hua	100
+生长发育	sheng zhang fa yu	100
+黏膜	nian mo	100
+尿液	niao ye	100
+微量元素	wei liang yuan su	100
+失调	shi tiao	100
+高危人群	gao wei ren qun	100
+知觉	zhi jue	100
+颈椎	jing chui	100
+医德	yi de	100
+气囊	qi nang	100
+食指	shi zhi	100
+坏死	huai si	100
+嗅觉	xiu jue	100
+生物学	sheng wu xue	100
+突变	tu bian	100
+营养不良	ying yang bu liang	100
+神经外科	shen jing wai ke	100
+气管	qi guan	100
+皮肤病	pi fu bing	100
+肋骨	lei gu	100
+中枢	zhong shu	100
+血脂	xue zhi	100
+重症监护	zhong zheng jian hu	100
+人参	ren shen	100
+近视	jin shi	100
+口服	kou fu	100
+精神障碍	jing shen zhang ai	100
+摄取	she qu	100
+流行病学	liu xing bing xue	100
+子宫	zi gong	100
+早产	zao chan	100
+灼伤	zhuo shang	100
+临床表现	lin chuang biao xian	100
+愈合	yu he	100
+颅脑损伤	lu nao sun shang	100
+软化	ruan hua	100
+腰椎	yao zhui	100
+超生	chao sheng	100
+乙醇	yi chun	100
+皮肤科	pi fu ke	100
+临床医学	lin chuang yi xue	100
+肺结核	fei jie he	100
+中草药	zhong cao yao	100
+血型	xue xing	100
+核酸	he suan	100
+粉碎性骨折	fen sui xing gu zhe	100
+降压	jiang ya	100
+矫治	jiao zhi	100
+咀嚼	ju jue	100
+采血	cai xie	100
+体征	ti zheng	100
+胃癌	wei ai	100
+心电图	xin dian tu	100
+胆固醇	dan gu chun	100
+推拿	tui na	100
+听觉	ting jue	100
+传染性	chuan ran xing	100
+接种疫苗	jie zhong yi miao	100
+微循环	wei xun huan	100
+造血干细胞	zao xue gan xi bao	100
+难产	nan chan	100
+病毒感染	bing du gan ran	100
+中指	zhong zhi	100
+静脉	jing mai	100
+薄膜	bao mo	100
+干细胞	gan xi bao	100
+理疗	li liao	100
+临床试验	lin chuang shi yan	100
+透析	tou xi	100
+间歇性	jian xie xing	100
+免疫系统	mian yi xi tong	100
+喷雾	pen wu	100
+神经内科	shen jing nei ke	100
+心率	xin lv	100
+淋浴	lin yu	100
+头皮	tou pi	100
+伸展	shen zhan	100
+变性	bian xing	100
+抗体	kang ti	100
+流感疫苗	liu gan yi miao	100
+癫痫	dian xian	100
+亚健康	ya jian kang	100
+胃肠道	wei chang dao	100
+溃疡	kui yang	100
+乳房	ru fang	100
+性病	xing bing	100
+潜意识	qian yi shi	100
+避孕	bi yun	100
+精子	jing zi	100
+安眠药	an mian yao	100
+绷带	beng dai	100
+同源	tong yuan	100
+神志不清	shen zhi bu qing	100
+优生	you sheng	100
+兴奋剂	xing fen ji	100
+体外	ti wai	100
+脑出血	nao chu xie	100
+精神科	jing shen ke	100
+眩晕	xuan yun	100
+氨基酸	an ji suan	100
+心脑血管	xin nao xue guan	100
+疫苗接种	yi miao jie zhong	100
+复诊	fu zhen	100
+植物人	zhi wu ren	100
+聋哑	long ya	100
+精神分裂症	jing shen fen lie zheng	100
+酸痛	suan tong	100
+处方药	chu fang yao	100
+偶发	ou fa	100
+潜伏期	qian fu qi	100
+解毒	jie du	100
+传播途径	chuan bo tu jing	100
+毛发	mao fa	100
+消化系统	xiao hua xi tong	100
+肾病	shen bing	100
+浸润	jin run	100
+外科手术	wai ke shou shu	100
+肺病	fei bing	100
+筋骨	jin gu	100
+肩部	jian bu	100
+表皮	biao pi	100
+鼻涕	bi ti	100
+血小板	xue xiao ban	100
+胃病	wei bing	100
+角膜	jiao mo	100
+骨髓移植	gu sui yi zhi	100
+肝病	gan bing	100
+裂纹	lie wen	100
+喘息	chuan xi	100
+鼻腔	bi qiang	100
+哺乳期	bu ru qi	100
+变态	bian tai	100
+产前	chan qian	100
+胸腔	xiong qiang	100
+功能障碍	gong neng zhang ai	100
+绝症	jue zheng	100
+口渴	kou ke	100
+疼痛难忍	teng tong nan ren	100
+无意识	wu yi shi	100
+颜面	yan mian	100
+消炎	xiao yan	100
+宫颈癌	gong jing ai	100
+瘙痒	sao yang	100
+排泄	pai xie	100
+胰岛素	yi dao su	100
+泌尿外科	mi niao wai ke	100
+心理治疗	xin li zhi liao	100
+关节炎	guan jie yan	100
+综合防治	zong he fang zhi	100
+鼻梁	bi liang	100
+乳腺	ru xian	100
+空腹	kong fu	100
+换气	huan qi	100
+鼻炎	bi yan	100
+成活	cheng huo	100
+扭伤	niu shang	100
+排泄物	pai xie wu	100
+腹腔	fu qiang	100
+脾胃	pi wei	100
+综合症	zong he zheng	100
+颈椎病	jing chui bing	100
+肝炎	gan yan	100
+中西医结合	zhong xi yi jie he	100
+学名	xue ming	100
+昏厥	hun jue	100
+携带者	xie dai zhe	100
+结核病	jie he bing	100
+移位	yi wei	100
+温度计	wen du ji	100
+梗阻	geng zu	100
+失血性休克	shi xue xing xiu ke	100
+疾患	ji huan	100
+手足口病	shou zu kou bing	100
+海马	hai ma	100
+毁容	hui rong	100
+临床经验	lin chuang jing yan	100
+试剂	shi ji	100
+脑震荡	nao zhen dang	100
+经络	jing luo	100
+鼻孔	bi kong	100
+骨质疏松	gu zhi shu song	100
+无菌	wu jun	100
+不规则	bu gui ze	100
+健脾	jian pi	100
+肋骨骨折	lei gu gu zhe	100
+甲状腺	jia zhuang xian	100
+显微镜	xian wei jing	100
+肺部感染	fei bu gan ran	100
+疟疾	nve ji	100
+缺血	que xue	100
+寄生虫	ji sheng chong	100
+窗口期	chuang kou qi	100
+呼气	hu qi	100
+湿热	shi re	100
+成熟期	cheng shu qi	100
+葡萄糖	pu tao tang	100
+止痛	zhi tong	100
+阴道	yin dao	100
+味觉	wei jue	100
+显性	xian xing	100
+斑点	ban dian	100
+血性	xue xing	100
+脐带	qi dai	100
+血栓	xue shuan	100
+晕厥	yun jue	100
+健康证	jian kang zheng	100
+排便	pai bian	100
+预防接种	yu fang jie zhong	100
+充血	chong xue	100
+皮疹	pi zhen	100
+气泡	qi pao	100
+膝关节	xi guan jie	100
+假肢	jia zhi	100
+橄榄油	gan lan you	100
+退烧	tui shao	100
+血量	xue liang	100
+偏瘫	pian tan	100
+真皮	zhen pi	100
+交叉感染	jiao cha gan ran	100
+中医科	zhong yi ke	100
+前列腺	qian lie xian	100
+肝功能	gan gong neng	100
+脑血管	nao xue guan	100
+毛细血管	mao xi xue guan	100
+过敏反应	guo min fan ying	100
+免疫功能	mian yi gong neng	100
+血浆	xue jiang	100
+肌腱	ji jian	100
+大肠杆菌	da chang gan jun	100
+耳鸣	er ming	100
+高血压患者	gao xue ya huan zhe	100
+抗菌	kang jun	100
+对症治疗	dui zheng zhi liao	100
+肾功能	shen gong neng	100
+增生	zeng sheng	100
+口腔科	kou qiang ke	100
+肿块	zhong kuai	100
+放射线	fang she xian	100
+雌激素	ci ji su	100
+补肾	bu shen	100
+肛门	gang men	100
+优生优育	you sheng you yu	100
+结石	jie shi	100
+头骨	tou gu	100
+支气管炎	zhi qi guan yan	100
+合作医疗	he zuo yi liao	100
+后脑	hou nao	100
+冻伤	dong shang	100
+生殖器	sheng zhi qi	100
+病程	bing cheng	100
+并指	bing zhi	100
+正常值	zheng chang zhi	100
+血清	xue qing	100
+唾液	tuo ye	100
+颅骨	lu gu	100
+不孕不育	bu yun bu yu	100
+淋巴	lin ba	100
+颅内出血	lu nei chu xue	100
+脑死亡	nao si wang	100
+消化内科	xiao hua nei ke	100
+病死率	bing si lv	100
+梅毒	mei du	100
+狂犬病	kuang quan bing	100
+体液	ti ye	100
+抗衰老	kang shuai lao	100
+动脉硬化	dong mai ying hua	100
+清热解毒	qing re jie du	100
+气短	qi duan	100
+脑梗塞	nao geng se	100
+性功能	xing gong neng	100
+五脏	wu zang	100
+致病菌	zhi bing jun	100
+吞咽	tun yan	100
+卵巢	luan chao	100
+淤血	yu xue	100
+霉菌	mei jun	100
+传染源	chuan ran yuan	100
+乙肝疫苗	yi gan yi miao	100
+卵子	luan zi	100
+补血	bu xue	100
+注射器	zhu she qi	100
+视网膜	shi wang mo	100
+避孕套	bi yun tao	100
+癌变	ai bian	100
+整形手术	zheng xing shou shu	100
+太阳穴	tai yang xue	100
+耳聋	er long	100
+暴饮暴食	bao yin bao shi	100
+触觉	chu jue	100
+整形外科	zheng xing wai ke	100
+耐药性	nai yao xing	100
+盆腔	pen qiang	100
+膀胱	pang guang	100
+胎盘	tai pan	100
+活血	huo xue	100
+湿疹	shi zhen	100
+食道	shi dao	100
+羊水	yang shui	100
+低血糖	di xue tang	100
+心绞痛	xin jiao tong	100
+主动脉	zhu dong mai	100
+检出率	jian chu lv	100
+脂肪肝	zhi fang gan	100
+循环系统	xun huan xi tong	100
+麻疹	ma zhen	100
+适应症	shi ying zheng	100
+中医学	zhong yi xue	100
+高位截瘫	gao wei jie tan	100
+生长期	sheng zhang qi	100
+白细胞	bai xi bao	100
+耐药	nai yao	100
+精液	jing ye	100
+软骨	ruan gu	100
+营养学	ying yang xue	100
+医院感染	yi yuan gan ran	100
+失语	shi yu	100
+迈步	mai bu	100
+心肺功能	xin fei gong neng	100
+中枢神经系统	zhong shu shen jing xi tong	100
+真菌	zhen jun	100
+大肠	da chang	100
+韧带	ren dai	100
+剖宫产	pou gong chan	100
+三七	san qi	100
+小肠	xiao chang	100
+超声波	chao sheng bo	100
+尿素	niao su	100
+消毒液	xiao du ye	100
+药膏	yao gao	100
+家族史	jia zu shi	100
+排尿	pai niao	100
+青紫	qing zi	100
+抗病毒	kang bing du	100
+止痛药	zhi tong yao	100
+灵芝	ling zhi	100
+结核	jie he	100
+带状	dai zhuang	100
+加温	jia wen	100
+蒲公英	pu gong ying	100
+盐酸	yan suan	100
+脾脏	pi zang	100
+腰痛	yao tong	100
+痛风	tong feng	100
+前列腺癌	qian lie xian ai	100
+腰围	yao wei	100
+复位	fu wei	100
+抗病毒药物	kang bing du yao wu	100
+精神失常	jing shen shi chang	100
+当归	dang gui	100
+狂躁	kuang zao	100
+冬虫夏草	dong chong xia cao	100
+粘膜	zhan mo	100
+受体	shou ti	100
+消毒剂	xiao du ji	100
+易感人群	yi gan ren qun	100
+肌肉萎缩	ji rou wei suo	100
+肾结石	shen jie shi	100
+纤维素	xian wei su	100
+板蓝根	ban lan gen	100
+流涕	liu ti	100
+结肠癌	jie chang ai	100
+皮炎	pi yan	100
+肾移植	shen yi zhi	100
+神曲	shen qu	100
+瞳孔	tong kong	100
+骨盆	gu pen	100
+风湿病	feng shi bing	100
+胃酸	wei suan	100
+心肌	xin ji	100
+染色体	ran se ti	100
+虚脱	xu tuo	100
+脑卒中	nao zu zhong	100
+碘盐	dian yan	100
+神经病	shen jing bing	100
+前臂	qian bi	100
+气喘	qi chuan	100
+白加黑	bai jia hei	100
+虎口	hu kou	100
+血液透析	xue ye tou xi	100
+牙龈	ya yin	100
+黄芪	huang qi	100
+过度疲劳	guo du pi lao	100
+遗传学	yi chuan xue	100
+营养液	ying yang ye	100
+再生障碍性贫血	zai sheng zhang ai xing pin xue	100
+抗菌药物	kang jun yao wu	100
+避孕药	bi yun yao	100
+基因突变	ji yin tu bian	100
+供体	gong ti	100
+条件反射	tiao jian fan she	100
+狂犬疫苗	kuang quan yi miao	100
+脱发	tuo fa	100
+内伤	nei shang	100
+血肿	xue zhong	100
+肺气肿	fei qi zhong	100
+性状	xing zhuang	100
+灭菌	mie jun	100
+心衰	xin shuai	100
+五行	wu xing	100
+体格检查	ti ge jian cha	100
+酵母	jiao mu	100
+高血糖	gao xue tang	100
+肿瘤科	zhong liu ke	100
+神经衰弱	shen jing shuai ruo	100
+枇杷	pi pa	100
+红细胞	hong xi bao	100
+药丸	yao wan	100
+肿痛	zhong tong	100
+痛经	tong jing	100
+眼睑	yan jian	100
+过敏体质	guo min ti zhi	100
+结扎	jie za	100
+软组织损伤	ruan zu zhi sun shang	100
+脱皮	tuo pi	100
+糜烂	mi lan	100
+感染率	gan ran lv	100
+叶酸	ye suan	100
+安神	an shen	100
+青光眼	qing guang yan	100
+创可贴	chuang ke tie	100
+口干	kou gan	100
+胶原蛋白	jiao yuan dan bai	100
+心律失常	xin lv shi chang	100
+截面	jie mian	100
+生存率	sheng cun lv	100
+血友病	xue you bing	100
+放射科	fang she ke	100
+败血症	bai xue zheng	100
+健忘	jian wang	100
+不育	bu yu	100
+青霉素	qing mei su	100
+胆囊	dan nang	100
+临床诊断	lin chuang zhen duan	100
+眼药水	yan yao shui	100
+生殖系统	sheng zhi xi tong	100
+心理科	xin li ke	100
+心血管内科	xin xue guan nei ke	100
+痢疾	li ji	100
+脑膜炎	nao mo yan	100
+支气管	zhi qi guan	100
+憋气	bie qi	100
+产前检查	chan qian jian cha	100
+脑病	nao bing	100
+传统医学	chuan tong yi xue	100
+泌尿系统	mi niao xi tong	100
+早期诊断	zao qi zhen duan	100
+骨伤	gu shang	100
+食管	shi guan	100
+阿胶	e jiao	100
+特异性	te yi xing	100
+脊柱	ji zhu	100
+内环境	nei huan jing	100
+尿道	niao dao	100
+黑芝麻	hei zhi ma	100
+子宫肌瘤	zi gong ji liu	100
+催眠	cui mian	100
+关节疼痛	guan jie teng tong	100
+混浊	hun zhuo	100
+金黄色葡萄球菌	jin huang se pu tao qiu jun	100
+宫颈	gong jing	100
+非处方药	fei chu fang yao	100
+原发性	yuan fa xing	100
+糖浆	tang jiang	100
+后放	hou fang	100
+脊髓灰质炎	ji sui hui zhi yan	100
+皮质	pi zhi	100
+病原学	bing yuan xue	100
+骨质	gu zhi	100
+排卵	pai luan	100
+脏腑	zang fu	100
+红斑	hong ban	100
+感染性疾病	gan ran xing ji bing	100
+冠状动脉	guan zhuang dong mai	100
+放射性核素	fang she xing he su	100
+输卵管	shu luan guan	100
+消化科	xiao hua ke	100
+震颤	zhen chan	100
+陈皮	chen pi	100
+遗传性	yi chuan xing	100
+注射剂	zhu she ji	100
+血压计	xue ya ji	100
+夹板	jia ban	100
+洗胃	xi wei	100
+紫外线照射	zi wai xian zhao she	100
+沉香	chen xiang	100
+风油精	feng you jing	100
+起病	qi bing	100
+直肠	zhi chang	100
+厌食	yan shi	100
+化脓	hua nong	100
+水解	shui jie	100
+烦躁不安	fan zao bu an	100
+纹身	wen shen	100
+胃镜	wei jing	100
+肾功能衰竭	shen gong neng shuai jie	100
+乳头	ru tou	100
+胰腺	yi xian	100
+心血管系统	xin xue guan xi tong	100
+防疫站	fang yi zhan	100
+股骨头	gu gu tou	100
+遗传病	yi chuan bing	100
+肾内科	shen nei ke	100
+流行性感冒	liu xing xing gan mao	100
+鼻咽癌	bi yan ai	100
+党参	dang shen	100
+介入治疗	jie ru zhi liao	100
+治疗措施	zhi liao cuo shi	100
+不饱和脂肪酸	bu bao he zhi fang suan	100
+锁骨	suo gu	100
+抑制剂	yi zhi ji	100
+肉毒杆菌	rou du gan jun	100
+肺活量	fei huo liang	100
+妊娠期	ren shen qi	100
+肩周炎	jian zhou yan	100
+酒精中毒	jiu jing zhong du	100
+前列腺炎	qian lie xian yan	100
+化痰	hua tan	100
+母婴传播	mu ying chuan bo	100
+阴茎	yin jing	100
+甲状腺癌	jia zhuang xian ai	100
+气管炎	qi guan yan	100
+薄片	bao pian	100
+人工授精	ren gong shou jing	100
+阿司匹林	a si pi lin	100
+急性白血病	ji xing bai xue bing	100
+上吐下泻	shang tu xia xie	100
+黑豆	hei dou	100
+病征	bing zheng	100
+根茎	gen jing	100
+半身不遂	ban shen bu sui	100
+颧骨	quan gu	100
+结痂	jie jia	100
+吗啡	ma fei	100
+龙骨	long gu	100
+胆汁	dan zhi	100
+阳痿	yang wei	100
+病毒性肝炎	bing du xing gan yan	100
+颈动脉	jing dong mai	100
+脑神经	nao shen jing	100
+脑干	nao gan	100
+咳痰	ke tan	100
+静脉注射	jing mai zhu she	100
+血红蛋白	xue hong dan bai	100
+五官科	wu guan ke	100
+致病性	zhi bing xing	100
+自由基	zi you ji	100
+睡眠障碍	shui mian zhang ai	100
+神经末梢	shen jing mo shao	100
+受精卵	shou jing luan	100
+神经细胞	shen jing xi bao	100
+生殖器官	sheng zhi qi guan	100
+肿瘤细胞	zhong liu xi bao	100
+免疫力低下	mian yi li di xia	100
+朱砂	zhu sha	100
+经脉	jing mai	100
+伤寒	shang han	100
+串珠	chuan zhu	100
+心力衰竭	xin li shuai jie	100
+人工流产	ren gong liu chan	100
+神经科	shen jing ke	100
+缝针	feng zhen	100
+鼻部	bi bu	100
+淋巴瘤	lin ba liu	100
+茯苓	fu ling	100
+妇科检查	fu ke jian cha	100
+颅骨骨折	lu gu gu zhe	100
+囊肿	nang zhong	100
+血管收缩	xue guan shou suo	100
+腹肌	fu ji	100
+泌尿	mi niao	100
+基底	ji di	100
+咽炎	yan yan	100
+黏液	nian ye	100
+先天性疾病	xian tian xing ji bing	100
+髋关节	kuan guan jie	100
+晒伤	shai shang	100
+椎间盘	chui jian pan	100
+血液制品	xue ye zhi pin	100
+阴虚	yin xu	100
+尿酸	niao suan	100
+肾上腺素	shen shang xian su	100
+尸体解剖	shi ti jie pou	100
+凝血	ning xue	100
+感染性腹泻	gan ran xing fu xie	100
+裂隙	lie xi	100
+云南白药	yun nan bai yao	100
+冻疮	dong chuang	100
+黑头	hei tou	100
+肛肠	gang chang	100
+反胃	fan wei	100
+宿主	su zhu	100
+劳损	lao sun	100
+梦游	meng you	100
+麻黄碱	ma huang jian	100
+复方	fu fang	100
+膀胱癌	pang guang ai	100
+拔牙	ba ya	100
+百部	bai bu	100
+伤风	shang feng	100
+荨麻疹	xun ma zhen	100
+钛合金	tai he jin	100
+血块	xue kuai	100
+刮痧	gua sha	100
+辅助生殖技术	fu zhu sheng zhi ji shu	100
+散光	san guang	100
+呼吸衰竭	hu xi shuai jie	100
+物理治疗	wu li zhi liao	100
+股骨	gu gu	100
+截瘫	jie tan	100
+结膜炎	jie mo yan	100
+整形科	zheng xing ke	100
+皮肤癌	pi fu ai	100
+骨病	gu bing	100
+心肌炎	xin ji yan	100
+骨关节	gu guan jie	100
+五脏六腑	wu zang liu fu	100
+动脉粥样硬化	dong mai zhou yang ying hua	100
+冲剂	chong ji	100
+狂犬病疫苗	kuang quan bing yi miao	100
+气管插管	qi guan cha guan	100
+血尿	xue niao	100
+畏寒	wei han	100
+生理盐水	sheng li yan shui	100
+祛斑	qu ban	100
+急性传染病	ji xing chuan ran bing	100
+铅中毒	qian zhong du	100
+支气管哮喘	zhi qi guan xiao chuan	100
+大血管	da xue guan	100
+脑炎	nao yan	100
+内窥镜	nei kui jing	100
+发育迟缓	fa yu chi huan	100
+结肠	jie chang	100
+听诊器	ting zhen qi	100
+急性淋巴细胞白血病	ji xing lin ba xi bao bai xue bing	100
+口臭	kou chou	100
+干咳	gan ke	100
+内分泌失调	nei fen mi shi tiao	100
+药酒	yao jiu	100
+静脉曲张	jing mai qu zhang	100
+命门	ming men	100
+疱疹	pao zhen	100
+应激	ying ji	100
+斑块	ban kuai	100
+血吸虫病	xue xi chong bing	100
+保胎	bao tai	100
+淋巴结	lin ba jie	100
+肾炎	shen yan	100
+肺水肿	fei shui zhong	100
+热敷	re fu	100
+椎体	chui ti	100
+酸碱度	suan jian du	100
+穿山甲	chuan shan jia	100
+栓塞	shuan se	100
+破伤风	po shang feng	100
+乳酸	ru suan	100
+腹股沟	fu gu gou	100
+扇形	shan xing	100
+牙痛	ya tong	100
+抗原	kang yuan	100
+扁豆	bian dou	100
+保护膜	bao hu mo	100
+腋窝	ye wo	100
+麻醉药	ma zui yao	100
+椎骨	chui gu	100
+单发	dan fa	100
+膨大	peng da	100
+中耳炎	zhong er yan	100
+性激素	xing ji su	100
+高度近视	gao du jin shi	100
+白果	bai guo	100
+肺泡	fei pao	100
+牡蛎	mu li	100
+补液	bu ye	100
+肾脏病	shen zang bing	100
+造影	zao ying	100
+鼻尖	bi jian	100
+外翻	wai fan	100
+牙根	ya gen	100
+热水袋	re shui dai	100
+麻醉剂	ma zui ji	100
+水痘	shui dou	100
+活血化瘀	huo xue hua yu	100
+禁忌症	jin ji zheng	100
+蜈蚣	wu gong	100
+生命质量	sheng ming zhi liang	100
+腰腿痛	yao tui tong	100
+放射治疗	fang she zhi liao	100
+早泄	zao xie	100
+胸围	xiong wei	100
+内出血	nei chu xue	100
+痤疮	cuo chuang	100
+腰椎骨折	yao zhui gu zhe	100
+精神萎靡	jing shen wei mi	100
+频谱	pin pu	100
+速效救心丸	su xiao jiu xin wan	100
+自我保健	zi wo bao jian	100
+麦芽	mai ya	100
+泌尿科	mi niao ke	100
+受精	shou jing	100
+声带	sheng dai	100
+生长激素	sheng zhang ji su	100
+帕金森病	pa jin sen bing	100
+心电监护	xin dian jian hu	100
+主诉	zhu su	100
+扁桃体	bian tao ti	100
+体温计	ti wen ji	100
+胎记	tai ji	100
+慢性胃炎	man xing wei yan	100
+凝胶	ning jiao	100
+免疫细胞	mian yi xi bao	100
+口服液	kou fu ye	100
+外展	wai zhan	100
+口腔疾病	kou qiang ji bing	100
+节律	jie lv	100
+流行性腮腺炎	liu xing xing sai xian yan	100
+感染源	gan ran yuan	100
+退热	tui re	100
+假体	jia ti	100
+显微	xian wei	100
+胸骨	xiong gu	100
+祛风	qu feng	100
+抑菌	yi jun	100
+望闻问切	wang wen wen qie	100
+阈值	yu zhi	100
+安睡	an shui	100
+踝关节	huai guan jie	100
+艾叶	ai ye	100
+风湿性关节炎	feng shi xing guan jie yan	100
+连翘	lian qiao	100
+半衰期	ban shuai qi	100
+产前诊断	chan qian zhen duan	100
+自卑感	zi bei gan	100
+骨质疏松症	gu zhi shu song zheng	100
+遗传性疾病	yi chuan xing ji bing	100
+打鼾	da han	100
+盗汗	dao han	100
+低血压	di xue ya	100
+天麻	tian ma	100
+内分泌系统	nei fen mi xi tong	100
+脱毛	tuo mao	100
+安眠	an mian	100
+淋病	lin bing	100
+麻疹疫苗	ma zhen yi miao	100
+疝气	shan qi	100
+基质	ji zhi	100
+阳虚	yang xu	100
+活检	huo jian	100
+碳酸钙	tan suan gai	100
+喷雾剂	pen wu ji	100
+瘢痕	ban hen	100
+鹿茸	lu rong	100
+西洋参	xi yang shen	100
+枸杞子	gou qi zi	100
+麦冬	mai dong	100
+脱出	tuo chu	100
+撕裂伤	si lie shang	100
+藏药	zang yao	100
+死胎	si tai	100
+脑梗死	nao geng si	100
+桑叶	sang ye	100
+偏头痛	pian tou tong	100
+协同作用	xie tong zuo yong	100
+咽喉炎	yan hou yan	100
+放血	fang xie	100
+茴香	hui xiang	100
+体虚	ti xu	100
+免疫球蛋白	mian yi qiu dan bai	100
+钙化	gai hua	100
+急性期	ji xing qi	100
+胫骨	jing gu	100
+果糖	guo tang	100
+低热	di re	100
+牙槽骨	ya cao gu	100
+灌肠	guan chang	100
+气胸	qi xiong	100
+口腔卫生	kou qiang wei sheng	100
+酒窝	jiu wo	100
+耳鼻咽喉	er bi yan hou	100
+黄连	huang lian	100
+丹参	dan shen	100
+过冷	guo leng	100
+泻药	xie yao	100
+会阴	hui yin	100
+食管癌	shi guan ai	100
+水疱	shui pao	100
+沙丁鱼	sha ding yu	100
+柠檬酸	ning meng suan	100
+菌株	jun zhu	100
+多糖	duo tang	100
+脑积水	nao ji shui	100
+外阴	wai yin	100
+血管瘤	xue guan liu	100
+白喉	bai hou	100
+抗菌素	kang jun su	100
+牙周病	ya zhou bing	100
+前列腺增生	qian lie xian zeng sheng	100
+毛囊	mao nang	100
+粒细胞	li xi bao	100
+感染性	gan ran xing	100
+瓣膜	ban mo	100
+汗腺	han xian	100
+神经系统疾病	shen jing xi tong ji bing	100
+腹水	fu shui	100
+肝细胞	gan xi bao	100
+虚汗	xu han	100
+脐带血	qi dai xue	100
+脱敏	tuo min	100
+苔藓	tai xian	100
+脑水肿	nao shui zhong	100
+静脉输液	jing mai shu ye	100
+雀斑	que ban	100
+鼻翼	bi yi	100
+心电	xin dian	100
+白带	bai dai	100
+衍生物	yan sheng wu	100
+视神经	shi shen jing	100
+步态	bu tai	100
+石蜡	shi la	100
+脱位	tuo wei	100
+脾胃虚寒	pi wei xu han	100
+靶点	ba dian	100
+十二指肠	shi er zhi chang	100
+位点	wei dian	100
+骨龄	gu ling	100
+葛根	ge gen	100
+纤维化	xian wei hua	100
+溶化	rong hua	100
+虚寒	xu han	100
+红眼病	hong yan bing	100
+光点	guang dian	100
+应激反应	ying ji fan ying	100
+胸椎	xiong zhui	100
+高脂血症	gao zhi xue zheng	100
+脑萎缩	nao wei suo	100
+病状	bing zhuang	100
+拔火罐	ba huo guan	100
+腰肌劳损	yao ji lao sun	100
+心脏移植	xin zang yi zhi	100
+免疫学	mian yi xue	100
+血小板减少	xue xiao ban jian shao	100
+肝火	gan huo	100
+不育症	bu yu zheng	100
+全身乏力	quan shen fa li	100
+前庭	qian ting	100
+蛋白粉	dan bai fen	100
+射精	she jing	100
+软胶囊	ruan jiao nang	100
+智力低下	zhi li di xia	100
+脾胃虚弱	pi wei xu ruo	100
+风疹	feng zhen	100
+交感神经	jiao gan shen jing	100
+继发性	ji fa xing	100
+乳腺增生	ru xian zeng sheng	100
+血细胞	xue xi bao	100
+绞痛	jiao tong	100
+尿路感染	niao lu gan ran	100
+阴囊	yin nang	100
+肩胛骨	jian jia gu	100
+杆菌	gan jun	100
+麝香	she xiang	100
+银翘片	yin qiao pian	100
+急性胃肠炎	ji xing wei chang yan	100
+阴道炎	yin dao yan	100
+喉癌	hou ai	100
+静脉血	jing mai xue	100
+乙肝表面抗原	yi gan biao mian kang yuan	100
+眼窝	yan wo	100
+遗传疾病	yi chuan ji bing	100
+过敏性疾病	guo min xing ji bing	100
+胰岛	yi dao	100
+耳垂	er chui	100
+乳牙	ru ya	100
+乌鸡	wu ji	100
+生地	sheng di	100
+舌苔	she tai	100
+黄芩	huang qin	100
+锁骨骨折	suo gu gu zhe	100
+上段	shang duan	100
+鱼油	yu you	100
+寄生虫病	ji sheng chong bing	100
+心律	xin lv	100
+心律不齐	xin lv bu qi	100
+肾癌	shen ai	100
+蜂胶	feng jiao	100
+打哈欠	da ha qian	100
+体重减轻	ti zhong jian qing	100
+硝酸	xiao suan	100
+输尿管	shu niao guan	100
+螨虫	man chong	100
+解剖学	jie pou xue	100
+走行	zou xing	100
+耐受性	nai shou xing	100
+贴面	tie mian	100
+氯霉素	lv mei su	100
+痱子	fei zi	100
+解热	jie re	100
+全身麻醉	quan shen ma zui	100
+螺钉	luo ding	100
+抓痕	zhua hen	100
+果胶	guo jiao	100
+驱虫	qu chong	100
+腹壁	fu bi	100
+乳糖	ru tang	100
+感冒咳嗽	gan mao ke sou	100
+血流量	xue liu liang	100
+消化道出血	xiao hua dao chu xie	100
+尿失禁	niao shi jin	100
+鼻咽	bi yan	100
+自身免疫	zi shen mian yi	100
+小脑	xiao nao	100
+上皮	shang pi	100
+药物过敏	yao wu guo min	100
+桔梗	jie geng	100
+肺叶	fei ye	100
+冷敷	leng fu	100
+银杏叶	yin xing ye	100
+生物制剂	sheng wu zhi ji	100
+舒张	shu zhang	100
+骨痛	gu tong	100
+黑色素	hei se su	100
+牙龈出血	ya yin chu xie	100
+脾虚	pi xu	100
+白术	bai zhu	100
+多指	duo zhi	100
+红斑狼疮	hong ban lang chuang	100
+胡桃	hu tao	100
+早孕	zao yun	100
+包皮	bao pi	100
+黄柏	huang bai	100
+肠胃病	chang wei bing	100
+精神错乱	jing shen cuo luan	100
+闭锁	bi suo	100
+肾功能不全	shen gong neng bu quan	100
+胃镜检查	wei jing jian cha	100
+结节	jie jie	100
+病理学	bing li xue	100
+惊厥	jing jue	100
+牙齿松动	ya chi song dong	100
+月经周期	yue jing zhou qi	100
+远视	yuan shi	100
+丘疹	qiu zhen	100
+甘油三酯	gan you san zhi	100
+螺旋藻	luo xuan zao	100
+咯血	ka xie	100
+郁结	yu jie	100
+胃胀	wei zhang	100
+祛痘	qu dou	100
+方剂	fang ji	100
+成瘾性	cheng yin xing	100
+淮山	huai shan	100
+致病微生物	zhi bing wei sheng wu	100
+麻黄	ma huang	100
+氯化钠	lv hua na	100
+代谢紊乱	dai xie wen luan	100
+单眼	dan yan	100
+广谱	guang pu	100
+息肉	xi rou	100
+角膜移植	jiao mo yi zhi	100
+通透性	tong tou xing	100
+牙周炎	ya zhou yan	100
+淋巴细胞	lin ba xi bao	100
+梗塞	geng se	100
+心肌缺血	xin ji que xue	100
+熟地	shu di	100
+性腺	xing xian	100
+耳廓	er kuo	100
+鼻骨	bi gu	100
+小儿外科	xiao er wai ke	100
+免疫反应	mian yi fan ying	100
+闭经	bi jing	100
+虹膜	hong mo	100
+硬膜	ying mo	100
+黄斑	huang ban	100
+遗传物质	yi chuan wu zhi	100
+卒中	zu zhong	100
+神经损伤	shen jing sun shang	100
+血液传播	xue ye chuan bo	100
+髋部	kuan bu	100
+尿量	niao liang	100
+白蛋白	bai dan bai	100
+出血点	chu xie dian	100
+色素沉着	se su chen zhuo	100
+过敏史	guo min shi	100
+脓肿	nong zhong	100
+眼压	yan ya	100
+卵巢囊肿	luan chao nang zhong	100
+肉桂	rou gui	100
+夜尿	ye niao	100
+心室	xin shi	100
+鱼肝油	yu gan you	100
+肠道病毒	chang dao bing du	100
+杜仲	du zhong	100
+肛肠科	gang chang ke	100
+阑尾	lan wei	100
+急性胰腺炎	ji xing yi xian yan	100
+视网膜病变	shi wang mo bing bian	100
+急性阑尾炎	ji xing lan wei yan	100
+听诊	ting zhen	100
+子宫内膜	zi gong nei mo	100
+佛手	fo shou	100
+平衡膳食	ping heng shan shi	100
+发汗	fa han	100
+十二指肠溃疡	shi er zhi chang kui yang	100
+水解蛋白	shui jie dan bai	100
+多巴胺	duo ba an	100
+出血热	chu xie re	100
+乌梅	wu mei	100
+雄性激素	xiong xing ji su	100
+代谢性疾病	dai xie xing ji bing	100
+鼻骨骨折	bi gu gu zhe	100
+扁桃体炎	bian tao ti yan	100
+红唇	hong chun	100
+发育不全	fa yu bu quan	100
+肝衰竭	gan shuai jie	100
+肉瘤	rou liu	100
+腰膝酸软	yao xi suan ruan	100
+瘀血	yu xue	100
+实验室检查	shi yan shi jian cha	100
+意识丧失	yi shi sang shi	100
+孕激素	yun ji su	100
+探针	tan zhen	100
+白癜风	bai dian feng	100
+激光手术	ji guang shou shu	100
+末梢神经	mo shao shen jing	100
+结膜	jie mo	100
+遗精	yi jing	100
+槐花	huai hua	100
+汗毛	han mao	100
+多普勒	duo pu lei	100
+矫形	jiao xing	100
+意识障碍	yi shi zhang ai	100
+异型	yi xing	100
+甲骨	jia gu	100
+脑电图	nao dian tu	100
+电离辐射	dian li fu she	100
+真菌感染	zhen jun gan ran	100
+类风湿关节炎	lei feng shi guan jie yan	100
+胆管	dan guan	100
+嘌呤	piao ling	100
+补中益气	bu zhong yi qi	100
+正畸	zheng ji	100
+湍流	tuan liu	100
+坐骨神经痛	zuo gu shen jing tong	100
+生命活动	sheng ming huo dong	100
+溶血	rong xue	100
+组织细胞	zu zhi xi bao	100
+干扰素	gan rao su	100
+骨外科	gu wai ke	100
+粘附	zhan fu	100
+皮层	pi ceng	100
+白芷	bai zhi	100
+接触传播	jie chu chuan bo	100
+前体	qian ti	100
+银屑病	yin xie bing	100
+滑脱	hua tuo	100
+皮下组织	pi xia zu zhi	100
+肺栓塞	fei shuan se	100
+搏动	bo dong	100
+开放性骨折	kai fang xing gu zhe	100
+缺铁性贫血	que tie xing pin xue	100
+肝损伤	gan sun shang	100
+川芎	chuan qiong	100
+苯丙酮尿症	ben bing tong niao zheng	100
+润肠通便	run chang tong bian	100
+系统性红斑狼疮	xi tong xing hong ban lang chuang	100
+尿痛	niao tong	100
+排尿困难	pai niao kun nan	100
+良性肿瘤	liang xing zhong liu	100
+何首乌	he shou wu	100
+局部麻醉	ju bu ma zui	100
+腮腺炎	sai xian yan	100
+康复医学	kang fu yi xue	100
+房颤	fang chan	100
+兴奋性	xing fen xing	100
+咳喘	ke chuan	100
+唇裂	chun lie	100
+濒死	bin si	100
+毒力	du li	100
+内径	nei jing	100
+氧饱和度	yang bao he du	100
+肿物	zhong wu	100
+骨关节炎	gu guan jie yan	100
+发际	fa ji	100
+拔管	ba guan	100
+弯折	wan zhe	100
+类固醇	lei gu chun	100
+颌骨	he gu	100
+角膜炎	jiao mo yan	100
+上唇	shang chun	100
+染色体异常	ran se ti yi chang	100
+尿血	niao xie	100
+软膏	ruan gao	100
+角质层	jiao zhi ceng	100
+药物不良反应	yao wu bu liang fan ying	100
+营养支持	ying yang zhi chi	100
+心包	xin bao	100
+多肽	duo tai	100
+依从性	yi cong xing	100
+初潮	chu chao	100
+风湿性心脏病	feng shi xing xin zang bing	100
+肌肉注射	ji rou zhu she	100
+止点	zhi dian	100
+血色素	xue se su	100
+电解质紊乱	dian jie zhi wen luan	100
+牙冠	ya guan	100
+风寒感冒	feng han gan mao	100
+脊柱炎	ji zhu yan	100
+过氧化氢	guo yang hua qing	100
+慢性肝炎	man xing gan yan	100
+百日咳	bai ri ke	100
+培养基	pei yang ji	100
+肾衰	shen shuai	100
+芡实	qian shi	100
+脑疝	nao shan	100
+上皮细胞	shang pi xi bao	100
+下颌骨	xia he gu	100
+链球菌	lian qiu jun	100
+横断面	heng duan mian	100
+麦芽糖	mai ya tang	100
+骨性	gu xing	100
+脑干出血	nao gan chu xie	100
+癌前病变	ai qian bing bian	100
+柴胡	chai hu	100
+胸腔积液	xiong qiang ji ye	100
+骨盆骨折	gu pen gu zhe	100
+安胎	an tai	100
+肺动脉高压	fei dong mai gao ya	100
+决明子	jue ming zi	100
+灼痛	zhuo tong	100
+胸肌	xiong ji	100
+皮肤感染	pi fu gan ran	100
+卵磷脂	luan lin zhi	100
+人工晶体	ren gong jing ti	100
+狂犬病毒	kuang quan bing du	100
+肺动脉	fei dong mai	100
+肾上腺	shen shang xian	100
+麻风	ma feng	100
+颈椎骨折	jing chui gu zhe	100
+带状疱疹	dai zhuang pao zhen	100
+煎药	jian yao	100
+曲美	qu mei	100
+厚朴	hou po	100
+五味子	wu wei zi	100
+心肌病	xin ji bing	100
+失禁	shi jin	100
+重症肌无力	zhong zheng ji wu li	100
+炎症反应	yan zheng fan ying	100
+显微外科	xian wei wai ke	100
+子宫癌	zi gong ai	100
+肌无力	ji wu li	100
+动脉瘤	dong mai liu	100
+猩红热	xing hong re	100
+病毒携带者	bing du xie dai zhe	100
+胎位	tai wei	100
+组织学	zu zhi xue	100
+性冲动	xing chong dong	100
+半月板	ban yue ban	100
+肝功能异常	gan gong neng yi chang	100
+脂肪组织	zhi fang zu zhi	100
+皮脂腺	pi zhi xian	100
+肩关节	jian guan jie	100
+室间隔缺损	shi jian ge que sun	100
+黄褐斑	huang he ban	100
+幽门螺杆菌	you men luo gan jun	100
+股骨骨折	gu gu gu zhe	100
+玉竹	yu zhu	100
+造血系统	zao xue xi tong	100
+鱼腥草	yu xing cao	100
+乳腺外科	ru xian wai ke	100
+血清学	xue qing xue	100
+外感	wai gan	100
+高锰酸钾	gao meng suan jia	100
+上呼吸道	shang hu xi dao	100
+眼疲劳	yan pi lao	100
+桡骨	rao gu	100
+药物中毒	yao wu zhong du	100
+可待因	ke dai yin	100
+压痛	ya tong	100
+接触性皮炎	jie chu xing pi yan	100
+沙眼	sha yan	100
+青皮	qing pi	100
+填塞	tian se	100
+肱骨	gong gu	100
+冰片	bing pian	100
+胆囊结石	dan nang jie shi	100
+侧壁	ce bi	100
+红霉素	hong mei su	100
+崩解	beng jie	100
+鞣酸	rou suan	100
+顶骨	ding gu	100
+皱褶	zhou zhe	100
+鼓胀	gu zhang	100
+亚油酸	ya you suan	100
+肾积水	shen ji shui	100
+髌骨	bin gu	100
+滑膜炎	hua mo yan	100
+长牙	zhang ya	100
+罗汉果	luo han guo	100
+化疗药物	hua liao yao wu	100
+细胞膜	xi bao mo	100
+皮脂	pi zhi	100
+核素	he su	100
+作用机制	zuo yong ji zhi	100
+宫腔	gong qiang	100
+细胞核	xi bao he	100
+卡介苗	ka jie miao	100
+桃仁	tao ren	100
+畏光	wei guang	100
+免疫缺陷	mian yi que xian	100
+细胞学	xi bao xue	100
+人工关节	ren gong guan jie	100
+恒牙	heng ya	100
+牙龈炎	ya yin yan	100
+肝功能衰竭	gan gong neng shuai jie	100
+肺热	fei re	100
+体毛	ti mao	100
+子宫内膜异位症	zi gong nei mo yi wei zheng	100
+病毒性感冒	bing du xing gan mao	100
+周围神经	zhou wei shen jing	100
+肌瘤	ji liu	100
+慢性鼻炎	man xing bi yan	100
+收缩压	shou suo ya	100
+太子参	tai zi shen	100
+血容量	xue rong liang	100
+相克	xiang ke	100
+运动障碍	yun dong zhang ai	100
+横纹	heng wen	100
+引流管	yin liu guan	100
+动脉导管未闭	dong mai dao guan wei bi	100
+舌根	she gen	100
+饱和脂肪酸	bao he zhi fang suan	100
+急性病	ji xing bing	100
+薏苡仁	yi yi ren	100
+义眼	yi yan	100
+急性肾衰竭	ji xing shen shuai jie	100
+皮下出血	pi xia chu xie	100
+胸廓	xiong kuo	100
+调节剂	tiao jie ji	100
+补牙	bu ya	100
+外邪	wai xie	100
+精神症状	jing shen zheng zhuang	100
+慢性肾病	man xing shen bing	100
+粉剂	fen ji	100
+免疫性	mian yi xing	100
+痰多	tan duo	100
+气血运行	qi xue yun xing	100
+氯化钾	lv hua jia	100
+寒湿	han shi	100
+辨证论治	bian zheng lun zhi	100
+对乙酰氨基酚	dui yi xian an ji fen	100
+核医学	he yi xue	100
+屈光不正	qu guang bu zheng	100
+六味地黄丸	liu wei di huang wan	100
+湿邪	shi xie	100
+骨髓炎	gu sui yan	100
+脑血管意外	nao xue guan yi wai	100
+消化性溃疡	xiao hua xing kui yang	100
+异位	yi wei	100
+胶原	jiao yuan	100
+慢性阻塞性肺疾病	man xing zu se xing fei ji bing	100
+线粒体	xian li ti	100
+松解	song jie	100
+血液内科	xue ye nei ke	100
+叶黄素	ye huang su	100
+头型	tou xing	100
+润肺止咳	run fei zhi ke	100
+牛黄	niu huang	100
+先兆流产	xian zhao liu chan	100
+硬结	ying jie	100
+鼻窦	bi dou	100
+吸入性肺炎	xi ru xing fei yan	100
+气滞	qi zhi	100
+颞叶	nie ye	100
+感觉异常	gan jue yi chang	100
+子宫内膜癌	zi gong nei mo ai	100
+狂犬	kuang quan	100
+筋膜	jin mo	100
+栀子	zhi zi	100
+颅底骨折	lu di gu zhe	100
+肢体麻木	zhi ti ma mu	100
+蛋白尿	dan bai niao	100
+垂体	chui ti	100
+凝集	ning ji	100
+子宫收缩	zi gong shou suo	100
+浸渍	jin zi	100
+体细胞	ti xi bao	100
+半夏	ban xia	100
+指腹	zhi fu	100
+血症	xue zheng	100
+苍术	cang zhu	100
+眼药	yan yao	100
+穴位按摩	xue wei an mo	100
+跌打损伤	die da sun shang	100
+马齿苋	ma chi xian	100
+血液学	xue ye xue	100
+主动脉夹层	zhu dong mai jia ceng	100
+易位	yi wei	100
+肾病综合征	shen bing zong he zheng	100
+宫颈炎	gong jing yan	100
+血吸虫	xue xi chong	100
+心因性	xin yin xing	100
+野菊花	ye ju hua	100
+汞中毒	gong zhong du	100
+葡萄球菌	pu tao qiu jun	100
+反应性	fan ying xing	100
+变态反应	bian tai fan ying	100
+腹膜透析	fu mo tou xi	100
+腹膜	fu mo	100
+躁狂	zao kuang	100
+涌泉穴	yong quan xue	100
+孢子	bao zi	100
+痰湿	tan shi	100
+矫形器	jiao xing qi	100
+关节软骨	guan jie ruan gu	100
+头皮血肿	tou pi xue zhong	100
+杜冷丁	du leng ding	100
+凝血因子	ning xue yin zi	100
+沙丁胺醇	sha ding an chun	100
+解郁	jie yu	100
+脂肪细胞	zhi fang xi bao	100
+血管痉挛	xue guan jing luan	100
+屏气	bing qi	100
+基因诊断	ji yin zhen duan	100
+继发感染	ji fa gan ran	100
+股骨颈骨折	gu gu jing gu zhe	100
+糖皮质激素	tang pi zhi ji su	100
+抗肿瘤药物	kang zhong liu yao wu	100
+药物作用	yao wu zuo yong	100
+肝腹水	gan fu shui	100
+解热镇痛药	jie re zhen tong yao	100
+赤小豆	chi xiao dou	100
+先天性白内障	xian tian xing bai nei zhang	100
+房间隔缺损	fang jian ge que sun	100
+红参	hong shen	100
+肺纤维化	fei xian wei hua	100
+子宫颈	zi gong jing	100
+小眼	xiao yan	100
+稳态	wen tai	100
+间接接触	jian jie jie chu	100
+股动脉	gu dong mai	100
+鼓膜	gu mo	100
+黄精	huang jing	100
+随诊	sui zhen	100
+骨肉瘤	gu rou liu	100
+肺移植	fei yi zhi	100
+平滑肌	ping hua ji	100
+鸡胸	ji xiong	100
+神经根	shen jing gen	100
+血瘀	xue yu	100
+巨大儿	ju da er	100
+心功能不全	xin gong neng bu quan	100
+免疫调节	mian yi tiao jie	100
+腭裂	e lie	100
+高压氧治疗	gao ya yang zhi liao	100
+眼外伤	yan wai shang	100
+慢性前列腺炎	man xing qian lie xian yan	100
+自身免疫性疾病	zi shen mian yi xing ji bing	100
+肝炎病毒	gan yan bing du	100
+足三里	zu san li	100
+木香	mu xiang	100
+自然流产	zi ran liu chan	100
+副反应	fu fan ying	100
+脱屑	tuo xie	100
+深静脉	shen jing mai	100
+心动过速	xin dong guo su	100
+凡士林	fan shi lin	100
+神经痛	shen jing tong	100
+细胞免疫	xi bao mian yi	100
+救心丸	jiu xin wan	100
+慢性肾功能衰竭	man xing shen gong neng shuai jie	100
+月经失调	yue jing shi tiao	100
+神经性耳聋	shen jing xing er long	100
+卵细胞	luan xi bao	100
+低氧	di yang	100
+结缔组织	jie di zu zhi	100
+喉结	hou jie	100
+合剂	he ji	100
+生长因子	sheng zhang yin zi	100
+黑色素瘤	hei se su liu	100
+营养缺乏	ying yang que fa	100
+牙线	ya xian	100
+联合用药	lian he yong yao	100
+支气管扩张	zhi qi guan kuo zhang	100
+近亲结婚	jin qin jie hun	100
+卵泡	luan pao	100
+腓骨	fei gu	100
+风热感冒	feng re gan mao	100
+鉴别诊断	jian bie zhen duan	100
+第二性征	di er xing zheng	100
+咽喉痛	yan hou tong	100
+鼻息肉	bi xi rou	100
+光带	guang dai	100
+细菌培养	xi jun pei yang	100
+海绵体	hai mian ti	100
+牛初乳	niu chu ru	100
+慢性肾脏病	man xing shen zang bing	100
+糖丸	tang wan	100
+接骨	jie gu	100
+膈肌	ge ji	100
+阴虚火旺	yin xu huo wang	100
+特殊检查	te shu jian cha	100
+下丘脑	xia qiu nao	100
+肛裂	gang lie	100
+硬化症	ying hua zheng	100
+诊脉	zhen mai	100
+脊髓	ji sui	100
+易感性	yi gan xing	100
+牙菌斑	ya jun ban	100
+小脑萎缩	xiao nao wei suo	100
+川贝	chuan bei	100
+清热利湿	qing re li shi	100
+舒张压	shu zhang ya	100
+肉苁蓉	rou cong rong	100
+慢性疼痛	man xing teng tong	100
+夏枯草	xia ku cao	100
+药物反应	yao wu fan ying	100
+感染期	gan ran qi	100
+贪食	tan shi	100
+酸中毒	suan zhong du	100
+膀胱炎	pang guang yan	100
+过敏性哮喘	guo min xing xiao chuan	100
+磷脂	lin zhi	100
+外耳道	wai er dao	100
+椎管狭窄	chui guan xia zhai	100
+多尿	duo niao	100
+皮肤黏膜	pi fu nian mo	100
+肌酐	ji gan	100
+无尿	wu niao	100
+骨骺	gu hou	100
+颗粒剂	ke li ji	100
+腹膜炎	fu mo yan	100
+结肠炎	jie chang yan	100
+气雾剂	qi wu ji	100
+细菌性痢疾	xi jun xing li ji	100
+骨关节病	gu guan jie bing	100
+左心室	zuo xin shi	100
+肩胛	jian jia	100
+医家	yi jia	100
+行为障碍	xing wei zhang ai	100
+扑热息痛	pu re xi tong	100
+系带	ji dai	100
+代谢综合征	dai xie zong he zheng	100
+深海鱼油	shen hai yu you	100
+高危妊娠	gao wei ren shen	100
+空腔	kong qiang	100
+蛋白酶	dan bai mei	100
+蛔虫	hui chong	100
+甲状腺结节	jia zhuang xian jie jie	100
+运动神经元	yun dong shen jing yuan	100
+宣肺	xuan fei	100
+生长素	sheng zhang su	100
+免疫抑制剂	mian yi yi zhi ji	100
+乳腺炎	ru xian yan	100
+泰诺	tai nuo	100
+养心安神	yang xin an shen	100
+免疫疗法	mian yi liao fa	100
+血海	xue hai	100
+眼结膜	yan jie mo	100
+额叶	e ye	100
+括约肌	kuo yue ji	100
+人血白蛋白	ren xue bai dan bai	100
+核磁共振成像	he ci gong zhen cheng xiang	100
+抑郁状态	yi yu zhuang tai	100
+沙参	sha shen	100
+油酸	you suan	100
+硼酸	peng suan	100
+髋骨	kuan gu	100
+支气管肺炎	zhi qi guan fei yan	100
+被害妄想	bei hai wang xiang	100
+唾液分泌	tuo ye fen mi	100
+白化病	bai hua bing	100
+挛缩	luan suo	100
+高尿酸血症	gao niao suan xue zheng	100
+生长迟缓	sheng zhang chi huan	100
+脑动脉	nao dong mai	100
+牛磺酸	niu huang suan	100
+糖尿病肾病	tang niao bing shen bing	100
+臂部	bi bu	100
+颞部	nie bu	100
+鼓膜穿孔	gu mo chuan kong	100
+毒性反应	du xing fan ying	100
+鼾症	han zheng	100
+细胞组织	xi bao zu zhi	100
+黄斑变性	huang ban bian xing	100
+肝纤维化	gan xian wei hua	100
+赖氨酸	lai an suan	100
+泌尿系	mi niao xi	100
+三棱	san leng	100
+樟脑	zhang nao	100
+胆管癌	dan guan ai	100
+误吸	wu xi	100
+落枕	lao zhen	100
+脑动脉硬化	nao dong mai ying hua	100
+三叉神经痛	san cha shen jing tong	100
+大三阳	da san yang	100
+糖化	tang hua	100
+磺胺	huang an	100
+凋亡	diao wang	100
+跟腱断裂	gen jian duan lie	100
+核苷酸	he gan suan	100
+神经组织	shen jing zu zhi	100
+珍珠粉	zhen zhu fen	100
+尿道下裂	niao dao xia lie	100
+阿莫西林胶囊	a mo xi lin jiao nang	100
+消渴	xiao ke	100
+桂枝	gui zhi	100
+骨膜	gu mo	100
+踝骨	huai gu	100
+习惯性流产	xi guan xing liu chan	100
+庆大霉素	qing da mei su	100
+节育器	jie yu qi	100
+亚急性	ya ji xing	100
+肠穿孔	chang chuan kong	100
+甲状腺激素	jia zhuang xian ji su	100
+萎缩性胃炎	wei suo xing wei yan	100
+积热	ji re	100
+焦虑状态	jiao lv zhuang tai	100
+神经递质	shen jing di zhi	100
+脂肪代谢	zhi fang dai xie	100
+矽肺	xi fei	100
+嗳气	ai qi	100
+牙龈肿痛	ya yin zhong tong	100
+皮瓣	pi ban	100
+横断	heng duan	100
+泄泻	xie xie	100
+血管造影	xue guan zao ying	100
+调经	tiao jing	100
+地龙	di long	100
+癔症	yi zheng	100
+适应证	shi ying zheng	100
+首乌	shou wu	100
+外生殖器	wai sheng zhi qi	100
+触诊	chu zhen	100
+多囊卵巢综合征	duo nang luan chao zong he zheng	100
+滋补肝肾	zi bu gan shen	100
+小三阳	xiao san yang	100
+地塞米松	di sai mi song	100
+尿道炎	niao dao yan	100
+病机	bing ji	100
+碳酸氢钠	tan suan qing na	100
+胖大海	pang da hai	100
+产热	chan re	100
+前置胎盘	qian zhi tai pan	100
+毛细血管扩张	mao xi xue guan kuo zhang	100
+溶血性贫血	rong xue xing pin xue	100
+变异性	bian yi xing	100
+基因型	ji yin xing	100
+祛邪	qu xie	100
+泪腺	lei xian	100
+牙髓	ya sui	100
+中药汤剂	zhong yao tang ji	100
+支原体	zhi yuan ti	100
+视神经萎缩	shi shen jing wei suo	100
+新生儿肺炎	xin sheng er fei yan	100
+胃酸过多	wei suan guo duo	100
+无汗	wu han	100
+皮质醇	pi zhi chun	100
+芦根	lu gen	100
+骨骼肌	gu ge ji	100
+腕关节	wan guan jie	100
+神经管	shen jing guan	100
+砂仁	sha ren	100
+肾脏损害	shen zang sun hai	100
+关节僵硬	guan jie jiang ying	100
+烦渴	fan ke	100
+缓解期	huan jie qi	100
+轮状病毒	lun zhuang bing du	100
+光斑	guang ban	100
+脚臭	jiao chou	100
+掌骨	zhang gu	100
+双胎	shuang tai	100
+球囊	qiu nang	100
+流行性出血热	liu xing xing chu xie re	100
+复合维生素	fu he wei sheng su	100
+盲肠	mang chang	100
+正常菌群	zheng chang jun qun	100
+阴道出血	yin dao chu xie	100
+组胺	zu an	100
+催产素	cui chan su	100
+乙型病毒性肝炎	yi xing bing du xing gan yan	100
+益母草	yi mu cao	100
+头皮屑	tou pi xie	100
+慢性腹泻	man xing fu xie	100
+脑挫伤	nao cuo shang	100
+胸膜炎	xiong mo yan	100
+视网膜脱离	shi wang mo tuo li	100
+斑秃	ban tu	100
+物理疗法	wu li liao fa	100
+运动疗法	yun dong liao fa	100
+四环素	si huan su	100
+牙釉质	ya you zhi	100
+指骨	zhi gu	100
+二甲双胍	er jia shuang gua	100
+性欲减退	xing yu jian tui	100
+尿潴留	niao zhu liu	100
+慢性肝病	man xing gan bing	100
+碘伏	dian fu	100
+肝病科	gan bing ke	100
+健脾益气	jian pi yi qi	100
+围产期	wei chan qi	100
+滑车	hua che	100
+标准差	biao zhun cha	100
+坐骨神经	zuo gu shen jing	100
+强直	qiang zhi	100
+腺病毒	xian bing du	100
+胃痉挛	wei jing luan	100
+玄参	xuan can	100
+压差	ya cha	100
+肌张力	ji zhang li	100
+小茴香	xiao hui xiang	100
+口舌生疮	kou she sheng chuang	100
+移植术	yi zhi shu	100
+鸡眼	ji yan	100
+总胆固醇	zong dan gu chun	100
+中耳	zhong er	100
+气滞血瘀	qi zhi xue yu	100
+坏疽	huai ju	100
+生殖细胞	sheng zhi xi bao	100
+非小细胞肺癌	fei xiao xi bao fei ai	100
+尖牙	jian ya	100
+大脑半球	da nao ban qiu	100
+喹诺酮类	kui nuo tong lei	100
+白细胞减少	bai xi bao jian shao	100
+低体重儿	di ti zhong er	100
+脱垂	tuo chui	100
+低密度脂蛋白	di mi du zhi dan bai	100
+猴头菇	hou tou gu	100
+尖锐湿疣	jian rui shi you	100
+地黄	di huang	100
+偏斜	pian xie	100
+肾小管	shen xiao guan	100
+烟酸	yan suan	100
+瘀斑	yu ban	100
+衣原体	yi yuan ti	100
+心音	xin yin	100
+上颌骨	shang he gu	100
+细胞因子	xi bao yin zi	100
+髌骨骨折	bin gu gu zhe	100
+链霉素	lian mei su	100
+滑膜	hua mo	100
+淋巴系统	lin ba xi tong	100
+龙眼肉	long yan rou	100
+标记物	biao ji wu	100
+糖化血红蛋白	tang hua xue hong dan bai	100
+男性性功能障碍	nan xing xing gong neng zhang ai	100
+远志	yuan zhi	100
+化生	hua sheng	100
+造口	zao kou	100
+下肢静脉	xia zhi jing mai	100
+皮下注射	pi xia zhu she	100
+尺骨	chi gu	100
+输精管	shu jing guan	100
+智齿	zhi chi	100
+腰背痛	yao bei tong	100
+消化器官	xiao hua qi guan	100
+人乳头瘤病毒	ren ru tou liu bing du	100
+胸膜	xiong mo	100
+感觉神经	gan jue shen jing	100
+眼球破裂	yan qiu po lie	100
+洗液	xi ye	100
+代谢障碍	dai xie zhang ai	100
+前突	qian tu	100
+甲状腺功能减退	jia zhuang xian gong neng jian tui	100
+剥脱	bao tuo	100
+骨组织	gu zu zhi	100
+结膜充血	jie mo chong xue	100
+眼底出血	yan di chu xie	100
+甲状腺素	jia zhuang xian su	100
+组织修复	zu zhi xiu fu	100
+鼻中隔	bi zhong ge	100
+乳香	ru xiang	100
+盆腔囊肿	pen qiang nang zhong	100
+右心室	you xin shi	100
+干姜	gan jiang	100
+红花油	hong hua you	100
+肱骨骨折	gong gu gu zhe	100
+合谷	he gu	100
+布病	bu bing	100
+椎动脉	chui dong mai	100
+淋巴细胞白血病	lin ba xi bao bai xue bing	100
+病毒性肺炎	bing du xing fei yan	100
+肉毒毒素	rou du du su	100
+发绀	fa gan	100
+包皮过长	bao pi guo chang	100
+小体	xiao ti	100
+大青叶	da qing ye	100
+肌萎缩侧索硬化	ji wei suo ce suo ying hua	100
+灌洗	guan xi	100
+板蓝根颗粒	ban lan gen ke li	100
+巨噬细胞	ju shi xi bao	100
+附子	fu zi	100
+再通	zai tong	100
+脑室	nao shi	100
+小动脉	xiao dong mai	100
+治则	zhi ze	100
+喉镜	hou jing	100
+腱鞘炎	jian qiao yan	100
+躁狂症	zao kuang zheng	100
+腮腺	sai xian	100
+山茱萸	shan zhu yu	100
+肿瘤发生	zhong liu fa sheng	100
+病毒性心肌炎	bing du xing xin ji yan	100
+趾甲	zhi jia	100
+耳鸣耳聋	er ming er long	100
+斑丘疹	ban qiu zhen	100
+胃下垂	wei xia chui	100
+乙型肝炎病毒	yi xing gan yan bing du	100
+黄体	huang ti	100
+静脉滴注	jing mai di zhu	100
+尾椎	wei chui	100
+神经纤维	shen jing xian wei	100
+细辛	xi xin	100
+二级预防	er ji yu fang	100
+骨转移	gu zhuan yi	100
+没药	mo yao	100
+先天性耳聋	xian tian xing er long	100
+卵巢肿瘤	luan chao zhong liu	100
+关节镜	guan jie jing	100
+月经过多	yue jing guo duo	100
+尿蛋白	niao dan bai	100
+赤芍	chi shao	100
+卵巢早衰	luan chao zao shuai	100
+尼美舒利	ni mei shu li	100
+新生儿窒息	xin sheng er zhi xi	100
+茶碱	cha jian	100
+维生素片	wei sheng su pian	100
+支具	zhi ju	100
+尾骨	wei gu	100
+纵膈	zong ge	100
+回肠	hui chang	100
+无菌操作	wu jun cao zuo	100
+膀胱结石	pang guang jie shi	100
+梗死	geng si	100
+溃疡性结肠炎	kui yang xing jie chang yan	100
+淤滞	yu zhi	100
+艾滋病抗体	ai zi bing kang ti	100
+脑膜	nao mo	100
+形态学	xing tai xue	100
+亢进	kang jin	100
+芬必得	fen bi dei	100
+土茯苓	tu fu ling	100
+淀粉酶	dian fen mei	100
+病毒性疾病	bing du xing ji bing	100
+少尿	shao niao	100
+丙肝抗体	bing gan kang ti	100
+胆红素	dan hong su	100
+双歧杆菌	shuang qi gan jun	100
+霍奇金	huo qi jin	100
+鼻唇沟	bi chun gou	100
+耻骨	chi gu	100
+假阳性	jia yang xing	100
+多发性骨髓瘤	duo fa xing gu sui liu	100
+郁金	yu jin	100
+子宫出血	zi gong chu xie	100
+帕金森综合征	pa jin sen zong he zheng	100
+阿托品	a tuo pin	100
+流涎	liu xian	100
+牙结石	ya jie shi	100
+金刚烷胺	jin gang wan an	100
+谷氨酸	gu an suan	100
+面色萎黄	mian se wei huang	100
+洗剂	xi ji	100
+肝肿大	gan zhong da	100
+全身感染	quan shen gan ran	100
+痛风性关节炎	tong feng xing guan jie yan	100
+胎盘早剥	tai pan zao bo	100
+睾丸癌	gao wan ai	100
+清热化痰	qing re hua tan	100
+复方丹参片	fu fang dan shen pian	100
+毛囊炎	mao nang yan	100
+髓核	sui he	100
+枇杷叶	pi pa ye	100
+颈椎间盘	jing chui jian pan	100
+高丽参	gao li shen	100
+神经母细胞瘤	shen jing mu xi bao liu	100
+均匀性	jun yun xing	100
+运动神经元病	yun dong shen jing yuan bing	100
+免疫抗体	mian yi kang ti	100
+突发性耳聋	tu fa xing er long	100
+肝脾肿大	gan pi zhong da	100
+湿敷	shi fu	100
+毛糙	mao cao	100
+角化	jiao hua	100
+清热泻火	qing re xie huo	100
+肝血	gan xue	100
+白扁豆	bai bian dou	100
+免疫抑制	mian yi yi zhi	100
+发作期	fa zuo qi	100
+姜黄	jiang huang	100
+腹围	fu wei	100
+内痔	nei zhi	100
+修复术	xiu fu shu	100
+记忆障碍	ji yi zhang ai	100
+慢性气管炎	man xing qi guan yan	100
+急性炎症	ji xing yan zheng	100
+产褥期	chan ru qi	100
+椎管	chui guan	100
+氧化锌	yang hua xin	100
+急性支气管炎	ji xing zhi qi guan yan	100
+小头畸形	xiao tou ji xing	100
+苦参	ku shen	100
+横突	heng tu	100
+杂病	za bing	100
+滋肾	zi shen	100
+疥疮	jie chuang	100
+铁蛋白	tie dan bai	100
+透明质酸	tou ming zhi suan	100
+蛋白质粉	dan bai zhi fen	100
+营养神经	ying yang shen jing	100
+喉炎	hou yan	100
+原发性高血压	yuan fa xing gao xue ya	100
+肾上腺皮质激素	shen shang xian pi zhi ji su	100
+肱二头肌	gong er tou ji	100
+脂肪层	zhi fang ceng	100
+神经性皮炎	shen jing xing pi yan	100
+胆囊癌	dan nang ai	100
+矫正术	jiao zheng shu	100
+化瘀	hua yu	100
+能量代谢	neng liang dai xie	100
+硫酸镁	liu suan mei	100
+脊髓炎	ji sui yan	100
+包茎	bao jing	100
+腺瘤	xian liu	100
+脑栓塞	nao shuan se	100
+尿糖	niao tang	100
+遗传咨询	yi chuan zi xun	100
+脂溶性维生素	zhi rong xing wei sheng su	100
+风池穴	feng chi xue	100
+脑血管畸形	nao xue guan ji xing	100
+涂片	tu pian	100
+跟骨	gen gu	100
+穴位注射	xue wei zhu she	100
+面神经	mian shen jing	100
+脑膜瘤	nao mo liu	100
+下腔静脉	xia qiang jing mai	100
+外感风寒	wai gan feng han	100
+棘突	ji tu	100
+泽泻	ze xie	100
+脑性瘫痪	nao xing tan huan	100
+低密度脂蛋白胆固醇	di mi du zhi dan bai dan gu chun	100
+黄体酮	huang ti tong	100
+淋巴组织	lin ba zu zhi	100
+肌纤维	ji xian wei	100
+白茅根	bai mao gen	100
+肾损伤	shen sun shang	100
+羚羊角	ling yang jiao	100
+饮食疗法	yin shi liao fa	100
+养血安神	yang xue an shen	100
+牛黄解毒片	niu huang jie du pian	100
+静脉炎	jing mai yan	100
+鹰嘴	ying zui	100
+自汗	zi han	100
+辅酶	fu mei	100
+小细胞	xiao xi bao	100
+过敏性紫癜	guo min xing zi dian	100
+胎膜早破	tai mo zao po	100
+门静脉	men jing mai	100
+荆芥	jing jie	100
+后叶	hou ye	100
+表型	biao xing	100
+药物吸收	yao wu xi shou	100
+病毒抗体	bing du kang ti	100
+紫癜	zi dian	100
+知母	zhi mu	100
+足癣	zu xuan	100
+肝素	gan su	100
+背侧	bei ce	100
+前列腺素	qian lie xian su	100
+自限性	zi xian xing	100
+巩膜	gong mo	100
+贲门	ben men	100
+淋巴管	lin ba guan	100
+菟丝子	tu si zi	100
+复视	fu shi	100
+人工泪液	ren gong lei ye	100
+血液凝固	xue ye ning gu	100
+硬脑膜	ying nao mo	100
+环丙沙星	huan bing sha xing	100
+尿碘	niao dian	100
+甲胎蛋白	jia tai dan bai	100
+硅油	gui you	100
+脑干损伤	nao gan sun shang	100
+抗病毒口服液	kang bing du kou fu ye	100
+耳痛	er tong	100
+混合痔	hun he zhi	100
+骨髓增生异常综合征	gu sui zeng sheng yi chang zong he zheng	100
+清热凉血	qing re liang xue	100
+幻视	huan shi	100
+厌氧菌	yan yang jun	100
+枕骨	zhen gu	100
+牛膝	niu xi	100
+罗红霉素	luo hong mei su	100
+急性肝炎	ji xing gan yan	100
+扶正固本	fu zheng gu ben	100
+球蛋白	qiu dan bai	100
+纤维组织	xian wei zu zhi	100
+镇静药	zhen jing yao	100
+血流速度	xue liu su du	100
+心理疗法	xin li liao fa	100
+双黄连	shuang huang lian	100
+心境障碍	xin jing zhang ai	100
+内皮	nei pi	100
+精氨酸	jing an suan	100
+先天性巨结肠	xian tian xing ju jie chang	100
+百白破疫苗	bai bai po yi miao	100
+射频消融术	she pin xiao rong shu	100
+漏尿	lou niao	100
+灵芝孢子粉	ling zhi bao zi fen	100
+曲张	qu zhang	100
+燥湿	zao shi	100
+熟地黄	shu di huang	100
+二尖瓣	er jian ban	100
+韧带损伤	ren dai sun shang	100
+颊部	jia bu	100
+慢性盆腔炎	man xing pen qiang yan	100
+骨细胞	gu xi bao	100
+去痛片	qu tong pian	100
+腹主动脉	fu zhu dong mai	100
+小便不利	xiao bian bu li	100
+散剂	san ji	100
+内关	nei guan	100
+广谱抗生素	guang pu kang sheng su	100
+维生素缺乏	wei sheng su que fa	100
+脂肪瘤	zhi fang liu	100
+保守性	bao shou xing	100
+下颌角	xia he jiao	100
+整体观念	zheng ti guan nian	100
+肛周脓肿	gang zhou nong zhong	100
+血栓通	xue shuan tong	100
+出血倾向	chu xie qing xiang	100
+低盐饮食	di yan yin shi	100
+外科疾病	wai ke ji bing	100
+额骨	e gu	100
+通草	tong cao	100
+氧氟沙星	yang fu sha xing	100
+肾小球	shen xiao qiu	100
+子痫	zi xian	100
+幽门	you men	100
+流脑疫苗	liu nao yi miao	100
+妊娠纹	ren shen wen	100
+皮癣	pi xuan	100
+特罗凯	te luo kai	100
+纤维蛋白原	xian wei dan bai yuan	100
+上消化道出血	shang xiao hua dao chu xie	100
+脓疱	nong pao	100
+表皮细胞	biao pi xi bao	100
+混悬液	hun xuan ye	100
+三阴交	san yin jiao	100
+细菌性感染	xi jun xing gan ran	100
+胆管结石	dan guan jie shi	100
+角膜溃疡	jiao mo kui yang	100
+皮纹	pi wen	100
+行气活血	xing qi huo xue	100
+大便失禁	da bian shi jin	100
+精索静脉曲张	jing suo jing mai qu zhang	100
+肝气郁结	gan qi yu jie	100
+视网膜母细胞瘤	shi wang mo mu xi bao liu	100
+放松训练	fang song xun lian	100
+舌癌	she ai	100
+血脑屏障	xue nao ping zhang	100
+栓剂	shuan ji	100
+寄生虫感染	ji sheng chong gan ran	100
+后牙	hou ya	100
+颈内动脉	jing nei dong mai	100
+黑色素细胞	hei se su xi bao	100
+蛛网膜下腔	zhu wang mo xia qiang	100
+绿脓杆菌	lv nong gan jun	100
+骶骨	di gu	100
+自限性疾病	zi xian xing ji bing	100
+生地黄	sheng di huang	100
+肺功能检查	fei gong neng jian cha	100
+水电解质	shui dian jie zhi	100
+胎粪	tai fen	100
+油性皮肤	you xing pi fu	100
+掌骨骨折	zhang gu gu zhe	100
+结核性脑膜炎	jie he xing nao mo yan	100
+保守疗法	bao shou liao fa	100
+造影剂	zao ying ji	100
+泌尿系结石	mi niao xi jie shi	100
+子宫内膜炎	zi gong nei mo yan	100
+主动脉瓣	zhu dong mai ban	100
+副伤寒	fu shang han	100
+动态心电图	dong tai xin dian tu	100
+拮抗剂	jie kang ji	100
+高密度脂蛋白	gao mi du zhi dan bai	100
+丙型肝炎病毒	bing xing gan yan bing du	100
+中医诊断	zhong yi zhen duan	100
+糖耐量	tang nai liang	100
+胎儿期	tai er qi	100
+论治	lun zhi	100
+干混悬剂	gan hun xuan ji	100
+新生儿期	xin sheng er qi	100
+刺激反应	ci ji fan ying	100
+心包炎	xin bao yan	100
+七情	qi qing	100
+急性胆囊炎	ji xing dan nang yan	100
+关节畸形	guan jie ji xing	100
+解痉	jie jing	100
+三尖瓣	san jian ban	100
+肾盂	shen yu	100
+尿常规检查	niao chang gui jian cha	100
+紫杉醇	zi shan chun	100
+畸胎瘤	ji tai liu	100
+生物反馈	sheng wu fan kui	100
+呃逆	e ni	100
+鳞屑	lin xie	100
+前房	qian fang	100
+心源性休克	xin yuan xing xiu ke	100
+脱敏治疗	tuo min zhi liao	100
+川贝母	chuan bei mu	100
+复方丹参滴丸	fu fang dan shen di wan	100
+迷走神经	mi zou shen jing	100
+前列腺肿瘤	qian lie xian zhong liu	100
+间质性肺炎	jian zhi xing fei yan	100
+外阴瘙痒	wai yin sao yang	100
+新生儿黄疸	xin sheng er huang dan	100
+钝痛	dun tong	100
+腹腔感染	fu qiang gan ran	100
+胆总管	dan zong guan	100
+同步化	tong bu hua	100
+降香	jiang xiang	100
+氟哌酸	fu pai suan	100
+独活	du huo	100
+子宫脱垂	zi gong tuo chui	100
+脊椎病	ji zhui bing	100
+免疫应答	mian yi ying da	100
+唾液腺	tuo ye xian	100
+多毛	duo mao	100
+环指	huan zhi	100
+血管损伤	xue guan sun shang	100
+甲状腺肿	jia zhuang xian zhong	100
+大脑皮质	da nao pi zhi	100
+球菌	qiu jun	100
+腺样体肥大	xian yang ti fei da	100
+谷丙转氨酶	gu bing zhuan an mei	100
+纤维环	xian wei huan	100
+香附	xiang fu	100
+蛋白质合成	dan bai zhi he cheng	100
+冠状动脉造影	guan zhuang dong mai zao ying	100
+复方甘草片	fu fang gan cao pian	100
+乙状结肠	yi zhuang jie chang	100
+男性不育症	nan xing bu yu zheng	100
+上颌窦	shang he dou	100
+盆浴	pen yu	100
+白带异常	bai dai yi chang	100
+扁平足	bian ping zu	100
+克罗恩病	ke luo en bing	100
+高热惊厥	gao re jing jue	100
+视网膜色素变性	shi wang mo se su bian xing	100
+胸大肌	xiong da ji	100
+肛管	gang guan	100
+失活	shi huo	100
+肌电图	ji dian tu	100
+分裂症	fen lie zheng	100
+精囊	jing nang	100
+酒石酸	jiu shi suan	100
+两对半	liang dui ban	100
+颈总动脉	jing zong dong mai	100
+枇杷膏	pi pa gao	100
+阿米巴	a mi ba	100
+病毒载量	bing du zai liang	100
+咳嗽痰多	ke sou tan duo	100
+细胞凋亡	xi bao diao wang	100
+鱼鳞病	yu lin bing	100
+口眼歪斜	kou yan wai xie	100
+紫斑	zi ban	100
+局部感染	ju bu gan ran	100
+行为治疗	xing wei zhi liao	100
+泡腾片	pao teng pian	100
+呋喃唑酮	fu nan zuo tong	100
+碱化	jian hua	100
+苯丙氨酸	ben bing an suan	100
+水杨酸	shui yang suan	100
+睾丸炎	gao wan yan	100
+宫颈刮片	gong jing gua pian	100
+丹毒	dan du	100
+小结节	xiao jie jie	100
+感觉障碍	gan jue zhang ai	100
+巨细胞病毒	ju xi bao bing du	100
+长骨	zhang gu	100
+缓释胶囊	huan shi jiao nang	100
+四环素牙	si huan su ya	100
+皮质激素	pi zhi ji su	100
+静脉回流	jing mai hui liu	100
+暗区	an qu	100
+淋球菌	lin qiu jun	100
+急腹症	ji fu zheng	100
+胰腺肿瘤	yi xian zhong liu	100
+肝阳上亢	gan yang shang kang	100
+关节囊	guan jie nang	100
+病因学	bing yin xue	100
+颈静脉	jing jing mai	100
+右心房	you xin fang	100
+纵隔	zong ge	100
+活络油	huo luo you	100
+男性生殖系统	nan xing sheng zhi xi tong	100
+趾骨	zhi gu	100
+百会	bai hui	100
+眉弓	mei gong	100
+羌活	qiang huo	100
+蚕豆病	can dou bing	100
+慢性胆囊炎	man xing dan nang yan	100
+染色体畸变	ran se ti ji bian	100
+大蒜素	da suan su	100
+梅毒螺旋体	mei du luo xuan ti	100
+清开灵	qing kai ling	100
+肝肾阴虚	gan shen yin xu	100
+髂骨	qia gu	100
+支气管痉挛	zhi qi guan jing luan	100
+左心房	zuo xin fang	100
+低钾血症	di jia xue zheng	100
+乳房肿块	ru fang zhong kuai	100
+胸腺	xiong xian	100
+腺癌	xian ai	100
+股静脉	gu jing mai	100
+滤过	lv guo	100
+生殖器疱疹	sheng zhi qi pao zhen	100
+温经	wen jing	100
+腹股沟疝	fu gu gou shan	100
+冠状动脉粥样硬化性心脏病	guan zhuang dong mai zhou yang ying hua xing xin zang bing	100
+慢性结肠炎	man xing jie chang yan	100
+肾盂肾炎	shen yu shen yan	100
+风疹病毒	feng zhen bing du	100
+乙肝两对半	yi gan liang dui ban	100
+瘘管	lou guan	100
+鼻中隔偏曲	bi zhong ge pian qu	100
+紫草	zi cao	100
+利尿药	li niao yao	100
+表面抗原	biao mian kang yuan	100
+性染色体	xing ran se ti	100
+柯萨奇病毒	ke sa qi bing du	100
+三七粉	san qi fen	100
+玻璃体混浊	bo li ti hun zhuo	100
+鸡内金	ji nei jin	100
+丘脑	qiu nao	100
+原位癌	yuan wei ai	100
+最后诊断	zui hou zhen duan	100
+双黄连口服液	shuang huang lian kou fu ye	100
+过敏性结膜炎	guo min xing jie mo yan	100
+脂蛋白	zhi dan bai	100
+非甾体抗炎药	fei zai ti kang yan yao	100
+去甲肾上腺素	qu jia shen shang xian su	100
+根管治疗	gen guan zhi liao	100
+益气健脾	yi qi jian pi	100
+牙列不齐	ya lie bu qi	100
+扁桃腺	bian tao xian	100
+空肠	kong chang	100
+体癣	ti xuan	100
+太冲	tai chong	100
+快克	kuai ke	100
+骨化	gu hua	100
+口角炎	kou jue yan	100
+天冬	tian dong	100
+四诊	si zhen	100
+印堂	yin tang	100
+副交感神经	fu jiao gan shen jing	100
+凉血止血	liang xue zhi xue	100
+手足癣	shou zu xuan	100
+阿莫西林克拉维酸钾	a mo xi lin ke la wei suan jia	100
+肉芽肿	rou ya zhong	100
+百服宁	bai fu ning	100
+感受器	gan shou qi	100
+贴剂	tie ji	100
+无菌性炎症	wu jun xing yan zheng	100
+咀嚼片	ju jue pian	100
+脊椎炎	ji zhui yan	100
+慢性白血病	man xing bai xue bing	100
+雌二醇	ci er chun	100
+潜血	qian xue	100
+牛蒡子	niu bang zi	100
+疖肿	jie zhong	100
+人工血管	ren gong xue guan	100
+牙髓炎	ya sui yan	100
+甘露醇	gan lu chun	100
+灰质	hui zhi	100
+全瓷牙	quan ci ya	100
+鳞状细胞癌	lin zhuang xi bao ai	100
+足跟痛	zu gen tong	100
+内皮细胞	nei pi xi bao	100
+甘草片	gan cao pian	100
+急性结膜炎	ji xing jie mo yan	100
+血药浓度	xue yao nong du	100
+神经官能症	shen jing guan neng zheng	100
+小腿骨	xiao tui gu	100
+头孢菌素类	tou bao jun su lei	100
+血管炎	xue guan yan	100
+定喘	ding chuan	100
+纤维性	xian wei xing	100
+颈内静脉	jing nei jing mai	100
+循环障碍	xun huan zhang ai	100
+慢性鼻窦炎	man xing bi dou yan	100
+高密度脂蛋白胆固醇	gao mi du zhi dan bai dan gu chun	100
+谷胱甘肽	gu guang gan tai	100
+激酶	ji mei	100
+甲床	jia chuang	100
+乙肝免疫球蛋白	yi gan mian yi qiu dan bai	100
+血小板减少性紫癜	xue xiao ban jian shao xing zi dian	100
+地高辛	di gao xin	100
+颅内压	lu nei ya	100
+他达拉非	ta da la fei	100
+炙甘草	zhi gan cao	100
+慢性胰腺炎	man xing yi xian yan	100
+滋阴清热	zi yin qing re	100
+车前草	che qian cao	100
+霉菌感染	mei jun gan ran	100
+彩色多普勒超声	cai se duo pu lei chao sheng	100
+滴虫	di chong	100
+附睾炎	fu gao yan	100
+硫酸亚铁	liu suan ya tie	100
+奥美拉唑	ao mei la zuo	100
+头孢拉定	tou bao la ding	100
+经期延长	jing qi yan chang	100
+菌血症	jun xue zheng	100
+自发性气胸	zi fa xing qi xiong	100
+蛛网膜	zhu wang mo	100
+胰岛素泵	yi dao su beng	100
+女贞子	nv zhen zi	100
+支原体感染	zhi yuan ti gan ran	100
+被膜	bei mo	100
+栓子	shuan zi	100
+三叉神经	san cha shen jing	100
+舌红	she hong	100
+结核性	jie he xing	100
+药疹	yao zhen	100
+生石膏	sheng shi gao	100
+肠系膜	chang xi mo	100
+青黛	qing dai	100
+细支气管	xi zhi qi guan	100
+乳房下垂	ru fang xia chui	100
+淫羊藿	yin yang huo	100
+茵陈	yin chen	100
+枳壳	zhi ke	100
+刺五加	ci wu jia	100
+消炎痛	xiao yan tong	100
+基底动脉	ji di dong mai	100
+尿素氮	niao su dan	100
+髋关节脱位	kuan guan jie tuo wei	100
+酒精性脂肪肝	jiu jing xing zhi fang gan	100
+主动脉弓	zhu dong mai gong	100
+股骨头无菌性坏死	gu gu tou wu jun xing huai si	100
+基础代谢率	ji chu dai xie lv	100
+小儿感冒	xiao er gan mao	100
+心身疾病	xin shen ji bing	100
+表皮生长因子	biao pi sheng zhang yin zi	100
+急性鼻炎	ji xing bi yan	100
+鼻干	bi gan	100
+淋巴液	lin ba ye	100
+隐睾	yin gao	100
+外痔	wai zhi	100
+胆囊息肉	dan nang xi rou	100
+中性粒细胞	zhong xing li xi bao	100
+神经调节	shen jing tiao jie	100
+抗力	kang li	100
+皮下血肿	pi xia xue zhong	100
+股骨干骨折	gu gu gan gu zhe	100
+斑疹	ban zhen	100
+干燥综合征	gan zao zong he zheng	100
+异位妊娠	yi wei ren shen	100
+升麻	sheng ma	100
+包皮环切术	bao pi huan qie shu	100
+网球肘	wang qiu zhou	100
+乙酰胆碱	yi xian dan jian	100
+口服补液盐	kou fu bu ye yan	100
+羊膜	yang mo	100
+甲巯咪唑	jia qiu mi zuo	100
+弛缓	chi huan	100
+钩藤	gou teng	100
+膀胱镜	pang guang jing	100
+效价	xiao jia	100
+肾萎缩	shen wei suo	100
+记忆减退	ji yi jian tui	100
+肾脏损伤	shen zang sun shang	100
+组织液	zu zhi ye	100
+平扫	ping sao	100
+胸水	xiong shui	100
+多发性硬化	duo fa xing ying hua	100
+糖尿病酮症酸中毒	tang niao bing tong zheng suan zhong du	100
+孕囊	yun nang	100
+出牙	chu ya	100
+石菖蒲	shi chang pu	100
+软腭	ruan e	100
+风寒咳嗽	feng han ke sou	100
+皂苷	zao gan	100
+缺如	que ru	100
+肌酸激酶	ji suan ji mei	100
+阴蒂	yin di	100
+金霉素	jin mei su	100
+乳杆菌	ru gan jun	100
+上腔静脉	shang qiang jing mai	100
+温经散寒	wen jing san han	100
+阴道镜检查	yin dao jing jian cha	100
+神经炎	shen jing yan	100
+骨髓抑制	gu sui yi zhi	100
+酒精性肝硬化	jiu jing xing gan ying hua	100
+声带息肉	sheng dai xi rou	100
+关元	guan yuan	100
+尿道结石	niao dao jie shi	100
+注意增强	zhu yi zeng qiang	100
+苯海拉明	ben hai la ming	100
+丘疹性荨麻疹	qiu zhen xing xun ma zhen	100
+皮肤粘膜	pi fu zhan mo	100
+苁蓉	cong rong	100
+稀释液	xi shi ye	100
+危象	wei xiang	100
+五倍子	wu bei zi	100
+胆汁酸	dan zhi suan	100
+骨结核	gu jie he	100
+血管性头痛	xue guan xing tou tong	100
+大动脉转位	da dong mai zhuan wei	100
+肠息肉	chang xi rou	100
+椎间孔	chui jian kong	100
+上睑	shang jian	100
+主动脉瘤	zhu dong mai liu	100
+声嘶	sheng si	100
+雾化吸入	wu hua xi ru	100
+手足心热	shou zu xin re	100
+心包积液	xin bao ji ye	100
+急性咽炎	ji xing yan yan	100
+肝豆状核变性	gan dou zhuang he bian xing	100
+钛板	tai ban	100
+六神丸	liu shen wan	100
+股癣	gu xuan	100
+失语症	shi yu zheng	100
+葡萄糖注射液	pu tao tang zhu she ye	100
+螺旋体	luo xuan ti	100
+骨片	gu pian	100
+肾阳不足	shen yang bu zu	100
+颅骨缺损	lu gu que sun	100
+子宫穿孔	zi gong chuan kong	100
+玉屏风散	yu ping feng san	100
+谷维素	gu wei su	100
+健脾化湿	jian pi hua shi	100
+痛风石	tong feng shi	100
+脑膜脑炎	nao mo nao yan	100
+疑病症	yi bing zheng	100
+筋膜炎	jin mo yan	100
+血管紧张素	xue guan jin zhang su	100
+百白破	bai bai po	100
+温中散寒	wen zhong san han	100
+面肌痉挛	mian ji jing luan	100
+珍珠母	zhen zhu mu	100
+手术疗法	shou shu liao fa	100
+神经功能障碍	shen jing gong neng zhang ai	100
+背肌	bei ji	100
+白细胞计数	bai xi bao ji shu	100
+氢氧化铝	qing yang hua lv	100
+胆总管结石	dan zong guan jie shi	100
+自体移植	zi ti yi zhi	100
+颈动脉狭窄	jing dong mai xia zhai	100
+芦丁	lu ding	100
+降气	jiang qi	100
+肠粘连	chang zhan lian	100
+细菌性肺炎	xi jun xing fei yan	100
+秋水仙碱	qiu shui xian jian	100
+胃排空	wei pai kong	100
+甲状腺炎	jia zhuang xian yan	100
+镇咳药	zhen ke yao	100
+猪苓	zhu ling	100
+丙种球蛋白	bing zhong qiu dan bai	100
+大椎	da chui	100
+关节腔	guan jie qiang	100
+乳膏	ru gao	100
+腕骨	wan gu	100
+拮抗	jie kang	100
+锁阳	suo yang	100
+鼻根	bi gen	100
+车前子	che qian zi	100
+胶原纤维	jiao yuan xian wei	100
+疤痕增生	ba hen zeng sheng	100
+滤泡	lv pao	100
+超声心动图	chao sheng xin dong tu	100
+股骨颈	gu gu jing	100
+番泻叶	fan xie ye	100
+催乳素	cui ru su	100
+膀胱肿瘤	pang guang zhong liu	100
+肋软骨	le ruan gu	100
+利福平	li fu ping	100
+葡萄膜炎	pu tao mo yan	100
+尿道狭窄	niao dao xia zhai	100
+肾绞痛	shen jiao tong	100
+退热贴	tui re tie	100
+安乃近	an nai jin	100
+肾囊肿	shen nang zhong	100
+气海	qi hai	100
+先天性脑积水	xian tian xing nao ji shui	100
+紧张性	jin zhang xing	100
+核型	he xing	100
+卡那霉素	ka na mei su	100
+头孢曲松钠	tou bao qu song na	100
+氨茶碱	an cha jian	100
+滑膜肉瘤	hua mo rou liu	100
+细菌学	xi jun xue	100
+共济失调	gong ji shi tiao	100
+上皮组织	shang pi zu zhi	100
+收缩期	shou suo qi	100
+胫腓骨骨折	jing fei gu gu zhe	100
+体位性低血压	ti wei xing di xue ya	100
+风池	feng chi	100
+氢氯噻嗪	qing lv sai qin	100
+结肠镜检查	jie chang jing jian cha	100
+脑血管造影	nao xue guan zao ying	100
+全蝎	quan xie	100
+慢性酒精中毒	man xing jiu jing zhong du	100
+碳酸锂	tan suan li	100
+急性肾衰	ji xing shen shuai	100
+输卵管炎	shu luan guan yan	100
+假阴性	jia yin xing	100
+劈裂	pi lie	100
+血气分析	xue qi fen xi	100
+陈旧性骨折	chen jiu xing gu zhe	100
+气管镜	qi guan jing	100
+吴茱萸	wu zhu yu	100
+无脑儿	wu nao er	100
+渗出液	shen chu ye	100
+神经性头痛	shen jing xing tou tong	100
+肝动脉	gan dong mai	100
+瘀点	yu dian	100
+代谢性酸中毒	dai xie xing suan zhong du	100
+硬皮病	ying pi bing	100
+胆囊切除术	dan nang qie chu shu	100
+拉米夫定	la mi fu ding	100
+五心烦热	wu xin fan re	100
+吞噬细胞	tun shi xi bao	100
+臀位	tun wei	100
+乳突	ru tu	100
+骨坏死	gu huai si	100
+糜烂性胃炎	mi lan xing wei yan	100
+手癣	shou xuan	100
+巴戟天	ba ji tian	100
+下肢肌	xia zhi ji	100
+酪氨酸	lao an suan	100
+腹腔积液	fu qiang ji ye	100
+胎膜	tai mo	100
+肾母细胞瘤	shen mu xi bao liu	100
+鸡血藤	ji xue teng	100
+充血性心力衰竭	chong xue xing xin li shuai jie	100
+肉芽组织	rou ya zu zhi	100
+精囊炎	jing nang yan	100
+炉甘石洗剂	lu gan shi xi ji	100
+肺大泡	fei da pao	100
+斜颈	xie jing	100
+心内膜炎	xin nei mo yan	100
+三阴	san yin	100
+既往史	ji wang shi	100
+托槽	tuo cao	100
+房室	fang shi	100
+牙片	ya pian	100
+心脏扩大	xin zang kuo da	100
+枳实	zhi shi	100
+皮肌炎	pi ji yan	100
+万古霉素	wan gu mei su	100
+颅内动脉瘤	lu nei dong mai liu	100
+骨髓瘤	gu sui liu	100
+消耗性疾病	xiao hao xing ji bing	100
+疱疹性咽峡炎	pao zhen xing yan xia yan	100
+硝苯地平	xiao ben di ping	100
+毓婷	yu ting	100
+唇炎	chun yan	100
+肾俞	shen yu	100
+牙垢	ya gou	100
+动脉导管	dong mai dao guan	100
+糖蛋白	tang dan bai	100
+三角肌	san jiao ji	100
+免疫器官	mian yi qi guan	100
+微波治疗	wei bo zhi liao	100
+波立维	bo li wei	100
+巴比妥	ba bi tuo	100
+角膜白斑	jiao mo bai ban	100
+自主运动	zi zhu yun dong	100
+肺静脉	fei jing mai	100
+镜检	jing jian	100
+血栓栓塞	xue shuan shuan se	100
+肾肿瘤	shen zhong liu	100
+大网膜	da wang mo	100
+隐性遗传	yin xing yi chuan	100
+紫河车	zi he che	100
+白质	bai zhi	100
+急性乳腺炎	ji xing ru xian yan	100
+齿龈	chi yin	100
+脂溢性皮炎	zhi yi xing pi yan	100
+两性畸形	liang xing ji xing	100
+颞骨	nie gu	100
+心脏瓣膜病	xin zang ban mo bing	100
+继发性癫痫	ji fa xing dian xian	100
+夜盲	ye mang	100
+氯丙嗪	lv bing qin	100
+立普妥	li pu tuo	100
+脂肪酶	zhi fang mei	100
+新生儿败血症	xin sheng er bai xue zheng	100
+阴茎海绵体	yin jing hai mian ti	100
+促性腺激素	cu xing xian ji su	100
+腰眼	yao yan	100
+保泰松	bao tai song	100
+单核细胞	dan he xi bao	100
+薄荷油	bo he you	100
+慢性肾小球肾炎	man xing shen xiao qiu shen yan	100
+羊水过多	yang shui guo duo	100
+横纹肌肉瘤	heng wen ji rou liu	100
+甲状腺病	jia zhuang xian bing	100
+前叶	qian ye	100
+囊胚	nang pei	100
+肠内营养	chang nei ying yang	100
+精索	jing suo	100
+祛瘀	qu yu	100
+原发性痛经	yuan fa xing tong jing	100
+脂溢性脱发	zhi yi xing tuo fa	100
+输卵管粘连	shu luan guan zhan lian	100
+病毒性脑膜炎	bing du xing nao mo yan	100
+跖骨	zhi gu	100
+乌鸡白凤丸	wu ji bai feng wan	100
+功能性消化不良	gong neng xing xiao hua bu liang	100
+沙眼衣原体	sha yan yi yuan ti	100
+葫芦巴	hu lu ba	100
+慢性结膜炎	man xing jie mo yan	100
+肠套叠	chang tao die	100
+皮肤色素	pi fu se su	100
+肾小球肾炎	shen xiao qiu shen yan	100
+髓母细胞瘤	sui mu xi bao liu	100
+股四头肌	gu si tou ji	100
+肝门	gan men	100
+腕管综合征	wan guan zong he zheng	100
+腘窝	guo wo	100
+面型	mian xing	100
+氨基	an ji	100
+蛇床子	she chuang zi	100
+三黄片	san huang pian	100
+正畸治疗	zheng ji zhi liao	100
+麦粒肿	mai li zhong	100
+高胰岛素血症	gao yi dao su xue zheng	100
+卡托普利	ka tuo pu li	100
+伤湿止痛膏	shang shi zhi tong gao	100
+感康	gan kang	100
+缺血性坏死	que xue xing huai si	100
+关节面	guan jie mian	100
+熊去氧胆酸	xiong qu yang dan suan	100
+面神经麻痹	mian shen jing ma bi	100
+咬肌	yao ji	100
+腰椎穿刺	yao zhui chuan ci	100
+局部反应	ju bu fan ying	100
+外阴炎	wai yin yan	100
+银杏叶片	yin xing ye pian	100
+反流性食管炎	fan liu xing shi guan yan	100
+凝血机制	ning xue ji zhi	100
+氯化钠注射液	lv hua na zhu she ye	100
+核苷	he gan	100
+丙氨酸氨基转移酶	bing an suan an ji zhuan yi mei	100
+子宫体	zi gong ti	100
+混合感染	hun he gan ran	100
+肺脓肿	fei nong zhong	100
+骨折愈合	gu zhe yu he	100
+宫颈息肉	gong jing xi rou	100
+尿路梗阻	niao lu geng zu	100
+尿液分析	niao ye fen xi	100
+肺动脉瓣狭窄	fei dong mai ban xia zhai	100
+延胡索	yan hu suo	100
+跟骨骨折	gen gu gu zhe	100
+海绵状血管瘤	hai mian zhuang xue guan liu	100
+单纯疱疹病毒	dan chun pao zhen bing du	100
+头癣	tou xuan	100
+胃息肉	wei xi rou	100
+腹腔镜胆囊切除术	fu qiang jing dan nang qie chu shu	100
+扁平疣	bian ping you	100
+慢性浅表性胃炎	man xing qian biao xing wei yan	100
+扩张型心肌病	kuo zhang xing xin ji bing	100
+抗凝剂	kang ning ji	100
+急性扁桃体炎	ji xing bian tao ti yan	100
+药物性肝炎	yao wu xing gan yan	100
+太田痣	tai tian zhi	100
+子宫切除术	zi gong qie chu shu	100
+桑寄生	sang ji sheng	100
+软骨发育不全	ruan gu fa yu bu quan	100
+间歇性跛行	jian xie xing bo xing	100
+破伤风抗毒素	po shang feng kang du su	100
+苯巴比妥	ben ba bi tuo	100
+血小板减少症	xue xiao ban jian shao zheng	100
+横结肠	heng jie chang	100
+免疫耐受	mian yi nai shou	100
+中脘	zhong wan	100
+下肢动脉硬化	xia zhi dong mai ying hua	100
+细菌性前列腺炎	xi jun xing qian lie xian yan	100
+受体阻滞剂	shou ti zu zhi ji	100
+矫治器	jiao zhi qi	100
+神经性厌食	shen jing xing yan shi	100
+乳剂	ru ji	100
+肌腱炎	ji jian yan	100
+胆酸	dan suan	100
+苍耳子	cang er zi	100
+髋臼	kuan jiu	100
+心内膜	xin nei mo	100
+肺通气	fei tong qi	100
+龟板	gui ban	100
+动脉栓塞	dong mai shuan se	100
+排牙	pai ya	100
+分散片	fen san pian	100
+门脉高压	men mai gao ya	100
+招风耳	zhao feng er	100
+链球菌感染	lian qiu jun gan ran	100
+扁桃体肥大	bian tao ti fei da	100
+罗布麻	luo bu ma	100
+色素斑	se su ban	100
+骨瘤	gu liu	100
+肺不张	fei bu zhang	100
+外伤性白内障	wai shang xing bai nei zhang	100
+异烟肼	yi yan jing	100
+压力性尿失禁	ya li xing niao shi jin	100
+颞下颌关节	nie xia he guan jie	100
+多囊肾	duo nang shen	100
+枕叶	zhen ye	100
+房室传导阻滞	fang shi chuan dao zu zhi	100
+斜疝	xie shan	100
+浆膜	jiang mo	100
+小样儿	xiao yang er	100
+坐骨	zuo gu	100
+鱼际	yu ji	100
+结肠息肉	jie chang xi rou	100
+滴虫性阴道炎	di chong xing yin dao yan	100
+室间隔	shi jian ge	100
+慢性荨麻疹	man xing xun ma zhen	100
+糖耐量异常	tang nai liang yi chang	100
+滑精	hua jing	100
+膝关节损伤	xi guan jie sun shang	100
+氯化铵	lv hua an	100
+腓肠肌	fei chang ji	100
+胆管炎	dan guan yan	100
+金樱子	jin ying zi	100
+无精子症	wu jing zi zheng	100
+双相障碍	shuang xiang zhang ai	100
+鳖甲	bie jia	100
+结膜囊	jie mo nang	100
+叶酸片	ye suan pian	100
+利血平	li xue ping	100
+念珠菌	nian zhu jun	100
+硬化剂	ying hua ji	100
+克林霉素	ke lin mei su	100
+眼球震颤	yan qiu zhen chan	100
+神经节	shen jing jie	100
+赘生物	zhui sheng wu	100
+滤器	lv qi	100
+乳头瘤病毒	ru tou liu bing du	100
+颅内高压	lu nei gao ya	100
+骨水泥	gu shui ni	100
+心肌酶谱	xin ji mei pu	100
+继发性高血压	ji fa xing gao xue ya	100
+肛门闭锁	gang men bi suo	100
+舌淡	she dan	100
+踝关节扭伤	huai guan jie niu shang	100
+产伤	chan shang	100
+重复感染	chong fu gan ran	100
+威灵仙	wei ling xian	100
+联合化疗	lian he hua liao	100
+压舌板	ya she ban	100
+利多卡因	li duo ka yin	100
+疤痕体质	ba hen ti zhi	100
+脓血便	nong xue bian	100
+肾功能异常	shen gong neng yi chang	100
+药敏试验	yao min shi yan	100
+胃肠胀气	wei chang zhang qi	100
+病毒性角膜炎	bing du xing jiao mo yan	100
+不典型增生	bu dian xing zeng sheng	100
+胆汁淤积	dan zhi yu ji	100
+别嘌醇	bie piao chun	100
+重睑	zhong jian	100
+肾动脉	shen dong mai	100
+球结膜	qiu jie mo	100
+梦遗	meng yi	100
+阿司匹林肠溶片	a si pi lin chang rong pian	100
+氯喹	lv kui	100
+常染色体	chang ran se ti	100
+滑囊	hua nang	100
+先天性青光眼	xian tian xing qing guang yan	100
+腹股沟淋巴结	fu gu gou lin ba jie	100
+毒血症	du xue zheng	100
+胃胀气	wei zhang qi	100
+股骨头缺血性坏死	gu gu tou que xue xing huai si	100
+分泌性中耳炎	fen mi xing zhong er yan	100
+甲状旁腺	jia zhuang pang xian	100
+泌乳素	mi ru su	100
+清肺化痰	qing fei hua tan	100
+优生学	you sheng xue	100
+胃窦	wei dou	100
+蛔虫病	hui chong bing	100
+葡萄糖酸钙	pu tao tang suan gai	100
+雷公藤	lei gong teng	100
+异基因	yi ji yin	100
+聚乙二醇	ju yi er chun	100
+皮肤色素沉着	pi fu se su chen zhuo	100
+视野缺损	shi ye que sun	100
+金钱草	jin qian cao	100
+华法林	hua fa lin	100
+结扎术	jie za shu	100
+桡侧	rao ce	100
+吸入剂	xi ru ji	100
+升主动脉	sheng zhu dong mai	100
+支气管镜检查	zhi qi guan jing jian cha	100
+鼻病毒	bi bing du	100
+冠状动脉狭窄	guan zhuang dong mai xia zhai	100
+风湿热	feng shi re	100
+内踝	nei huai	100
+腹带	fu dai	100
+脾大	pi da	100
+滴度	di du	100
+急性中耳炎	ji xing zhong er yan	100
+色素痣	se su zhi	100
+淋巴循环	lin ba xun huan	100
+肠瘘	chang lou	100
+脚汗	jiao han	100
+心前区疼痛	xin qian qu teng tong	100
+肝细胞癌	gan xi bao ai	100
+剑突	jian tu	100
+咀嚼肌	ju jue ji	100
+睑板腺	jian ban xian	100
+结核分枝杆菌	jie he fen zhi gan jun	100
+组织胺	zu zhi an	100
+感冒清热颗粒	gan mao qing re ke li	100
+脑血栓形成	nao xue shuan xing cheng	100
+咖啡斑	ka fei ban	100
+脑出血后遗症	nao chu xie hou yi zheng	100
+细菌性阴道炎	xi jun xing yin dao yan	100
+痰饮	tan yin	100
+龙胆草	long dan cao	100
+阴茎癌	yin jing ai	100
+速尿	su niao	100
+椎板	chui ban	100
+急性咽喉炎	ji xing yan hou yan	100
+腹主动脉瘤	fu zhu dong mai liu	100
+阿普唑仑	a pu zuo lun	100
+血细胞分析	xue xi bao fen xi	100
+后尿道	hou niao dao	100
+结缔组织病	jie di zu zhi bing	100
+酒精性肝炎	jiu jing xing gan yan	100
+淋巴水肿	lin ba shui zhong	100
+肾性高血压	shen xing gao xue ya	100
+心搏	xin bo	100
+脾阳	pi yang	100
+郁滞	yu zhi	100
+粥样斑块	zhou yang ban kuai	100
+消渴丸	xiao ke wan	100
+前列腺特异性抗原	qian lie xian te yi xing kang yuan	100
+大隐静脉	da yin jing mai	100
+阻塞性肺气肿	zu se xing fei qi zhong	100
+萎缩性鼻炎	wei suo xing bi yan	100
+体液免疫	ti ye mian yi	100
+高血压性心脏病	gao xue ya xing xin zang bing	100
+变形杆菌	bian xing gan jun	100
+下鼻甲	xia bi jia	100
+益智仁	yi zhi ren	100
+淋巴结核	lin ba jie he	100
+地方性甲状腺肿	di fang xing jia zhuang xian zhong	100
+失血性贫血	shi xue xing pin xue	100
+三金片	san jin pian	100
+半胱氨酸	ban guang an suan	100
+舌炎	she yan	100
+卵圆孔	luan yuan kong	100
+肺门	fei men	100
+心脏杂音	xin zang za yin	100
+狼疮性肾炎	lang chuang xing shen yan	100
+颅内压增高	lu nei ya zeng gao	100
+声带小结	sheng dai xiao jie	100
+胆绞痛	dan jiao tong	100
+中枢神经系统感染	zhong shu shen jing xi tong gan ran	100
+接触性出血	jie chu xing chu xie	100
+红霉素软膏	hong mei su ruan gao	100
+慢性中耳炎	man xing zhong er yan	100
+窦道	dou dao	100
+睾丸萎缩	gao wan wei suo	100
+肛门瘙痒	gang men sao yang	100
+眼球突出	yan qiu tu chu	100
+乌药	wu yao	100
+过敏性咳嗽	guo min xing ke sou	100
+妈咪爱	ma mi ai	100
+隔代遗传	ge dai yi chuan	100
+小便频数	xiao bian pin shuo	100
+急性喉炎	ji xing hou yan	100
+四物汤	si wu tang	100
+癌胚抗原	ai pei kang yuan	100
+心包腔	xin bao qiang	100
+胃十二指肠溃疡	wei shi er zhi chang kui yang	100
+麝香保心丸	she xiang bao xin wan	100
+性交疼痛	xing jiao teng tong	100
+急性腹膜炎	ji xing fu mo yan	100
+血沉	xue chen	100
+地西泮	di xi pan	100
+门静脉高压	men jing mai gao ya	100
+脂肪变性	zhi fang bian xing	100
+上睑下垂	shang jian xia chui	100
+桑白皮	sang bai pi	100
+脑炎后遗症	nao yan hou yi zheng	100
+面肌	mian ji	100
+乳头溢液	ru tou yi ye	100
+脓胸	nong xiong	100
+神经再生	shen jing zai sheng	100
+肝血管瘤	gan xue guan liu	100
+感觉减退	gan jue jian tui	100
+尿激酶	niao ji mei	100
+痹痛	bi tong	100
+滴鼻剂	di bi ji	100
+脐疝	qi shan	100
+排毒养颜胶囊	pai du yang yan jiao nang	100
+中间型	zhong jian xing	100
+低钠血症	di na xue zheng	100
+声影	sheng ying	100
+病理性骨折	bing li xing gu zhe	100
+股骨头骨折	gu gu tou gu zhe	100
+啰音	luo yin	100
+滑囊炎	hua nang yan	100
+腱鞘	jian qiao	100
+逼尿肌	bi niao ji	100
+硅酮	gui tong	100
+外显子	wai xian zi	100
+踝关节骨折	huai guan jie gu zhe	100
+仙鹤草	xian he cao	100
+自身抗体	zi shen kang ti	100
+阿德福韦酯	a de fu wei zhi	100
+带环	dai huan	100
+臂丛神经损伤	bi cong shen jing sun shang	100
+腹侧	fu ce	100
+重睑术	zhong jian shu	100
+脑血管瘤	nao xue guan liu	100
+补骨脂	bu gu zhi	100
+骨赘	gu zhui	100
+性腺轴	xing xian zhou	100
+酮康唑	tong kang zuo	100
+肢端肥大症	zhi duan fei da zheng	100
+平喘药	ping chuan yao	100
+脱髓鞘	tuo sui qiao	100
+呋喃西林	fu nan xi lin	100
+桡神经	rao shen jing	100
+掌指关节	zhang zhi guan jie	100
+转移酶	zhuan yi mei	100
+血栓闭塞性脉管炎	xue shuan bi se xing mai guan yan	100
+氯氮平	lv dan ping	100
+祛痰药	qu tan yao	100
+复方阿胶浆	fu fang e jiao jiang	100
+络活喜	luo huo xi	100
+凝血酶	ning xue mei	100
+白色念珠菌	bai se nian zhu jun	100
+甘油三脂	gan you san zhi	100
+颅神经	lu shen jing	100
+肠痉挛	chang jing luan	100
+酒精擦浴	jiu jing ca yu	100
+骨小梁	gu xiao liang	100
+诱发电位	you fa dian wei	100
+活血祛瘀	huo xue qu yu	100
+射干	ye gan	100
+脑脓肿	nao nong zhong	100
+秃发	tu fa	100
+脉络膜	mai luo mo	100
+子宫畸形	zi gong ji xing	100
+白鲜皮	bai xian pi	100
+脓疱疮	nong pao chuang	100
+对因治疗	dui yin zhi liao	100
+支原体肺炎	zhi yuan ti fei yan	100
+直肠脱垂	zhi chang tuo chui	100
+转位	zhuan wei	100
+肛门指检	gang men zhi jian	100
+臀肌	tun ji	100
+紧张性头痛	jin zhang xing tou tong	100
+耳轮	er lun	100
+病理过程	bing li guo cheng	100
+急性前列腺炎	ji xing qian lie xian yan	100
+足内翻	zu nei fan	100
+病毒唑	bing du zuo	100
+粘多糖	zhan duo tang	100
+肛门括约肌	gang men kuo yue ji	100
+慢性扁桃体炎	man xing bian tao ti yan	100
+先天性髋关节脱位	xian tian xing kuan guan jie tuo wei	100
+慢性阑尾炎	man xing lan wei yan	100
+龙胆泻肝丸	long dan xie gan wan	100
+抗焦虑药	kang jiao lv yao	100
+细胞癌	xi bao ai	100
+动静脉畸形	dong jing mai ji xing	100
+酪氨酸酶	lao an suan mei	100
+睾丸扭转	gao wan niu zhuan	100
+放射痛	fang she tong	100
+尺神经	chi shen jing	100
+鹅口疮	e kou chuang	100
+抗精神病药	kang jing shen bing yao	100
+恩替卡韦	en ti ka wei	100
+基底层	ji di ceng	100
+肛门镜检查	gang men jing jian cha	100
+肝内胆管结石	gan nei dan guan jie shi	100
+翼状胬肉	yi zhuang nu rou	100
+毛发移植	mao fa yi zhi	100
+氢化可的松	qing hua ke di song	100
+脑循环	nao xun huan	100
+氯吡格雷	lv bi ge lei	100
+杞菊地黄丸	qi ju di huang wan	100
+肥大细胞	fei da xi bao	100
+十二指肠炎	shi er zhi chang yan	100
+静脉血栓形成	jing mai xue shuan xing cheng	100
+阳性体征	yang xing ti zheng	100
+大鱼际	da yu ji	100
+漏斗胸	lou dou xiong	100
+莫西沙星	mo xi sha xing	100
+哮鸣音	xiao ming yin	100
+琥珀酸	hu po suan	100
+保和丸	bao he wan	100
+知柏地黄丸	zhi bai di huang wan	100
+继发性肺结核	ji fa xing fei jie he	100
+独一味	du yi wei	100
+嗜铬细胞瘤	shi ge xi bao liu	100
+脾肾阳虚	pi shen yang xu	100
+心脾两虚	xin pi liang xu	100
+包皮垢	bao pi gou	100
+表情肌	biao qing ji	100
+视盘	shi pan	100
+舌象	she xiang	100
+感染性心内膜炎	gan ran xing xin nei mo yan	100
+大叶性肺炎	da ye xing fei yan	100
+头孢他啶	tou bao ta ding	100
+鼻泪管	bi lei guan	100
+逍遥丸	xiao yao wan	100
+距骨	ju gu	100
+双球菌	shuang qiu jun	100
+地肤子	di fu zi	100
+大汗腺	da han xian	100
+肩峰	jian feng	100
+体循环	ti xun huan	100
+肠外营养	chang wai ying yang	100
+淋巴结炎	lin ba jie yan	100
+视神经炎	shi shen jing yan	100
+听神经瘤	ting shen jing liu	100
+肾区	shen qu	100
+头孢氨苄	tou bao an bian	100
+小柴胡颗粒	xiao chai hu ke li	100
+咽峡炎	yan xia yan	100
+血浆蛋白	xue jiang dan bai	100
+内板	nei ban	100
+多毛症	duo mao zheng	100
+椎弓根	chui gong gen	100
+胬肉	nu rou	100
+泰诺林	tai nuo lin	100
+睾丸疼痛	gao wan teng tong	100
+呋麻滴鼻液	fu ma di bi ye	100
+肝静脉	gan jing mai	100
+膈疝	ge shan	100
+降钙素	jiang gai su	100
+龟头炎	gui tou yan	100
+直肠炎	zhi chang yan	100
+达克宁	da ke ning	100
+口服葡萄糖	kou fu pu tao tang	100
+胸锁乳突肌	xiong suo ru tu ji	100
+耳屏	er ping	100
+辛伐他汀	xin fa ta ting	100
+平滑肌瘤	ping hua ji liu	100
+肺动脉闭锁	fei dong mai bi suo	100
+肾上腺肿瘤	shen shang xian zhong liu	100
+羊水过少	yang shui guo shao	100
+瘢痕体质	ban hen ti zhi	100
+急支糖浆	ji zhi tang jiang	100
+云南白药胶囊	yun nan bai yao jiao nang	100
+白腻	bai ni	100
+肝脓肿	gan nong zhong	100
+结节性甲状腺肿	jie jie xing jia zhuang xian zhong	100
+前交叉韧带	qian jiao cha ren dai	100
+喉返神经	hou fan shen jing	100
+鼻衄	bi nv	100
+胆碱酯酶	dan jian zhi mei	100
+特应性皮炎	te ying xing pi yan	100
+周围神经病	zhou wei shen jing bing	100
+卡马西平	ka ma xi ping	100
+恶病质	e bing zhi	100
+咪唑	mi zuo	100
+浅静脉	qian jing mai	100
+超声内镜	chao sheng nei jing	100
+性欲亢进	xing yu kang jin	100
+总胆红素	zong dan hong su	100
+基底细胞癌	ji di xi bao ai	100
+肺循环	fei xun huan	100
+息斯敏	xi si min	100
+升结肠	sheng jie chang	100
+僵蚕	jiang can	100
+头孢呋辛	tou bao fu xin	100
+大肠埃希菌	da chang ai xi jun	100
+发作性睡病	fa zuo xing shui bing	100
+肛门出血	gang men chu xie	100
+慢性活动性肝炎	man xing huo dong xing gan yan	100
+硝酸银	xiao suan yin	100
+骨质破坏	gu zhi po huai	100
+切牙	qie ya	100
+喘鸣	chuan ming	100
+生殖细胞瘤	sheng zhi xi bao liu	100
+华素片	hua su pian	100
+皱襞	zhou bi	100
+室性心动过速	shi xing xin dong guo su	100
+氨氯地平	an lv di ping	100
+胰酶	yi mei	100
+耻骨联合	chi gu lian he	100
+氯雷他定	lv lei ta ding	100
+心电图异常	xin dian tu yi chang	100
+急性鼻窦炎	ji xing bi dou yan	100
+静脉丛	jing mai cong	100
+可的松	ke di song	100
+多粘菌素	duo zhan jun su	100
+松解术	song jie shu	100
+烟雾病	yan wu bing	100
+肌筋膜炎	ji jin mo yan	100
+真菌病	zhen jun bing	100
+膀胱镜检查	pang guang jing jian cha	100
+甲癣	jia xuan	100
+肝母细胞瘤	gan mu xi bao liu	100
+泪囊炎	lei nang yan	100
+百多邦	bai duo bang	100
+经颅多普勒	jing lu duo pu lei	100
+乳头内陷	ru tou nei xian	100
+骨痂	gu jia	100
+无热	wu re	100
+氯硝西泮	lv xiao xi pan	100
+胆汁性肝硬化	dan zhi xing gan ying hua	100
+急性荨麻疹	ji xing xun ma zhen	100
+促甲状腺激素	cu jia zhuang xian ji su	100
+大便潜血	da bian qian xue	100
+加替沙星	jia ti sha xing	100
+单纯疱疹	dan chun pao zhen	100
+指间关节	zhi jian guan jie	100
+先天性弱视	xian tian xing ruo shi	100
+环磷酰胺	huan lin xian an	100
+胺碘酮	an dian tong	100
+腺苷	xian gan	100
+谷草转氨酶	gu cao zhuan an mei	100
+强力霉素	qiang li mei su	100
+三磷酸腺苷	san lin suan xian gan	100
+胸腺瘤	xiong xian liu	100
+锌缺乏	xin que fa	100
+双子宫	shuang zi gong	100
+脾胃湿热	pi wei shi re	100
+肺间质纤维化	fei jian zhi xian wei hua	100
+葡萄胎	pu tao tai	100
+总蛋白	zong dan bai	100
+米非司酮片	mi fei si tong pian	100
+正中神经	zheng zhong shen jing	100
+重吸收	zhong xi shou	100
+肾阴不足	shen yin bu zu	100
+神经性疼痛	shen jing xing teng tong	100
+嗜酸性粒细胞	shi suan xing li xi bao	100
+主动脉缩窄	zhu dong mai suo zhai	100
+子宫发育不良	zi gong fa yu bu liang	100
+米诺地尔	mi nuo di er	100
+黑素细胞	hei su xi bao	100
+米非司酮	mi fei si tong	100
+静脉麻醉	jing mai ma zui	100
+慢性骨髓炎	man xing gu sui yan	100
+扁平苔藓	bian ping tai xian	100
+香菇多糖	xiang gu duo tang	100
+新霉素	xin mei su	100
+神经阻滞	shen jing zu zhi	100
+关节活动度	guan jie huo dong du	100
+白细胞增多	bai xi bao zeng duo	100
+血小板计数	xue xiao ban ji shu	100
+窦房结	dou fang jie	100
+内囊	nei nang	100
+顺应性	shun ying xing	100
+肝大	gan da	100
+先天性马蹄内翻足	xian tian xing ma ti nei fan zu	100
+多西环素	duo xi huan su	100
+乳头状瘤	ru tou zhuang liu	100
+间质性肾炎	jian zhi xing shen yan	100
+恶性贫血	e xing pin xue	100
+黄疸型肝炎	huang dan xing gan yan	100
+月经稀少	yue jing xi shao	100
+丹参片	dan shen pian	100
+阿托伐他汀	a tuo fa ta ting	100
+垂直传播	chui zhi chuan bo	100
+顿服	dun fu	100
+环孢素	huan bao su	100
+胆石	dan shi	100
+玻璃酸钠	bo li suan na	100
+小细胞癌	xiao xi bao ai	100
+降结肠	jiang jie chang	100
+锁骨下动脉	suo gu xia dong mai	100
+莪术	e shu	100
+缩宫素	suo gong su	100
+继发性痛经	ji fa xing tong jing	100
+低钙血症	di gai xue zheng	100
+粉针	fen zhen	100
+三七片	san qi pian	100
+多汗症	duo han zheng	100
+骶髂关节	di qia guan jie	100
+睑结膜	jian jie mo	100
+西咪替丁	xi mi ti ding	100
+胎心率	tai xin lv	100
+心血不足	xin xue bu zu	100
+腕管	wan guan	100
+瓣膜置换术	ban mo zhi huan shu	100
+补中益气汤	bu zhong yi qi tang	100
+护肝片	hu gan pian	100
+毛细支气管炎	mao xi zhi qi guan yan	100
+脑脊液	nao ji ye	100
+谷氨酰胺	gu an xian an	100
+口炎	kou yan	100
+瘢痕组织	ban hen zu zhi	100
+开角型青光眼	kai jiao xing qing guang yan	100
+寰枢关节	huan shu guan jie	100
+足背动脉	zu bei dong mai	100
+气胀	qi zhang	100
+高密度影	gao mi du ying	100
+痔疮膏	zhi chuang gao	100
+洋地黄	yang di huang	100
+胸膜腔	xiong mo qiang	100
+瓜氨酸	gua an suan	100
+丙氨酸	bing an suan	100
+颠茄	dian jia	100
+海绵窦	hai mian dou	100
+假单胞菌	jia dan bao jun	100
+疼痛门诊	teng tong men zhen	100
+神经生长因子	shen jing sheng zhang yin zi	100
+舌苔黄腻	she tai huang ni	100
+头孢克洛	tou bao ke luo	100
+奥美拉唑肠溶胶囊	ao mei la zuo chang rong jiao nang	100
+融合基因	rong he ji yin	100
+肺吸虫病	fei xi chong bing	100
+苯妥英钠	ben tuo ying na	100
+结核菌素	jie he jun su	100
+颅咽管瘤	lu yan guan liu	100
+金霉素眼膏	jin mei su yan gao	100
+玻璃体积血	bo li ti ji xue	100
+金匮肾气丸	jin kui shen qi wan	100
+胶原酶	jiao yuan mei	100
+肠鸣音	chang ming yin	100
+风热咳嗽	feng re ke sou	100
+消心痛	xiao xin tong	100
+输卵管妊娠	shu luan guan ren shen	100
+静脉窦	jing mai dou	100
+胱氨酸	guang an suan	100
+林可霉素	lin ke mei su	100
+肺纹理	fei wen li	100
+强迫观念	qiang po guan nian	100
+骨扫描	gu sao miao	100
+眼裂	yan lie	100
+肌病	ji bing	100
+结核菌素试验	jie he jun su shi yan	100
+冲击疗法	chong ji liao fa	100
+王不留行	wang bu liu xing	100
+碱性磷酸酶	jian xing lin suan mei	100
+制首乌	zhi shou wu	100
+法洛四联症	fa luo si lian zheng	100
+肠结核	chang jie he	100
+抗原抗体	kang yuan kang ti	100
+胃癌根治术	wei ai gen zhi shu	100
+鼓室	gu shi	100
+间皮瘤	jian pi liu	100
+黄斑水肿	huang ban shui zhong	100
+生精细胞	sheng jing xi bao	100
+碘酊	dian ding	100
+隐睾症	yin gao zheng	100
+类固醇激素	lei gu chun ji su	100
+显性遗传	xian xing yi chuan	100
+类风湿因子	lei feng shi yin zi	100
+白介素	bai jie su	100
+异丙嗪	yi bing qin	100
+右美沙芬	you mei sha fen	100
+不规则阴道出血	bu gui ze yin dao chu xie	100
+帕罗西汀	pa luo xi ting	100
+肾结核	shen jie he	100
+颈外动脉	jing wai dong mai	100
+臂丛神经	bi cong shen jing	100
+鼻甲肥大	bi jia fei da	100
+软组织肉瘤	ruan zu zhi rou liu	100
+质子泵	zhi zi beng	100
+蛛网膜囊肿	zhu wang mo nang zhong	100
+感冒灵颗粒	gan mao ling ke li	100
+银黄颗粒	yin huang ke li	100
+复方新诺明	fu fang xin nuo ming	100
+二尖瓣狭窄	er jian ban xia zhai	100
+抗体滴度	kang ti di du	100
+轴位	zhou wei	100
+绒毛膜促性腺激素	rong mao mo cu xing xian ji su	100
+胆盐	dan yan	100
+免疫复合物	mian yi fu he wu	100
+子宫肌层	zi gong ji ceng	100
+炒麦芽	chao mai ya	100
+红细胞增多症	hong xi bao zeng duo zheng	100
+冠状沟	guan zhuang gou	100
+被动运动	bei dong yun dong	100
+洛赛克	luo sai ke	100
+腺泡	xian pao	100
+幽门梗阻	you men geng zu	100
+癫痫持续状态	dian xian chi xu zhuang tai	100
+髓鞘	sui qiao	100
+慢性喉炎	man xing hou yan	100
+非淋菌性尿道炎	fei lin jun xing niao dao yan	100
+血清蛋白	xue qing dan bai	100
+肋间神经痛	le jian shen jing tong	100
+肝胃不和	gan wei bu he	100
+阿昔洛韦	a xi luo wei	100
+浆细胞	jiang xi bao	100
+肝硬变	gan ying bian	100
+前囟	qian xin	100
+炒白术	chao bai zhu	100
+乳酶生	ru mei sheng	100
+肾单位	shen dan wei	100
+倍他乐克	bei ta le ke	100
+阿莫西林颗粒	a mo xi lin ke li	100
+胰十二指肠切除术	yi shi er zhi chang qie chu shu	100
+希罗达	xi luo da	100
+宫颈涂片	gong jing tu pian	100
+蛲虫	nao chong	100
+草珊瑚含片	cao shan hu han pian	100
+睑缘炎	jian yuan yan	100
+筛窦	shai dou	100
+睾丸肿瘤	gao wan zhong liu	100
+玻璃体出血	bo li ti chu xie	100
+主动脉瓣狭窄	zhu dong mai ban xia zhai	100
+白前	bai qian	100
+特发性血小板减少性紫癜	te fa xing xue xiao ban jian shao xing zi dian	100
+嵌甲	qian jia	100
+脑干梗塞	nao gan geng se	100
+变应原	bian ying yuan	100
+氨基葡萄糖	an ji pu tao tang	100
+头孢克肟	tou bao ke wo	100
+造影术	zao ying shu	100
+睫状体	jie zhuang ti	100
+小阴唇	xiao yin chun	100
+蒙脱石	meng tuo shi	100
+筛孔	shai kong	100
+舒乐安定	shu le an ding	100
+鞘膜积液	qiao mo ji ye	100
+小脑出血	xiao nao chu xie	100
+骶椎	di zhui	100
+黄斑裂孔	huang ban lie kong	100
+神经根型颈椎病	shen jing gen xing jing chui bing	100
+重复肾	chong fu shen	100
+萘普生	nai pu sheng	100
+雷尼替丁	lei ni ti ding	100
+直肠指检	zhi chang zhi jian	100
+地榆	di yu	100
+舌骨	she gu	100
+少腹	shao fu	100
+醋酸泼尼松	cu suan po ni song	100
+肝郁脾虚	gan yu pi xu	100
+视诊	shi zhen	100
+鼻咽炎	bi yan yan	100
+清宫术	qing gong shu	100
+补中益气丸	bu zhong yi qi wan	100
+软骨瘤	ruan gu liu	100
+盆腔脓肿	pen qiang nong zhong	100
+静止期	jing zhi qi	100
+根尖周炎	gen jian zhou yan	100
+利培酮	li pei tong	100
+黑色素沉着	hei se su chen zhuo	100
+胰岛素样生长因子	yi dao su yang sheng zhang yin zi	100
+搽剂	cha ji	100
+眼轮匝肌	yan lun za ji	100
+罗红霉素胶囊	luo hong mei su jiao nang	100
+尿道损伤	niao dao sun shang	100
+神经瘤	shen jing liu	100
+胆道感染	dan dao gan ran	100
+骨巨细胞瘤	gu ju xi bao liu	100
+跟腱炎	gen jian yan	100
+钙化灶	gai hua zao	100
+前列腺特异抗原	qian lie xian te yi kang yuan	100
+脂肪肉瘤	zhi fang rou liu	100
+卵巢炎	luan chao yan	100
+子宫动脉	zi gong dong mai	100
+动态脑电图	dong tai nao dian tu	100
+顺铂	shun bo	100
+胶质母细胞瘤	jiao zhi mu xi bao liu	100
+腰大肌	yao da ji	100
+侧脑室	ce nao shi	100
+前哨淋巴结	qian shao lin ba jie	100
+纤维腺瘤	xian wei xian liu	100
+化脓性中耳炎	hua nong xing zhong er yan	100
+生脉饮	sheng mai yin	100
+左旋多巴	zuo xuan duo ba	100
+败酱草	bai jiang cao	100
+弱视训练	ruo shi xun lian	100
+出血时间	chu xie shi jian	100
+藿香正气软胶囊	huo xiang zheng qi ruan jiao nang	100
+归脾丸	gui pi wan	100
+白花蛇舌草	bai hua she she cao	100
+水电解质紊乱	shui dian jie zhi wen luan	100
+黄连上清丸	huang lian shang qing wan	100
+血塞通	xue sai tong	100
+阴囊湿疹	yin nang shi zhen	100
+急性盆腔炎	ji xing pen qiang yan	100
+阴道松弛	yin dao song chi	100
+体外冲击波碎石	ti wai chong ji bo sui shi	100
+角化过度	jiao hua guo du	100
+仙灵脾	xian ling pi	100
+阴道分泌物检查	yin dao fen mi wu jian cha	100
+肺动脉瓣	fei dong mai ban	100
+骨膜炎	gu mo yan	100
+舟骨	zhou gu	100
+脐静脉	qi jing mai	100
+肾实质	shen shi zhi	100
+西替利嗪	xi ti li qin	100
+无极膏	wu ji gao	100
+单心室	dan xin shi	100
+肾小球滤过率	shen xiao qiu lv guo lv	100
+脂肪乳	zhi fang ru	100
+错构瘤	cuo gou liu	100
+颌下腺	he xia xian	100
+参苓白术散	can ling bai zhu san	100
+睑裂	jian lie	100
+酮症	tong zheng	100
+输卵管积水	shu luan guan ji shui	100
+半枝莲	ban zhi lian	100
+瓷贴面	ci tie mian	100
+子宫内膜息肉	zi gong nei mo xi rou	100
+扶他林	fu ta lin	100
+膝关节置换术	xi guan jie zhi huan shu	100
+跳痛	tiao tong	100
+抗雄激素	kang xiong ji su	100
+乳酸脱氢酶	ru suan tuo qing mei	100
+卵黄	luan huang	100
+心肾不交	xin shen bu jiao	100
+脱敏疗法	tuo min liao fa	100
+替硝唑	ti xiao zuo	100
+卵巢恶性肿瘤	luan chao e xing zhong liu	100
+多西他赛	duo xi ta sai	100
+怀牛膝	huai niu xi	100
+乳腺囊肿	ru xian nang zhong	100
+脊索瘤	ji suo liu	100
+溶血性黄疸	rong xue xing huang dan	100
+跌打丸	die da wan	100
+半规管	ban gui guan	100
+悬雍垂	xuan yong chui	100
+急性膀胱炎	ji xing pang guang yan	100
+宫腔镜检查	gong qiang jing jian cha	100
+脾主运化	pi zhu yun hua	100
+胃肠减压	wei chang jian ya	100
+动脉血压	dong mai xue ya	100
+室上性心动过速	shi shang xing xin dong guo su	100
+躯体形式障碍	qu ti xing shi zhang ai	100
+特布他林	te bu ta lin	100
+食欲亢进	shi yu kang jin	100
+黑色素痣	hei se su zhi	100
+甲氨蝶呤	jia an die ling	100
+神经纤维瘤病	shen jing xian wei liu bing	100
+氨曲南	an qu nan	100
+山豆根	shan dou gen	100
+抗精子抗体	kang jing zi kang ti	100
+叩诊	kou zhen	100
+动静脉瘘	dong jing mai lou	100
+肾细胞癌	shen xi bao ai	100
+妇科千金片	fu ke qian jin pian	100
+特发性震颤	te fa xing zhen chan	100
+抗利尿激素	kang li niao ji su	100
+斑状	ban zhuang	100
+肾动脉狭窄	shen dong mai xia zhai	100
+眼睑痉挛	yan jian jing luan	100
+斑片	ban pian	100
+擦剂	ca ji	100
+肌苷	ji gan	100
+热淋	re lin	100
+疝修补术	shan xiu bu shu	100
+非那雄胺	fei na xiong an	100
+髓内钉	sui nei ding	100
+大山楂丸	da shan zha wan	100
+食管狭窄	shi guan xia zhai	100
+淋巴管瘤	lin ba guan liu	100
+髓质	sui zhi	100
+痰热清	tan re qing	100
+肾切除术	shen qie chu shu	100
+混悬剂	hun xuan ji	100
+血窦	xue dou	100
+淋巴管炎	lin ba guan yan	100
+阴道冲洗	yin dao chong xi	100
+肾盏	shen zhan	100
+腰椎结核	yao zhui jie he	100
+人绒毛膜促性腺激素	ren rong mao mo cu xing xian ji su	100
+补体	bu ti	100
+食管裂孔疝	shi guan lie kong shan	100
+川芎嗪	chuan qiong qin	100
+肺炎支原体	fei yan zhi yuan ti	100
+拜新同	bai xin tong	100
+葡萄糖酸锌	pu tao tang suan xin	100
+憩室	qi shi	100
+炎琥宁	yan hu ning	100
+红皮病	hong pi bing	100
+软骨肉瘤	ruan gu rou liu	100
+湿疣	shi you	100
+腓总神经	fei zong shen jing	100
+传导性耳聋	chuan dao xing er long	100
+乙肝表面抗体	yi gan biao mian kang ti	100
+川楝子	chuan lian zi	100
+神经营养因子	shen jing ying yang yin zi	100
+窦性心动过缓	dou xing xin dong guo huan	100
+醛固酮	quan gu tong	100
+感冒颗粒	gan mao ke li	100
+肝胆湿热	gan dan shi re	100
+分流术	fen liu shu	100
+蓝芩口服液	lan qin kou fu ye	100
+急性肾盂肾炎	ji xing shen yu shen yan	100
+切口疝	qie kou shan	100
+瘢痕疙瘩	ban hen ge da	100
+听小骨	ting xiao gu	100
+腱鞘囊肿	jian qiao nang zhong	100
+妇炎洁	fu yan jie	100
+肾盂癌	shen yu ai	100
+慢性化脓性中耳炎	man xing hua nong xing zhong er yan	100
+肠扭转	chang niu zhuan	100
+寒冷性荨麻疹	han leng xing xun ma zhen	100
+偏盲	pian mang	100
+潘生丁	pan sheng ding	100
+胆源性胰腺炎	dan yuan xing yi xian yan	100
+疝内容物	shan nei rong wu	100
+硼酸溶液	peng suan rong ye	100
+大结节	da jie jie	100
+甲状腺恶性肿瘤	jia zhuang xian e xing zhong liu	100
+肾盂积水	shen yu ji shui	100
+消炎片	xiao yan pian	100
+念珠菌感染	nian zhu jun gan ran	100
+双氯芬酸钠	shuang lv fen suan na	100
+疝囊	shan nang	100
+多巴胺受体	duo ba an shou ti	100
+参松养心胶囊	can song yang xin jiao nang	100
+椎动脉型颈椎病	chui dong mai xing jing chui bing	100
+回盲部	hui mang bu	100
+子宫粘连	zi gong zhan lian	100
+血管性水肿	xue guan xing shui zhong	100
+肾气丸	shen qi wan	100
+胸腺肽	xiong xian tai	100
+泼尼松	po ni song	100
+细胞毒	xi bao du	100
+大隐静脉曲张	da yin jing mai qu zhang	100
+乳腺纤维腺瘤	ru xian xian wei xian liu	100
+他克莫司	ta ke mo si	100
+胼胝体	pian zhi ti	100
+肠系膜上动脉	chang xi mo shang dong mai	100
+下肢深静脉血栓形成	xia zhi shen jing mai xue shuan xing cheng	100
+甲硝唑片	jia xiao zuo pian	100
+呋喃妥因	fu nan tuo yin	100
+黑头粉刺	hei tou fen ci	100
+结节性	jie jie xing	100
+小耳畸形	xiao er ji xing	100
+闭孔	bi kong	100
+脑桥	nao qiao	100
+磷霉素	lin mei su	100
+多发性肌炎	duo fa xing ji yan	100
+阵发性室上性心动过速	zhen fa xing shi shang xing xin dong guo su	100
+传染性单核细胞增多症	chuan ran xing dan he xi bao zeng duo zheng	100
+红霉素眼膏	hong mei su yan gao	100
+神经鞘瘤	shen jing qiao liu	100
+慢性泪囊炎	man xing lei nang yan	100
+赛庚啶	sai geng ding	100
+病毒性肠炎	bing du xing chang yan	100
+亮丙瑞林	liang bing rui lin	100
+胆汁反流性胃炎	dan zhi fan liu xing wei yan	100
+依那普利	yi na pu li	100
+胆道梗阻	dan dao geng zu	100
+智齿冠周炎	zhi chi guan zhou yan	100
+尼莫地平	ni mo di ping	100
+鞍区	an qu	100
+黄斑出血	huang ban chu xie	100
+肛门狭窄	gang men xia zhai	100
+包皮龟头炎	bao pi gui tou yan	100
+骨皮质	gu pi zhi	100
+肌强直	ji qiang zhi	100
+细菌性肠炎	xi jun xing chang yan	100
+梅尼埃病	mei ni ai bing	100
+四磨汤口服液	si mo tang kou fu ye	100
+胃康灵	wei kang ling	100
+炉甘石	lu gan shi	100
+巩膜黄染	gong mo huang ran	100
+氟哌啶醇	fu pai ding chun	100
+安神补脑液	an shen bu nao ye	100
+甲强龙	jia qiang long	100
+神经系统检查	shen jing xi tong jian cha	100
+周围性面瘫	zhou wei xing mian tan	100
+淋巴滤泡	lin ba lv pao	100
+脾切除术	pi qie chu shu	100
+甲状腺腺瘤	jia zhuang xian xian liu	100
+蜘蛛痣	zhi zhu zhi	100
+伸肌	shen ji	100
+锁骨上淋巴结	suo gu shang lin ba jie	100
+肥厚性心肌病	fei hou xing xin ji bing	100
+肌钙蛋白	ji gai dan bai	100
+胸腺五肽	xiong xian wu tai	100
+低分子肝素	di fen zi gan su	100
+氮质血症	dan zhi xue zheng	100
+优甲乐	you jia le	100
+尿素软膏	niao su ruan gao	100
+冷冻疗法	leng dong liao fa	100
+小儿感冒颗粒	xiao er gan mao ke li	100
+输尿管狭窄	shu niao guan xia zhai	100
+头孢氨苄胶囊	tou bao an bian jiao nang	100
+板兰根	ban lan gen	100
+波依定	bo yi ding	100
+眼睑水肿	yan jian shui zhong	100
+脑鸣	nao ming	100
+平衡易位	ping heng yi wei	100
+植骨术	zhi gu shu	100
+功能性胃肠病	gong neng xing wei chang bing	100
+杵状指	chu zhuang zhi	100
+氧氟沙星滴眼液	yang fu sha xing di yan ye	100
+反跳痛	fan tiao tong	100
+肤轻松软膏	fu qing song ruan gao	100
+咽炎片	yan yan pian	100
+窦性心动过速	dou xing xin dong guo su	100
+肠胀气	chang zhang qi	100
+四神丸	si shen wan	100
+癫痫大发作	dian xian da fa zuo	100
+黄连上清片	huang lian shang qing pian	100
+逆行射精	ni xing she jing	100
+利凡诺	li fan nuo	100
+子宫内膜增生	zi gong nei mo zeng sheng	100
+静脉瓣	jing mai ban	100
+黄体生成素	huang ti sheng cheng su	100
+乌灵胶囊	wu ling jiao nang	100
+甲状腺囊肿	jia zhuang xian nang zhong	100
+甲状旁腺激素	jia zhuang pang xian ji su	100
+脑心通	nao xin tong	100
+耐量试验	nai liang shi yan	100
+长春新碱	chang chun xin jian	100
+睾丸鞘膜积液	gao wan qiao mo ji ye	100
+丽珠得乐	li zhu de le	100
+锁骨上窝	suo gu shang wo	100
+奥沙利铂	ao sha li bo	100
+普萘洛尔	pu nai luo er	100
+心瓣膜	xin ban mo	100
+奥氮平	ao dan ping	100
+天疱疮	tian pao chuang	100
+骨髓纤维化	gu sui xian wei hua	100
+人参皂苷	ren shen zao gan	100
+射血分数	she xue fen shu	100
+机化	ji hua	100
+多囊肝	duo nang gan	100
+硬化性	ying hua xing	100
+多潘立酮片	duo pan li tong pian	100
+慢性肾盂肾炎	man xing shen yu shen yan	100
+牛黄清胃丸	niu huang qing wei wan	100
+矫形鞋	jiao xing xie	100
+支持带	zhi chi dai	100
+子宫腺肌病	zi gong xian ji bing	100
+中气下陷	zhong qi xia xian	100
+纤维肉瘤	xian wei rou liu	100
+归脾汤	gui pi tang	100
+布洛芬混悬液	bu luo fen hun xuan ye	100
+咳必清	ke bi qing	100
+纵裂	zong lie	100
+诺和灵	nuo he ling	100
+硫脲	liu niao	100
+玉屏风	yu ping feng	100
+小儿肺热咳喘口服液	xiao er fei re ke chuan kou fu ye	100
+右归丸	you gui wan	100
+肾静脉	shen jing mai	100
+氟西汀	fu xi ting	100
+布洛芬缓释胶囊	bu luo fen huan shi jiao nang	100
+阿魏酸	a wei suan	100
+红光治疗	hong guang zhi liao	100
+霰粒肿	xian li zhong	100
+卵泡刺激素	luan pao ci ji su	100
+蝶窦	die dou	100
+劳拉西泮	lao la xi pan	100
+感冒灵胶囊	gan mao ling jiao nang	100
+阿奇霉素颗粒	a qi mei su ke li	100
+呋塞米	fu sai mi	100
+小儿氨酚黄那敏颗粒	xiao er an fen huang na min ke li	100
+主动脉狭窄	zhu dong mai xia zhai	100
+促肾上腺皮质激素	cu shen shang xian pi zhi ji su	100
+丙硫氧嘧啶	bing liu yang mi ding	100
+内消	nei xiao	100
+泪道阻塞	lei dao zu se	100
+二尖瓣关闭不全	er jian ban guan bi bu quan	100
+奋乃静	fen nai jing	100
+亚急性甲状腺炎	ya ji xing jia zhuang xian yan	100
+急性肾小球肾炎	ji xing shen xiao qiu shen yan	100
+左房	zuo fang	100
+唾液酸	tuo ye suan	100
+左归丸	zuo gui wan	100
+酒渣鼻	jiu zha bi	100
+双氯芬酸	shuang lv fen suan	100
+髓腔	sui qiang	100
+冠周炎	guan zhou yan	100
+硫磺软膏	liu huang ruan gao	100
+手指畸形	shou zhi ji xing	100
+冰硼散	bing peng san	100
+肌阵挛	ji zhen luan	100
+土鳖虫	tu bie chong	100
+二聚体	er ju ti	100
+嗜酸细胞	shi suan xi bao	100
+硝苯地平缓释片	xiao ben di ping huan shi pian	100
+基底膜	ji di mo	100
+梗阻性脑积水	geng zu xing nao ji shui	100
+阵挛	zhen luan	100
+蛲虫病	nao chong bing	100
+腱反射	jian fan she	100
+小脑扁桃体	xiao nao bian tao ti	100
+丹参酮	dan shen tong	100
+蝶骨	die gu	100
+反流性胃炎	fan liu xing wei yan	100
+肠功能紊乱	chang gong neng wen luan	100
+大动脉炎	da dong mai yan	100
+鼻腔冲洗	bi qiang chong xi	100
+红藤	hong teng	100
+阿米替林	a mi ti lin	100
+法莫替丁	fa mo ti ding	100
+小针刀治疗	xiao zhen dao zhi liao	100
+舌系带	she ji dai	100
+附子理中丸	fu zi li zhong wan	100
+阿米卡星	a mi ka xing	100
+精液常规检查	jing ye chang gui jian cha	100
+第四脑室	di si nao shi	100
+芦荟胶囊	lu hui jiao nang	100
+颈动脉硬化	jing dong mai ying hua	100
+舌咽神经痛	she yan shen jing tong	100
+颊脂垫	jia zhi dian	100
+食管静脉曲张	shi guan jing mai qu zhang	100
+肌性斜颈	ji xing xie jing	100
+玉屏风颗粒	yu ping feng ke li	100
+仙茅	xian mao	100
+周期性麻痹	zhou qi xing ma bi	100
+髋关节炎	kuan guan jie yan	100
+精子发生	jing zi fa sheng	100
+舌下腺囊肿	she xia xian nang zhong	100
+奥硝唑	ao xiao zuo	100
+星形细胞瘤	xing xing xi bao liu	100
+泪管	lei guan	100
+前列腺结石	qian lie xian jie shi	100
+艾附暖宫丸	ai fu nuan gong wan	100
+色素减退	se su jian tui	100
+外侧半月板	wai ce ban yue ban	100
+肾小球硬化	shen xiao qiu ying hua	100
+色素脱失	se su tuo shi	100
+壮腰健肾丸	zhuang yao jian shen wan	100
+结核性腹膜炎	jie he xing fu mo yan	100
+吡嗪酰胺	bi qin xian an	100
+天麻素	tian ma su	100
+莲须	lian xu	100
+内斜视	nei xie shi	100
+脓尿	nong niao	100
+玫瑰糠疹	mei gui kang zhen	100
+声带麻痹	sheng dai ma bi	100
+载脂蛋白	zai zhi dan bai	100
+制霉菌素	zhi mei jun su	100
+十全大补丸	shi quan da bu wan	100
+原发性闭经	yuan fa xing bi jing	100
+中鼻甲	zhong bi jia	100
+脾肾两虚	pi shen liang xu	100
+丙戊酸钠	bing wu suan na	100
+伽玛刀治疗	ga ma dao zhi liao	100
+鱼石脂软膏	yu shi zhi ruan gao	100
+直肠阴道瘘	zhi chang yin dao lou	100
+肌炎	ji yan	100
+耵聍栓塞	ding ning shuan se	100
+氟尿嘧啶	fu niao mi ding	100
+阿奇霉素分散片	a qi mei su fen san pian	100
+超声造影	chao sheng zao ying	100
+龙胆泻肝汤	long dan xie gan tang	100
+螺内酯	luo nei zhi	100
+肋软骨炎	le ruan gu yan	100
+上纵隔	shang zong ge	100
+阻生牙	zu sheng ya	100
+原发性血小板减少性紫癜	yuan fa xing xue xiao ban jian shao xing zi dian	100
+继发性闭经	ji fa xing bi jing	100
+克氏针	ke shi zhen	100
+妥布霉素	tuo bu mei su	100
+嗜酸性	shi suan xing	100
+更昔洛韦	geng xi luo wei	100
+肝掌	gan zhang	100
+脑心通胶囊	nao xin tong jiao nang	100
+碳酸氢钠片	tan suan qing na pian	100
+肌紧张	ji jin zhang	100
+曲安奈德	qu an nai de	100
+柴胡疏肝散	chai hu shu gan san	100
+内侧韧带	nei ce ren dai	100
+益母草颗粒	yi mu cao ke li	100
+天麻丸	tian ma wan	100
+防风通圣丸	fang feng tong sheng wan	100
+三尖瓣返流	san jian ban fan liu	100
+小阴茎	xiao yin jing	100
+额窦	e dou	100
+桡神经损伤	rao shen jing sun shang	100
+乌蛇	wu she	100
+腱膜	jian mo	100
+寻常型银屑病	xun chang xing yin xie bing	100
+丽珠肠乐	li zhu chang le	100
+高泌乳素血症	gao mi ru su xue zheng	100
+胃气上逆	wei qi shang ni	100
+阿霉素	a mei su	100
+伊曲康唑	yi qu kang zuo	100
+造口术	zao kou shu	100
+盐酸左氧氟沙星	yan suan zuo yang fu sha xing	100
+上皮癌	shang pi ai	100
+缬沙坦	xie sha tan	100
+封闭疗法	feng bi liao fa	100
+百令胶囊	bai ling jiao nang	100
+腹股沟管	fu gu gou guan	100
+皮康王	pi kang wang	100
+心律平	xin lv ping	100
+炔诺酮	gui nuo tong	100
+过氧化物酶	guo yang hua wu mei	100
+浊音	zhuo yin	100
+内眦赘皮	nei zi zhui pi	100
+心肌劳损	xin ji lao sun	100
+万托林	wan tuo lin	100
+皮脂腺囊肿	pi zhi xian nang zhong	100
+参苓白术丸	can ling bai zhu wan	100
+舒巴坦	shu ba tan	100
+药物敏感试验	yao wu min gan shi yan	100
+混合瘤	hun he liu	100
+二尖瓣置换术	er jian ban zhi huan shu	100
+陈旧性肺结核	chen jiu xing fei jie he	100
+普鲁卡因	pu lu ka yin	100
+替米沙坦	ti mi sha tan	100
+止咳胶囊	zhi ke jiao nang	100
+血氨	xue an	100
+射精障碍	she jing zhang ai	100
+输尿管扩张	shu niao guan kuo zhang	100
+口腔疱疹	kou qiang pao zhen	100
+结节病	jie jie bing	100
+肾门	shen men	100
+椎弓	chui gong	100
+慢严舒柠	man yan shu ning	100
+黄斑前膜	huang ban qian mo	100
+肺野	fei ye	100
+吉西他滨	ji xi ta bin	100
+膝内翻	xi nei fan	100
+慢性输卵管炎	man xing shu luan guan yan	100
+巩膜炎	gong mo yan	100
+麻仁丸	ma ren wan	100
+锥体外系	zhui ti wai xi	100
+月经后期	yue jing hou qi	100
+神经源性膀胱	shen jing yuan xing pang guang	100
+佐匹克隆	zuo pi ke long	100
+鼻炎片	bi yan pian	100
+尿崩	niao beng	100
+麦角	mai jiao	100
+美托洛尔	mei tuo luo er	100
+甲酚	jia fen	100
+谷维素片	gu wei su pian	100
+未分化癌	wei fen hua ai	100
+氟康唑	fu kang zuo	100
+脐炎	qi yan	100
+阿司匹林片	a si pi lin pian	100
+直疝	zhi shan	100
+灭滴灵	mie di ling	100
+前列腺按摩	qian lie xian an mo	100
+多生牙	duo sheng ya	100
+抗酸杆菌	kang suan gan jun	100
+动脉造影	dong mai zao ying	100
+麻痹性斜视	ma bi xing xie shi	100
+关节镜检查	guan jie jing jian cha	100
+脂膜炎	zhi mo yan	100
+尿妊娠试验	niao ren shen shi yan	100
+空洞型肺结核	kong dong xing fei jie he	100
+米索前列醇	mi suo qian lie chun	100
+缩窄性心包炎	suo zhai xing xin bao yan	100
+地图舌	di tu she	100
+凝血酶原时间	ning xue mei yuan shi jian	100
+美罗培南	mei luo pei nan	100
+骨化性肌炎	gu hua xing ji yan	100
+胃苏颗粒	wei su ke li	100
+安宫黄体酮	an gong huang ti tong	100
+心室肥大	xin shi fei da	100
+微球蛋白	wei qiu dan bai	100
+结节性红斑	jie jie xing hong ban	100
+睑内翻	jian nei fan	100
+管状腺瘤	guan zhuang xian liu	100
+乳糜胸	ru mi xiong	100
+阴茎异常勃起	yin jing yi chang bo qi	100
+耳流脓	er liu nong	100
+细菌性阴道病	xi jun xing yin dao bing	100
+小儿止咳糖浆	xiao er zhi ke tang jiang	100
+上颌窦炎	shang he dou yan	100
+腘动脉	guo dong mai	100
+第三脑室	di san nao shi	100
+寻常疣	xun chang you	100
+脑软化	nao ruan hua	100
+死精症	si jing zheng	100
+阿糖胞苷	a tang bao gan	100
+排卵期出血	pai luan qi chu xie	100
+单心房	dan xin fang	100
+牙龈增生	ya yin zeng sheng	100
+封闭抗体	feng bi kang ti	100
+脓细胞	nong xi bao	100
+慢性膀胱炎	man xing pang guang yan	100
+四逆汤	si ni tang	100
+西比灵	xi bi ling	100
+肾透明细胞癌	shen tou ming xi bao ai	100
+洁尔阴	jie er yin	100
+骨纤维异常增殖症	gu xian wei yi chang zeng zhi zheng	100
+躯体化障碍	qu ti hua zhang ai	100
+强回声	qiang hui sheng	100
+凹陷性疤痕	ao xian xing ba hen	100
+稳心颗粒	wen xin ke li	100
+科素亚	ke su ya	100
+丘脑出血	qiu nao chu xie	100
+多趾	duo zhi	100
+氟哌酸胶囊	fu pai suan jiao nang	100
+室间隔膜部	shi jian ge mo bu	100
+金水宝胶囊	jin shui bao jiao nang	100
+跖疣	zhi you	100
+肌腱粘连	ji jian zhan lian	100
+外斜视	wai xie shi	100
+乳酸菌素片	ru suan jun su pian	100
+肠溃疡	chang kui yang	100
+动眼神经	dong yan shen jing	100
+狼疮肾炎	lang chuang shen yan	100
+放射性肺炎	fang she xing fei yan	100
+桂附地黄丸	gui fu di huang wan	100
+肛乳头肥大	gang ru tou fei da	100
+臂丛	bi cong	100
+毛细血管瘤	mao xi xue guan liu	100
+主动脉硬化	zhu dong mai ying hua	100
+幼儿急疹	you er ji zhen	100
+扁平苔癣	bian ping tai xuan	100
+刮宫术	gua gong shu	100
+可吸收线	ke xi shou xian	100
+免疫荧光	mian yi ying guang	100
+膝外翻	xi wai fan	100
+内分泌病	nei fen mi bing	100
+盘状红斑狼疮	pan zhuang hong ban lang chuang	100
+房性心动过速	fang xing xin dong guo su	100
+鲜竹沥	xian zhu li	100
+胸膜粘连	xiong mo zhan lian	100
+霉素	mei su	100
+沉降率	chen jiang lv	100
+囊腺瘤	nang xian liu	100
+盐酸氨溴索	yan suan an xiu suo	100
+厄贝沙坦	e bei sha tan	100
+抗血小板药	kang xue xiao ban yao	100
+清开灵颗粒	qing kai ling ke li	100
+正天丸	zheng tian wan	100
+双角子宫	shuang jiao zi gong	100
+阿奇霉素片	a qi mei su pian	100
+骨髓腔	gu sui qiang	100
+氟康唑胶囊	fu kang zuo jiao nang	100
+转移因子	zhuan yi yin zi	100
+椎间盘脱出	chui jian pan tuo chu	100
+症状性癫痫	zheng zhuang xing dian xian	100
+胞浆	bao jiang	100
+乙胺丁醇	yi an ding chun	100
+牙龈瘤	ya yin liu	100
+膜性肾病	mo xing shen bing	100
+股疝	gu shan	100
+大补阴丸	da bu yin wan	100
+舌下腺	she xia xian	100
+谷氨酰转肽酶	gu an xian zhuan tai mei	100
+支气管激发试验	zhi qi guan ji fa shi yan	100
+前庭大腺囊肿	qian ting da xian nang zhong	100
+非诺贝特	fei nuo bei te	100
+心脏神经官能症	xin zang shen jing guan neng zheng	100
+安坦	an tan	100
+二尖瓣脱垂	er jian ban tuo chui	100
+麻仁润肠丸	ma ren run chang wan	100
+血清胆红素	xue qing dan hong su	100
+粘液腺癌	nian ye xian ai	100
+硝苯地平控释片	xiao ben di ping kong shi pian	100
+皮脂腺痣	pi zhi xian zhi	100
+骨囊肿	gu nang zhong	100
+安体舒通	an ti shu tong	100
+天王补心丹	tian wang bu xin dan	100
+慢性淋巴细胞性甲状腺炎	man xing lin ba xi bao xing jia zhuang xian yan	100
+塞来昔布	sai lai xi bu	100
+多普勒检查	duo pu lei jian cha	100
+碘油造影	dian you zao ying	100
+筛窦炎	shai dou yan	100
+平滑肌肉瘤	ping hua ji rou liu	100
+距骨骨折	ju gu gu zhe	100
+蒲地蓝消炎口服液	pu di lan xiao yan kou fu ye	100
+毛痣	mao zhi	100
+痒疹	yang zhen	100
+白头粉刺	bai tou fen ci	100
+氨溴索	an xiu suo	100
+胃扭转	wei niu zhuan	100
+滴耳剂	di er ji	100
+梨状肌	li zhuang ji	100
+肾气不固	shen qi bu gu	100
+金锁固精丸	jin suo gu jing wan	100
+扑尔敏片	pu er min pian	100
+粘膜层	zhan mo ceng	100
+真性红细胞增多症	zhen xing hong xi bao zeng duo zheng	100
+外耳道闭锁	wai er dao bi suo	100
+膈神经	ge shen jing	100
+马应龙痔疮膏	ma ying long zhi chuang gao	100
+肾下垂	shen xia chui	100
+西沙必利	xi sha bi li	100
+五子衍宗丸	wu zi yan zong wan	100
+米诺环素	mi nuo huan su	100
+保列治	bao lie zhi	100
+睾丸损伤	gao wan sun shang	100
+输卵管伞	shu luan guan san	100
+额窦炎	e dou yan	100
+明党参	ming dang shen	100
+癃闭	long bi	100
+环枢	huan shu	100
+股骨长	gu gu zhang	100
+隐匿阴茎	yin ni yin jing	100
+尼群地平	ni qun di ping	100
+下颌后缩	xia he hou suo	100
+胰腺囊肿	yi xian nang zhong	100
+预激综合征	yu ji zong he zheng	100
+蒲地蓝消炎片	pu di lan xiao yan pian	100
+咪康唑	mi kang zuo	100
+活血止痛胶囊	huo xue zhi tong jiao nang	100
+制半夏	zhi ban xia	100
+腺性膀胱炎	xian xing pang guang yan	100
+双顶径	shuang ding jing	100
+肾错构瘤	shen cuo gou liu	100
+扁桃体切除术	bian tao ti qie chu shu	100
+耳硬化症	er ying hua zheng	100
+黄韧带	huang ren dai	100
+多形红斑	duo xing hong ban	100
+阴茎延长术	yin jing yan chang shu	100
+奥拉西坦	ao la xi tan	100
+舌系带过短	she ji dai guo duan	100
+并指畸形	bing zhi ji xing	100
+泪道冲洗	lei dao chong xi	100
+胃小弯	wei xiao wan	100
+消糜栓	xiao mi shuan	100
+新生儿泪囊炎	xin sheng er lei nang yan	100
+角弓反张	jiao gong fan zhang	100
+脑囊肿	nao nang zhong	100
+传染性软疣	chuan ran xing ruan you	100
+黛力新	dai li xin	100
+肾皮质	shen pi zhi	100
+壶腹	hu fu	100
+肺囊肿	fei nang zhong	100
+先天性斜颈	xian tian xing xie jing	100
+浆细胞性乳腺炎	jiang xi bao xing ru xian yan	100
+猴枣	hou zao	100
+氯雷他定片	lv lei ta ding pian	100
+木香顺气丸	mu xiang shun qi wan	100
+巨核细胞	ju he xi bao	100
+利巴韦林颗粒	li ba wei lin ke li	100
+鼻渊	bi yuan	100
+室管膜瘤	shi guan mo liu	100
+克霉唑	ke mei zuo	100
+钳刮术	qian gua shu	100
+颈复康颗粒	jing fu kang ke li	100
+乳糜尿	ru mi niao	100
+诊断性刮宫	zhen duan xing gua gong	100
+抗核抗体	kang he kang ti	100
+鹿角霜	lu jiao shuang	100
+抗体效价	kang ti xiao jia	100
+成纤维细胞生长因子	cheng xian wei xi bao sheng zhang yin zi	100
+保妇康栓	bao fu kang shuan	100
+上消化道造影	shang xiao hua dao zao ying	100
+尿布皮炎	niao bu pi yan	100
+益母草膏	yi mu cao gao	100
+甲状腺片	jia zhuang xian pian	100
+铝碳酸镁片	lv tan suan mei pian	100
+卡他性中耳炎	ka ta xing zhong er yan	100
+排石颗粒	pai shi ke li	100
+湿润烧伤膏	shi run shao shang gao	100
+上颌前突	shang he qian tu	100
+液性暗区	ye xing an qu	100
+椎基底动脉	chui ji di dong mai	100
+腺样囊性癌	xian yang nang xing ai	100
+卡马西平片	ka ma xi ping pian	100
+附睾管	fu gao guan	100
+先天性髋关节发育不良	xian tian xing kuan guan jie fa yu bu liang	100
+胸膜增厚	xiong mo zeng hou	100
+醋酸泼尼松片	cu suan po ni song pian	100
+炎性息肉	yan xing xi rou	100
+咳特灵	ke te ling	100
+西乐葆	xi yue bao	100
+复方甘草	fu fang gan cao	100
+鼻内镜检查	bi nei jing jian cha	100
+粘膜下层	zhan mo xia ceng	100
+氮芥	dan jie	100
+格华止	ge hua zhi	100
+阴囊瘙痒	yin nang sao yang	100
+肝小叶	gan xiao ye	100
+病理反射	bing li fan she	100
+尺神经损伤	chi shen jing sun shang	100
+宫颈肌瘤	gong jing ji liu	100
+眼震	yan zhen	100
+养血清脑颗粒	yang xue qing nao ke li	100
+小肠梗阻	xiao chang geng zu	100
+尼莫地平片	ni mo di ping pian	100
+切迹	qie ji	100
+皮下结节	pi xia jie jie	100
+头孢克洛胶囊	tou bao ke luo jiao nang	100
+埋伏牙	mai fu ya	100
+单纯性甲状腺肿	dan chun xing jia zhuang xian zhong	100
+结节性痒疹	jie jie xing yang zhen	100
+子宫粘膜下肌瘤	zi gong zhan mo xia ji liu	100
+红细胞计数	hong xi bao ji shu	100
+门冬氨酸	men dong an suan	100
+多系统萎缩	duo xi tong wei suo	100
+鸡眼膏	ji yan gao	100
+沙利度胺	sha li du an	100
+臀肌挛缩	tun ji luan suo	100
+甲地孕酮	jia di yun tong	100
+包皮粘连	bao pi zhan lian	100
+促黄体生成激素	cu huang ti sheng cheng ji su	100
+睑外翻	jian wai fan	100
+同工酶	tong gong mei	100
+诺雷得	nuo lei de	100
+期前收缩	qi qian shou suo	100
+左甲状腺素钠片	zuo jia zhuang xian su na pian	100
+草莓状血管瘤	cao mei zhuang xue guan liu	100
+梅核气	mei he qi	100
+输卵管通液术	shu luan guan tong ye shu	100
+新斯的明	xin si de ming	100
+骨软骨瘤	gu ruan gu liu	100
+新生儿缺血缺氧性脑病	xin sheng er que xue que yang xing nao bing	100
+男宝胶囊	nan bao jiao nang	100
+欣康	xin kang	100
+阵发性心动过速	zhen fa xing xin dong guo su	100
+急性阴道炎	ji xing yin dao yan	100
+脑活素	nao huo su	100
+莫匹罗星软膏	mo pi luo xing ruan gao	100
+肺穿刺	fei chuan ci	100
+间歇性外斜视	jian xie xing wai xie shi	100
+神经内分泌癌	shen jing nei fen mi ai	100
+胞体	bao ti	100
+加味逍遥丸	jia wei xiao yao wan	100
+腘静脉	guo jing mai	100
+子宫内膜异位囊肿	zi gong nei mo yi wei nang zhong	100
+酮替芬	tong ti fen	100
+甲钴胺	jia gu an	100
+镫骨	deng gu	100
+大脑前动脉	da nao qian dong mai	100
+颌下淋巴结	he xia lin ba jie	100
+碘甘油	dian gan you	100
+直接胆红素	zhi jie dan hong su	100
+王氏保赤丸	wang shi bao chi wan	100
+癫痫小发作	dian xian xiao fa zuo	100
+脑裂	nao lie	100
+护彤	hu tong	100
+茵栀黄口服液	yin zhi huang kou fu ye	100
+痔疮栓	zhi chuang shuan	100
+希舒美	xi shu mei	100
+动眼神经麻痹	dong yan shen jing ma bi	100
+乙肝核心抗体	yi gan he xin kang ti	100
+骨髓象	gu sui xiang	100
+健儿清解液	jian er qing jie ye	100
+乳癖消片	ru pi xiao pian	100
+外阴溃疡	wai yin kui yang	100
+钡餐透视	bei can tou shi	100
+汗管瘤	han guan liu	100
+普秃	pu tu	100
+印戒细胞癌	yin jie xi bao ai	100
+包皮嵌顿	bao pi qian dun	100
+关节盘	guan jie pan	100
+甲状腺球蛋白	jia zhuang xian qiu dan bai	100
+克霉唑软膏	ke mei zuo ruan gao	100
+氧氟沙星滴耳液	yang fu sha xing di er ye	100
+脑复康	nao fu kang	100
+子宫纵隔	zi gong zong ge	100
+福尔可定	fu er ke ding	100
+原发性血小板增多症	yuan fa xing xue xiao ban zeng duo zheng	100
+导管内乳头状瘤	dao guan nei ru tou zhuang liu	100
+腱索	jian suo	100
+心室肥厚	xin shi fei hou	100
+神经上皮	shen jing shang pi	100
+元胡止痛片	yuan hu zhi tong pian	100
+甲状	jia zhuang	100
+骨炎	gu yan	100
+椎间盘变性	chui jian pan bian xing	100
+脑白质病	nao bai zhi bing	100
+支气管舒张试验	zhi qi guan shu zhang shi yan	100
+骶髂关节炎	di qia guan jie yan	100
+内翻足	nei fan zu	100
+乳腺导管扩张	ru xian dao guan kuo zhang	100
+腰痛宁胶囊	yao tong ning jiao nang	100
+美满霉素	mei man mei su	100
+输卵管通水	shu luan guan tong shui	100
+神经梅毒	shen jing mei du	100
+硫唑嘌呤	liu zuo piao ling	100
+舒喘灵	shu chuan ling	100
+达菲林	da fei lin	100
+卵巢畸胎瘤	luan chao ji tai liu	100
+放射性肠炎	fang she xing chang yan	100
+螺内酯片	luo nei zhi pian	100
+埃索美拉唑	ai suo mei la zuo	100
+蝶鞍	die an	100
+胆总管扩张	dan zong guan kuo zhang	100
+溴隐亭	xiu yin ting	100
+嗜酸性细胞	shi suan xing xi bao	100
+倍他米松	bei ta mi song	100
+斯皮仁诺	si pi ren nuo	100
+皮样囊肿	pi yang nang zhong	100
+希刻劳	xi ke lao	100
+垂体微腺瘤	chui ti wei xian liu	100
+炎性假瘤	yan xing jia liu	100
+硫酸氨基葡萄糖	liu suan an ji pu tao tang	100
+舒筋活血片	shu jin huo xue pian	100
+香砂六君丸	xiang sha liu jun wan	100
+促黄体生成素	cu huang ti sheng cheng su	100
+髌韧带	bin ren dai	100
+马应龙麝香痔疮膏	ma ying long she xiang zhi chuang gao	100
+抗心磷脂抗体	kang xin lin zhi kang ti	100
+抑素	yi su	100
+青霉胺	qing mei an	100
+结节影	jie jie ying	100
+泌乳素瘤	mi ru su liu	100
+嗜碱性粒细胞	shi jian xing li xi bao	100
+黄体酮胶囊	huang ti tong jiao nang	100
+外阴阴道炎	wai yin yin dao yan	100
+前庭大腺	qian ting da xian	100
+视交叉	shi jiao cha	100
+增生性息肉	zeng sheng xing xi rou	100
+子宫内膜结核	zi gong nei mo jie he	100
+伊曲康唑胶囊	yi qu kang zuo jiao nang	100
+血管痣	xue guan zhi	100
+疣状	you zhuang	100
+丙戊酸	bing wu suan	100
+联苯双酯	lian ben shuang zhi	100
+布地奈德	bu di nai de	100
+睑下垂	jian xia chui	100
+直肠溃疡	zhi chang kui yang	100
+始基子宫	shi ji zi gong	100
+头孢地尼	tou bao di ni	100
+来氟米特	lai fu mi te	100
+比索洛尔	bi suo luo er	100
+月骨	yue gu	100
+阴阜	yin fu	100
+抗磷脂抗体	kang lin zhi kang ti	100
+阿昔洛韦片	a xi luo wei pian	100
+左氧氟沙星片	zuo yang fu sha xing pian	100
+产后甲状腺炎	chan hou jia zhuang xian yan	100
+白三烯	bai san xi	100
+川芎茶调散	chuan qiong cha diao san	100
+紫癫	zi dian	100
+肌苷片	ji gan pian	100
+他莫昔芬	ta mo xi fen	100
+甘利欣	gan li xin	100
+养血生发胶囊	yang xue sheng fa jiao nang	100
+充盈缺损	chong ying que sun	100
+软骨炎	ruan gu yan	100
+雷贝拉唑	lei bei la zuo	100
+绒毛状腺瘤	rong mao zhuang xian liu	100
+舒必利	shu bi li	100
+克咳敏	ke ke min	100
+黄芪精口服液	huang qi jing kou fu ye	100
+桂枝茯苓丸	gui zhi fu ling wan	100
+头孢地尼分散片	tou bao di ni fen san pian	100
+宫血宁胶囊	gong xue ning jiao nang	100
+布洛芬颗粒	bu luo fen ke li	100
+乳突炎	ru tu yan	100
+甲氨喋呤	jia an die ling	100
+二尖瓣返流	er jian ban fan liu	100
+生长抑素	sheng zhang yi su	100
+外阴营养不良	wai yin ying yang bu liang	100
+地奥司明片	di ao si ming pian	100
+生精胶囊	sheng jing jiao nang	100
+前列腺脓肿	qian lie xian nong zhong	100
+肺力咳合剂	fei li ke he ji	100
+卡铂	ka bo	100
+深覆合	shen fu he	100
+氧化锌软膏	yang hua xin ruan gao	100
+皮下囊肿	pi xia nang zhong	100
+子宫底	zi gong di	100
+拜复乐	bai fu le	100
+甲氰咪胍	jia qing mi gua	100
+片姜黄	pian jiang huang	100
+睾丸囊肿	gao wan nang zhong	100
+子宫肥大	zi gong fei da	100
+孢子菌	bao zi jun	100
+丹皮酚	dan pi fen	100
+急性淋巴结炎	ji xing lin ba jie yan	100
+洁尔阴洗液	jie er yin xi ye	100
+溶血素	rong xue su	100
+槐角丸	huai jiao wan	100
+尿道造影	niao dao zao ying	100
+头孢丙烯	tou bao bing xi	100
+直肠前突	zhi chang qian tu	100
+阿昔洛韦乳膏	a xi luo wei ru gao	100
+先天性眼球震颤	xian tian xing yan qiu zhen chan	100
+雷诺考特	lei nuo kao te	100
+西酞普兰	xi tai pu lan	100
+普乐安片	pu le an pian	100
+头孢克肟分散片	tou bao ke wo fen san pian	100
+替莫唑胺	ti mo zuo an	100
+唑来膦酸	zuo lai lin suan	100
+左西替利嗪	zuo xi ti li qin	100
+头孢克肟颗粒	tou bao ke wo ke li	100
+地氯雷他定	di lv lei ta ding	100
+哮喘性支气管炎	xiao chuan xing zhi qi guan yan	100
+依巴斯汀	yi ba si ting	100
+主动脉窦	zhu dong mai dou	100
+环丙孕酮	huan bing yun tong	100
+异常脑电图	yi chang nao dian tu	100
+头孢克洛颗粒	tou bao ke luo ke li	100
+低分子右旋糖酐	di fen zi you xuan tang gan	100
+文拉法辛	wen la fa xin	100
+颌骨囊肿	he gu nang zhong	100
+盐酸多西环素	yan suan duo xi huan su	100
+丙硫氧嘧啶片	bing liu yang mi ding pian	100
+安络血	an luo xue	100
+残角子宫	can jiao zi gong	100
+四妙丸	si miao wan	100
+慢性子宫内膜炎	man xing zi gong nei mo yan	100
+迈之灵	mai zhi ling	100
+大转子	da zhuan zi	100
+地榆槐角丸	di yu huai jiao wan	100
+保胎灵	bao tai ling	100
+匹多莫德	pi duo mo de	100
+还原型谷胱甘肽	huan yuan xing gu guang gan tai	100
+头孢克肟胶囊	tou bao ke wo jiao nang	100
+硬脊膜	ying ji mo	100
+头孢地尼胶囊	tou bao di ni jiao nang	100
+三碘甲状腺原氨酸	san dian jia zhuang xian yuan an suan	100
+肛门息肉	gang men xi rou	100
+黄葵胶囊	huang kui jiao nang	100
+制霉菌素片	zhi mei jun su pian	100
+调经促孕丸	tiao jing cu yun wan	100
+可乐必妥	ke le bi tuo	100
+粘膜炎	zhan mo yan	100
+睾丸鞘膜	gao wan qiao mo	100
+淀粉样变性	dian fen yang bian xing	100
+促卵泡生成素	cu luan pao sheng cheng su	100
+聚维酮碘	ju wei tong dian	100
+复方玄驹胶囊	fu fang xuan ju jiao nang	100
+利福喷丁	li fu pen ding	100
+炔雌醇	gui ci chun	100
+甲状腺球蛋白抗体	jia zhuang xian qiu dan bai kang ti	100
+藏毛窦	cang mao dou	100
+谷氨酰转移酶	gu an xian zhuan yi mei	100
+间质性膀胱炎	jian zhi xing pang guang yan	100
+双眼复视	shuang yan fu shi	100
+小儿消积止咳口服液	xiao er xiao ji zhi ke kou fu ye	100
+刺猬皮	ci wei pi	100
+足舟骨	zu zhou gu	100
+肾上腺增生	shen shang xian zeng sheng	100
+妥布霉素滴眼液	tuo bu mei su di yan ye	100
+枕大神经痛	zhen da shen jing tong	100
+会厌囊肿	hui yan nang zhong	100
+柳氮磺吡啶	liu dan huang bi ding	100
+平阳霉素	ping yang mei su	100
+大脑后动脉	da nao hou dong mai	100
+糜蛋白酶	mi dan bai mei	100
+粘液性水肿	nian ye xing shui zhong	100
+金刚藤胶囊	jin gang teng jiao nang	100
+复方甘草酸苷片	fu fang gan cao suan gan pian	100
+转肽酶	zhuan tai mei	100
+下疳	xia gan	100
+吡哌酸	bi pai suan	100
+摩罗丹	mo luo dan	100
+绒促性素	rong cu xing su	100
+急性子宫内膜炎	ji xing zi gong nei mo yan	100
+胶体果胶铋胶囊	jiao ti guo jiao bi jiao nang	100
+特比萘芬	te bi nai fen	100
+奥卡西平	ao ka xi ping	100
+葡萄糖酸锌口服液	pu tao tang suan xin kou fu ye	100
+制霉素	zhi mei su	100
+腺体肥大	xian ti fei da	100
+甲泼尼龙	jia po ni long	100
+婴儿健脾散	ying er jian pi san	100
+网织红细胞	wang zhi hong xi bao	100
+阿奇霉素干混悬剂	a qi mei su gan hun xuan ji	100
+龙牡壮骨颗粒	long mu zhuang gu ke li	100
+水飞蓟素	shui fei ji su	100
+苄星青霉素	bian xing qing mei su	100
+附睾囊肿	fu gao nang zhong	100
+肾盂扩张	shen yu kuo zhang	100
+抗宫炎片	kang gong yan pian	100
+前列腺囊肿	qian lie xian nang zhong	100
+玻璃酸钠滴眼液	bo li suan na di yan ye	100
+加巴喷丁	jia ba pen ding	100
+完全性右束支传导阻滞	wan quan xing you shu zhi chuan dao zu zhi	100
+花红片	hua hong pian	100
+二硫化硒	er liu hua xi	100
+髁突	ke tu	100
+甲钴胺片	jia gu an pian	100
+外阴萎缩	wai yin wei suo	100
+麒麟丸	qi lin wan	100
+一清胶囊	yi qing jiao nang	100
+慢性甲状腺炎	man xing jia zhuang xian yan	100
+小金丸	xiao jin wan	100
+前白蛋白	qian bai dan bai	100
+颅后窝	lu hou wo	100
+阿立哌唑	a li pai zuo	100
+纤维瘤病	xian wei liu bing	100
+骨化三醇	gu hua san chun	100
+酯酶	zhi mei	100
+孟鲁司特钠	meng lu si te na	100
+氯雷他定糖浆	lv lei ta ding tang jiang	100
+阿昔洛韦软膏	a xi luo wei ruan gao	100
+嘧啶	mi ding	100
+静脉肾盂造影	jing mai shen yu zao ying	100
+纵隔子宫	zong ge zi gong	100
+脐尿管	qi niao guan	100
+转移因子口服液	zhuan yi yin zi kou fu ye	100
+表皮样囊肿	biao pi yang nang zhong	100
+甲状舌管囊肿	jia zhuang she guan nang zhong	100
+英太青	ying tai qing	100
+后纵韧带	hou zong ren dai	100
+阿法骨化醇	a fa gu hua chun	100
+胆碱能性荨麻疹	dan jian neng xing xun ma zhen	100
+上颌窦囊肿	shang he dou nang zhong	100
+甲营养不良	jia ying yang bu liang	100
+脱髓鞘病	tuo sui qiao bing	100
+收肌	shou ji	100
+曲咪新乳膏	qu mi xin ru gao	100
+氟桂利嗪	fu gui li qin	100
+丁螺环酮	ding luo huan tong	100
+疣状痣	you zhuang zhi	100
+噻吗洛尔	sai ma luo er	100
+肾炎康复片	shen yan kang fu pian	100
+鼠神经生长因子	shu shen jing sheng zhang yin zi	100
+维胺酯	wei an zhi	100
+浆细胞瘤	jiang xi bao liu	100
+奥卡西平片	ao ka xi ping pian	100
+丙酸氟替卡松	bing suan fu ti ka song	100
+地屈孕酮	di qu yun tong	100
+维胺酯胶囊	wei an zhi jiao nang	100
+盐酸西替利嗪	yan suan xi ti li qin	100
+桂枝茯苓胶囊	gui zhi fu ling jiao nang	100
+甲氧	jia yang	100
+淋巴囊肿	lin ba nang zhong	100
+糠酸莫米松乳膏	kang suan mo mi song ru gao	100
+伐昔洛韦	fa xi luo wei	100
+制南星	zhi nan xing	100
+输卵管积脓	shu luan guan ji nong	100
+急性附睾炎	ji xing fu gao yan	100
+子宫前位	zi gong qian wei	100
+声带白斑	sheng dai bai ban	100
+弥可保	mi ke bao	100
+肾盂分离	shen yu fen li	100
+游离甲状腺素	you li jia zhuang xian su	100
+单脐动脉	dan qi dong mai	100
+复方甘草酸苷	fu fang gan cao suan gan	100
+托瑞米芬	tuo rui mi fen	100
+总胆汁酸	zong dan zhi suan	100
+红豆蔻	hong dou kou	100
+卵圆窝	luan yuan wo	100
+孟鲁司特钠咀嚼片	meng lu si te na ju jue pian	100
+七叶神安片	qi ye shen an pian	100
+益母草胶囊	yi mu cao jiao nang	100
+扁平湿疣	bian ping shi you	100
+疣状胃炎	you zhuang wei yan	100
+尿道肉阜	niao dao rou fu	100
+肾发育不良	shen fa yu bu liang	100
+壮骨关节丸	zhuang gu guan jie wan	100
+奥美拉唑胶囊	ao mei la zuo jiao nang	100
+夫西地酸	fu xi di suan	100
+甲状腺上动脉	jia zhuang xian shang dong mai	100
+子宫输卵管碘油造影	zi gong shu luan guan dian you zao ying	100
+糠酸莫米松	kang suan mo mi song	100
+迈之灵片	mai zhi ling pian	100
+健胃消食口服液	jian wei xiao shi kou fu ye	100
+易善复	yi shan fu	100
+地屈孕酮片	di qu yun tong pian	100
+苯海索	ben hai suo	100
+地巴唑	di ba zuo	100
+顶体	ding ti	100
+戊酸雌二醇片	wu suan ci er chun pian	100
+水杨酸软膏	shui yang suan ruan gao	100
+尿促性素	niao cu xing su	100
+双唑泰栓	shuang zuo tai shuan	100
+美沙拉嗪	mei sha la qin	100
+必嗽平	bi sou ping	100
+鞍上池	an shang chi	100
+妇炎康片	fu yan kang pian	100
+葵花护肝片	kui hua hu gan pian	100
+硫必利	liu bi li	100
+硒酵母	xi jiao mu	100
+克霉唑阴道片	ke mei zuo yin dao pian	100
+多发性脂肪瘤	duo fa xing zhi fang liu	100
+三联律	san lian lv	100
+丝状疣	si zhuang you	100
+氯酚	lv fen	100
+甲泼尼龙片	jia po ni long pian	100
+双环醇片	shuang huan chun pian	100
+康妇消炎栓	kang fu xiao yan shuan	100
+外展神经	wai zhan shen jing	100
+氨溴索口服液	an xiu suo kou fu ye	100
+鼻窦炎口服液	bi dou yan kou fu ye	100
+硝呋太尔	xiao fu tai er	100
+鼻渊舒口服液	bi yuan shu kou fu ye	100
+胞磷胆碱钠	bao lin dan jian na	100
+左氧氟沙星滴眼液	zuo yang fu sha xing di yan ye	100
+贫血痣	pin xue zhi	100
+心室率	xin shi lv	100
+慢性直肠炎	man xing zhi chang yan	100
+茵栀黄颗粒	yin zhi huang ke li	100
+卡泊三醇	ka po san chun	100
+独一味胶囊	du yi wei jiao nang	100
+小儿鼻炎	xiao er bi yan	100
+先天性耳前瘘管	xian tian xing er qian lou guan	100
+心磷脂	xin lin zhi	100
+吡美莫司	bi mei mo si	100
+氨苄	an bian	100
+乳腺腺病	ru xian xian bing	100
+黄体酮胶丸	huang ti tong jiao wan	100
+前列地尔	qian lie di er	100
+白色糠疹	bai se kang zhen	100
+丹参酮胶囊	dan shen tong jiao nang	100
+平消片	ping xiao pian	100
+醋酸甲羟孕酮片	cu suan jia qiang yun tong pian	100
+骨化中心	gu hua zhong xin	100
+小肠疝	xiao chang shan	100
+肋膈角	le ge jiao	100
+附睾结核	fu gao jie he	100
+腺炎	xian yan	100
+泛昔洛韦	fan xi luo wei	100
+热淋清颗粒	re lin qing ke li	100
+无色素痣	wu se su zhi	100
+线索细胞	xian suo xi bao	100
+整肠生胶囊	zheng chang sheng jiao nang	100
+复方黄柏液	fu fang huang bai ye	100
+茎突	jing tu	100
+阿达帕林凝胶	a da pa lin ning jiao	100
+胞二磷胆碱	bao er lin dan jian	100
+醋酸白试验	cu suan bai shi yan	100
+治糜灵栓	zhi mi ling shuan	100
+氧氟沙星胶囊	yang fu sha xing jiao nang	100
+晕痣	yun zhi	100
+银花泌炎灵片	yin hua mi yan ling pian	100
+三碘甲腺原氨酸	san dian jia xian yuan an suan	100
+解脲支原体	jie niao zhi yuan ti	100
+普拉洛芬	pu la luo fen	100
+曲安奈德益康唑乳膏	qu an nai de yi kang zuo ru gao	100
+鼻渊通窍颗粒	bi yuan tong qiao ke li	100
+美洛昔康	mei luo xi kang	100
+健脑补肾丸	jian nao bu shen wan	100
+丁酸氢化可的松	ding suan qing hua ke di song	100
+钙化影	gai hua ying	100
+克霉唑栓	ke mei zuo shuan	100
+蔓状血管瘤	man zhuang xue guan liu	100
+酪酸梭菌	lao suan suo jun	100
+康妇炎胶囊	kang fu yan jiao nang	100
+膀胱三角	pang guang san jiao	100
+呼吸内科	hu xi nei ke	100
+主动脉瓣返流	zhu dong mai ban fan liu	100
+红核妇洁洗液	hong he fu jie xi ye	100
+依巴斯汀片	yi ba si ting pian	100
+盐酸西替利嗪片	yan suan xi ti li qin pian	100
+地氯雷他定片	di lv lei ta ding pian	100
+微粒体	wei li ti	100

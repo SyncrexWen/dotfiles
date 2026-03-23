@@ -1,0 +1,6 @@
+# luna_pinyin.custom.yaml
+
+patch:
+  schema/name: 医学明月拼音
+  translator/dictionary: luna_pinyin_medical
+  switches/@2/reset: 1
