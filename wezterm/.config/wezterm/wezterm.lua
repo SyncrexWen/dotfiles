@@ -7,8 +7,12 @@ config.window_decorations = "RESIZE"
 config.enable_tab_bar = true
 config.default_cursor_style = "BlinkingBar"
 config.color_scheme = "Nord (Gogh)"
-config.font_size = 24
-config.font = wezterm.font("FiraMono Nerd Font", { weight = "Regular", stretch = "Normal", style = "Normal" })
+config.font_size = 28
+config.font = wezterm.font_with_fallback({
+	"FiraMono Nerd Font",
+	"PingFang SC",
+	"Heiti SC",
+})
 
 config.background = {
 	{
