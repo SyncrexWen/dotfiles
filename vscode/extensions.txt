@@ -37,3 +37,6 @@ stripe.markdoc-language-support
 # html
 formulahendry.auto-rename-tag
 
+# docker
+ms-vscode-remote.remote-containers
+
