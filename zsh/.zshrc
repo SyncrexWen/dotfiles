@@ -50,3 +50,6 @@ alias cat='bat'
 export LANG="en_US.UTF-8"
 export LC_ALL="en_US.UTF-8"
 
+# uv config
+export UV_PYTHON_PREFERENCE=only-system
+
