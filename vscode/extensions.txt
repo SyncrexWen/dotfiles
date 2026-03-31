@@ -33,6 +33,7 @@ yzhang.markdown-all-in-one
 
 # markdoc
 stripe.markdoc-language-support
+bxantus.mdoc
 
 # html
 formulahendry.auto-rename-tag

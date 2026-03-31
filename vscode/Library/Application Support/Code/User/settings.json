@@ -178,4 +178,6 @@
   "workbench.startupEditor": "none",
   "gitlens.ai.model": "vscode",
   "git.confirmSync": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
 }
