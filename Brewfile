@@ -3,6 +3,7 @@
 # ----------------------------------------
 cask "cursor"
 cask "pycharm"
+cask "wireshark-app"
 
 # ----------------------------------------
 # AI Tools
@@ -25,6 +26,7 @@ cask "zotero"
 cask "sublime-text"
 cask "anki"
 cask "squirrel-app"
+cask "thorium"
 
 # ----------------------------------------
 # Media & Design
