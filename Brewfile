@@ -54,6 +54,7 @@ cask "tailscale-app"
 cask "the-unarchiver"
 brew "htop"
 cask "keka"
+cask "jordanbaird-ice""
 
 # ----------------------------------------
 # CLI Tools
