@@ -1,0 +1,5 @@
+/*
+!.gitignore
+!config.json
+!daemon.json
+!cli-plugins/
