@@ -4,6 +4,7 @@
 cask "cursor"
 cask "pycharm"
 cask "wireshark-app"
+brew "git-filter-repo"
 
 # ----------------------------------------
 # AI Tools
