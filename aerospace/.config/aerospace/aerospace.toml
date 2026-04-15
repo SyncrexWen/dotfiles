@@ -121,6 +121,7 @@ alt-a = 'workspace a'
 alt-s = 'workspace s'
 alt-p = 'workspace p'
 alt-g = 'workspace g'
+alt-c = 'workspace c'
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#move-node-to-workspace
 alt-shift-1 = 'move-node-to-workspace 1'
@@ -139,6 +140,7 @@ alt-shift-a = 'move-node-to-workspace a'
 alt-shift-s = 'move-node-to-workspace s'
 alt-shift-p = 'move-node-to-workspace p'
 alt-shift-g = 'move-node-to-workspace g'
+alt-shift-c = 'move-node-to-workspace c'
 
 # Full screen current focus
 alt-shift-f = 'fullscreen'
