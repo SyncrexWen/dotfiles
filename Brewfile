@@ -12,6 +12,10 @@ brew "git-filter-repo"
 cask "chatgpt"
 cask "lm-studio"
 cask "ollama-app"
+brew "gemini-cli"
+cask "claude"
+cask "claude-code"
+
 
 # ----------------------------------------
 # Productivity
