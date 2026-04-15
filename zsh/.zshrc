@@ -1,7 +1,8 @@
 # proxy
 alias proxy_off='unset http_proxy; unset https_proxy; unset all_proxy'
 alias geph_proxy_on='export https_proxy=http://127.0.0.1:9910;export http_proxy=http://127.0.0.1:9910;export all_proxy=socks5://127.0.0.1:9909'
-alias wallless_proxy_on='export https_proxy=http://127.0.0.1:7897;export http_proxy=http://127.0.0.1:7897;export all_proxy=socks5://127.0.0.1:7897'
+alias walless_proxy_on='export https_proxy=http://127.0.0.1:7897;export http_proxy=http://127.0.0.1:7897;export all_proxy=socks5://127.0.0.1:7897'
+walless_proxy_on
 
 # --- zsh config ---
 # starship
