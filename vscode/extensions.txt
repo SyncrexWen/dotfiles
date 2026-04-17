@@ -41,3 +41,6 @@ formulahendry.auto-rename-tag
 # docker
 ms-vscode-remote.remote-containers
 
+# swift
+swiftlang.swift-vscode
+
