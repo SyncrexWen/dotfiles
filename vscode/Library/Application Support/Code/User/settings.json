@@ -180,4 +180,12 @@
   "git.confirmSync": false,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "python": false,
+  },
+  "chat.viewSessions.orientation": "stacked",
 }
