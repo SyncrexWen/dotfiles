@@ -32,6 +32,8 @@ cask "sublime-text"
 cask "anki"
 cask "squirrel-app"
 cask "thorium"
+cask "dropbox"
+cask "netnewswire"
 
 # ----------------------------------------
 # Media & Design
@@ -47,6 +49,7 @@ cask "qview"
 cask "neteasemusic"
 cask "qq"
 cask "tencent-meeting"
+cask "telegram"
 
 # ----------------------------------------
 # Utilities & Network
