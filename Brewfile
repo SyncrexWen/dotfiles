@@ -15,6 +15,7 @@ cask "ollama-app"
 brew "gemini-cli"
 cask "claude"
 cask "claude-code"
+cask "codex-app"
 
 
 # ----------------------------------------
@@ -34,6 +35,8 @@ cask "squirrel-app"
 cask "thorium"
 cask "dropbox"
 cask "netnewswire"
+cask "ticktick"
+cask "adobe-creative-cloud"
 
 # ----------------------------------------
 # Media & Design

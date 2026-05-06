@@ -1,13 +1,13 @@
 [user]
 	name = Kangcheng Wen
-	email = kangchengwen@proton.me
+	email = git.kcwen@outlook.com
 [core]
 	editor = nvim
 [init]
 	defaultBranch = main
 [http]
-	proxy = http://127.0.0.1:9910
+	proxy = http://127.0.0.1:7897
 [https]
-	proxy = http://127.0.0.1:9910
+	proxy = http://127.0.0.1:7897
 [safe]
 	directory = *
