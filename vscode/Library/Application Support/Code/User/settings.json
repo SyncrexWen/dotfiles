@@ -188,4 +188,6 @@
     "python": false,
   },
   "chat.viewSessions.orientation": "stacked",
+  "jupyter.askForKernelRestart": false,
+  "claudeCode.preferredLocation": "panel",
 }
