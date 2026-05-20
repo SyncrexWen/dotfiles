@@ -5,6 +5,7 @@ cask "cursor"
 cask "pycharm"
 cask "wireshark-app"
 brew "git-filter-repo"
+brew "gnupg"
 
 # ----------------------------------------
 # AI Tools
@@ -12,7 +13,6 @@ brew "git-filter-repo"
 cask "chatgpt"
 cask "lm-studio"
 cask "ollama-app"
-brew "gemini-cli"
 cask "claude"
 cask "claude-code"
 cask "codex-app"
