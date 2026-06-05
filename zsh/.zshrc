@@ -56,3 +56,6 @@ export LC_ALL="en_US.UTF-8"
 export UV_PYTHON_PREFERENCE=only-system
 export UV_PYTHON_DOWNLOADS=never
 
+# gpg config
+export GPG_TTY=$(tty)
+

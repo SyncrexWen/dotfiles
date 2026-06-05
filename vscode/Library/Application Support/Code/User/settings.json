@@ -190,4 +190,5 @@
   "chat.viewSessions.orientation": "stacked",
   "jupyter.askForKernelRestart": false,
   "claudeCode.preferredLocation": "panel",
+  "redhat.telemetry.enabled": true,
 }

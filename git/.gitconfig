@@ -1,6 +1,7 @@
 [user]
 	name = Kangcheng Wen
 	email = git.kcwen@outlook.com
+	signingkey = F6706A6EE199DA4B
 [core]
 	editor = nvim
 [init]
