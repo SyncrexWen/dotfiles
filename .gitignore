@@ -15,6 +15,9 @@ docker/
 ehthumbs.db
 Thumbs.db
 
+# Claude Code
+CLAUDE.md
+
 # VS Code Runtime / Caches (Just in case)
 vscode/**/workspaceStorage/
 vscode/**/globalStorage/
