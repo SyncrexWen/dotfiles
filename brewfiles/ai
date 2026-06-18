@@ -1,0 +1,12 @@
+# ============================================================
+# Brewfile.ai
+# AI assistants, coding agents, and local LLM tools
+# ============================================================
+
+cask "chatgpt"                   # ChatGPT desktop app.
+cask "claude"                    # Claude desktop app.
+cask "claude-code"               # Claude Code CLI.
+cask "codex-app"                 # OpenAI Codex desktop coding agent.
+cask "cursor"                    # AI-focused code editor.
+cask "lm-studio"                 # Local LLM GUI and server.
+cask "ollama-app"                # Local LLM runtime.

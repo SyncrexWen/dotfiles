@@ -1,0 +1,7 @@
+# ============================================================
+# Brewfile.node
+# Node/npm global tools
+# ============================================================
+
+npm "corepack"                   # Package-manager shim for pnpm/yarn.
+npm "playwright"                 # Browser automation framework.
