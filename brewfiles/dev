@@ -1,0 +1,80 @@
+# ============================================================
+# Brewfile.dev
+# CLI, developer tools, runtimes, data tools
+# ============================================================
+
+# ------------------------------------------------------------
+# Shell & Terminal Environment
+# ------------------------------------------------------------
+brew "starship"                  # Cross-shell prompt.
+brew "zsh-autosuggestions"       # Fish-like autosuggestions for Zsh.
+brew "zsh-syntax-highlighting"   # Syntax highlighting while typing commands in Zsh.
+brew "zsh-completions"           # Additional completion definitions for Zsh.
+brew "eza"                       # Modern ls replacement.
+brew "bat"                       # Syntax-highlighted cat replacement.
+brew "zoxide"                    # Smarter cd replacement using frecency.
+brew "tree"                      # Directory tree viewer.
+brew "glow"                      # Terminal Markdown renderer.
+brew "fzf"                       # Command-line fuzzy finder.
+brew "fastfetch"                 # Fast system information display.
+brew "neovim"                    # Extensible Vim-based terminal editor.
+
+# ------------------------------------------------------------
+# Language Runtimes & Package Management
+# ------------------------------------------------------------
+brew "mise"                      # Multi-language runtime/version manager.
+brew "uv"                        # Fast Python package and project manager.
+brew "libomp"                    # OpenMP runtime used by some scientific packages.
+
+# ------------------------------------------------------------
+# Core Developer Tools
+# ------------------------------------------------------------
+brew "git"                       # Distributed version control system.
+brew "git-delta"                 # Syntax-highlighted Git diff viewer.
+brew "git-filter-repo"           # Git history rewriting tool.
+brew "git-gui"                   # Tcl/Tk Git GUI.
+brew "gh"                        # GitHub CLI.
+brew "gnupg"                     # OpenPGP signing and encryption.
+brew "sqlite"                    # SQLite database CLI.
+brew "httpie"                    # Human-friendly HTTP client.
+brew "entr"                      # Run commands when files change.
+
+# ------------------------------------------------------------
+# Search, Code Analysis & Refactoring
+# ------------------------------------------------------------
+brew "ripgrep"                   # Fast recursive text/code search.
+brew "fd"                        # Modern find replacement.
+brew "ast-grep"                  # AST-aware code search, linting, and rewriting.
+brew "semgrep"                   # Static analysis and code-pattern scanning.
+
+# ------------------------------------------------------------
+# Structured Data Processing
+# ------------------------------------------------------------
+brew "jq"                        # JSON processor.
+brew "yq"                        # YAML/JSON/XML/CSV processor.
+brew "csvkit"                    # CSV inspection and SQL-style toolkit.
+brew "xsv"                       # Fast CSV toolkit written in Rust.
+brew "miller"                    # Record-oriented CSV/TSV/JSON processor.
+brew "htmlq"                     # HTML query tool using CSS selectors.
+brew "xmlstarlet"                # XML query, validation, and transformation toolkit.
+
+# ------------------------------------------------------------
+# Documents, PDF & Media Processing
+# ------------------------------------------------------------
+brew "pandoc"                    # Universal document converter.
+brew "poppler"                   # PDF utilities such as pdftotext and pdfinfo.
+brew "ffmpeg"                    # Audio/video processing toolkit.
+brew "yt-dlp"                    # Video/audio downloader.
+
+# ------------------------------------------------------------
+# Monitoring, Logs & System Inspection
+# ------------------------------------------------------------
+brew "btop"                      # Interactive resource monitor.
+brew "htop"                      # Interactive process viewer.
+brew "lnav"                      # Log file navigator and analyzer.
+
+# ------------------------------------------------------------
+# Utilities
+# ------------------------------------------------------------
+brew "gnu-tar"                   # GNU tar implementation.
+brew "stow"                      # Symlink manager for dotfiles and config trees.

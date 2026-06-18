@@ -1,0 +1,16 @@
+# ============================================================
+# Brewfile.fonts
+# Fonts
+# ============================================================
+
+cask "font-cousine-nerd-font"    # Cousine Nerd Font.
+cask "font-fira-code-nerd-font"  # Fira Code Nerd Font.
+cask "font-fira-mono-nerd-font"  # Fira Mono Nerd Font.
+cask "font-jetbrains-mono-nerd-font" # JetBrains Mono Nerd Font.
+
+cask "font-lato"                 # Lato sans-serif font.
+cask "font-noto-sans"            # Noto Sans.
+cask "font-noto-sans-cjk-sc"     # Noto Sans Simplified Chinese.
+cask "font-noto-serif"           # Noto Serif.
+cask "font-noto-serif-cjk-sc"    # Noto Serif Simplified Chinese.
+cask "font-playfair-display"     # Playfair Display serif font.

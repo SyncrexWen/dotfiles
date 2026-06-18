@@ -1,0 +1,93 @@
+# ============================================================
+# Brewfile.gui
+# GUI apps, productivity, system utilities
+# ============================================================
+
+# ------------------------------------------------------------
+# Editors & IDEs
+# ------------------------------------------------------------
+cask "visual-studio-code"        # General-purpose code editor.
+cask "sublime-text"              # Lightweight extensible text editor.
+cask "coteditor"                 # Native macOS plain-text editor.
+
+# ------------------------------------------------------------
+# Terminals & Window Management
+# ------------------------------------------------------------
+cask "wezterm"                   # GPU-accelerated terminal emulator.
+cask "nikitabobko/tap/aerospace" # i3-like tiling window manager for macOS.
+cask "raycast"                   # Launcher and workflow automation.
+cask "thaw"                      # Menu bar manager.
+
+# ------------------------------------------------------------
+# Browsers
+# ------------------------------------------------------------
+cask "google-chrome"             # Google Chrome browser.
+
+# ------------------------------------------------------------
+# Containers
+# ------------------------------------------------------------
+cask "docker-desktop"            # Docker Desktop for containers.
+
+# ------------------------------------------------------------
+# Cloud Storage & Sync
+# ------------------------------------------------------------
+cask "google-drive"              # Google Drive sync client.
+cask "dropbox"                   # Dropbox sync client.
+
+# ------------------------------------------------------------
+# Knowledge, Reading & Productivity
+# ------------------------------------------------------------
+cask "obsidian"                  # Markdown-based knowledge base.
+cask "zotero"                    # Reference manager.
+cask "anki"                      # Spaced-repetition flashcard app.
+cask "netnewswire"               # RSS reader.
+cask "folo"                      # Information browser / feed reader.
+cask "ticktick"                  # Task manager.
+cask "typora"                    # Markdown editor.
+cask "thorium"                   # EPUB reader.
+
+# ------------------------------------------------------------
+# Communication
+# ------------------------------------------------------------
+cask "telegram"                  # Telegram desktop client.
+cask "qq"                        # Tencent QQ client.
+cask "tencent-meeting"           # Tencent Meeting video conferencing.
+cask "neteasemusic"              # NetEase Cloud Music.
+
+# ------------------------------------------------------------
+# Media
+# ------------------------------------------------------------
+cask "iina"                      # macOS media player.
+cask "handbrake-app"             # GUI video transcoder.
+cask "steam"                     # Game distribution platform.
+
+# ------------------------------------------------------------
+# Creative Tools
+# ------------------------------------------------------------
+cask "adobe-creative-cloud"      # Adobe Creative Cloud manager.
+
+# ------------------------------------------------------------
+# System Utilities
+# ------------------------------------------------------------
+cask "appcleaner"                # App uninstaller.
+cask "battery-buddy"             # Battery menu bar utility.
+cask "keepingyouawake"           # Prevents macOS sleep.
+cask "mos"                       # Smooth scrolling and mouse wheel utility.
+cask "keka"                      # Archive manager.
+cask "the-unarchiver"            # Archive extraction utility.
+
+# ------------------------------------------------------------
+# Networking & Security
+# ------------------------------------------------------------
+cask "tailscale-app"             # WireGuard-based mesh VPN.
+cask "wireshark-app"             # Network protocol analyzer.
+
+# ------------------------------------------------------------
+# Input Method
+# ------------------------------------------------------------
+cask "squirrel-app"              # Rime input method framework.
+
+# ------------------------------------------------------------
+# Medical Imaging
+# ------------------------------------------------------------
+cask "horos"                     # DICOM medical image viewer.
