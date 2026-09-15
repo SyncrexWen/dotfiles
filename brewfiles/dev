@@ -65,6 +65,7 @@ brew "pandoc"                    # Universal document converter.
 brew "poppler"                   # PDF utilities such as pdftotext and pdfinfo.
 brew "ffmpeg"                    # Audio/video processing toolkit.
 brew "yt-dlp"                    # Video/audio downloader.
+brew "webp"                      # Webp management.
 
 # ------------------------------------------------------------
 # Monitoring, Logs & System Inspection
