@@ -96,6 +96,7 @@
   // Latex Workshop
   // ==========================================
   "latex-workshop.latex.autoBuild.run": "onSave",
+  "latex-workshop.linting.chktex.enabled": false,
   "latex-workshop.view.pdf.viewer": "tab",
   "latex-workshop.latex.tools": [
     {
@@ -176,7 +177,6 @@
   "auto-rename-tag.activationOnLanguage": ["html", "xml", "astro"],
   "security.workspace.trust.untrustedFiles": "open",
   "workbench.startupEditor": "none",
-  "gitlens.ai.model": "vscode",
   "git.confirmSync": false,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
@@ -191,4 +191,5 @@
   "jupyter.askForKernelRestart": false,
   "claudeCode.preferredLocation": "panel",
   "redhat.telemetry.enabled": true,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
 }
