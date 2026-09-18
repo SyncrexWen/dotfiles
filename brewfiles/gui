@@ -45,6 +45,7 @@ cask "folo"                      # Information browser / feed reader.
 cask "ticktick"                  # Task manager.
 cask "typora"                    # Markdown editor.
 cask "thorium"                   # EPUB reader.
+cask "skim"                      # PDF reader.
 
 # ------------------------------------------------------------
 # Communication
