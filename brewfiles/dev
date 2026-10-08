@@ -81,3 +81,5 @@ brew "kopia"                     # Open-source backup and restore tool.
 cask "kopiaui"                   # Kopia GUI.
 brew "gnu-tar"                   # GNU tar implementation.
 brew "stow"                      # Symlink manager for dotfiles and config trees.
+brew "rsync"                     # Fast incremental file transfer tool.
+
