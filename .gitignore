@@ -26,3 +26,6 @@ vscode/**/Cache*/
 vscode/**/Backups/
 vscode/**/Crashpad/
 
+# verify files
+verify*
+
