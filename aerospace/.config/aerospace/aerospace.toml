@@ -167,4 +167,13 @@ alt-shift-j = ['join-with down', 'mode main']
 alt-shift-k = ['join-with up', 'mode main']
 alt-shift-l = ['join-with right', 'mode main']
 
+# modify specific apps to specific mode.
+# app-id can be checked by command `aerospace list-apps`.
+[[on-window-detected]]
+if.app-id = 'com.okatbest.boop'
+run = 'layout floating'
+
+[[on-window-detected]]
+if.app-id = 'com.coteditor.CotEditor'
+run = 'layout floating'
 
