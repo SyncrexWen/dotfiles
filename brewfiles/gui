@@ -9,6 +9,7 @@
 cask "visual-studio-code"        # General-purpose code editor.
 cask "sublime-text"              # Lightweight extensible text editor.
 cask "coteditor"                 # Native macOS plain-text editor.
+cask "boop"                      # Scriptable scratchpad for developers.
 
 # ------------------------------------------------------------
 # Terminals & Window Management
