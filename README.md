@@ -25,6 +25,8 @@
 ├── wallpapers/        # 壁纸
 ├── wezterm/           # WezTerm 终端模拟器
 ├── zsh/               # Zsh 配置 (.zshrc)
+├── remote/            # 远程服务器一键配置
+│   └── bootstrap_with_sudo.sh
 ├── install_vscode_extensions.sh
 └── README.md
 ```
@@ -40,6 +42,14 @@ brew install stow git
 ```
 
 ## 安装
+
+### 一键安装
+
+```bash
+git clone https://github.com/SyncrexWen/dotfiles.git ~/.dotfiles
+cd ~/.dotfiles
+bash quick_setup.sh
+```
 
 ### 1. 克隆仓库
 
@@ -99,6 +109,12 @@ chmod +x install_vscode_extensions.sh
 
 该脚本读取 `vscode/extensions.txt` 并通过 `code --install-extension` 逐行安装。
 
+## 服务器一键配置
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/SyncrexWen/dotfiles/main/remote/bootstrap_with_sudo.sh | bash
+```
+
 ## 包含的配置
 
 ### Shell (zsh)
@@ -115,10 +131,10 @@ chmod +x install_vscode_extensions.sh
 
 ### 终端 & 窗口管理
 
-| 工具 | 说明 |
-|------|------|
-| [WezTerm](https://wezfurlong.org/wezterm/) | GPU 加速终端，Nord 配色，FiraMono Nerd Font，支持 vi 风格窗格导航 |
-| [AeroSpace](https://github.com/nikitabobko/AeroSpace) | i3 式平铺窗口管理器，Alt+hjkl 导航，多工作区快捷键 |
+| 工具                                                  | 说明                                                              |
+| ----------------------------------------------------- | ----------------------------------------------------------------- |
+| [WezTerm](https://wezfurlong.org/wezterm/)            | GPU 加速终端，Nord 配色，FiraMono Nerd Font，支持 vi 风格窗格导航 |
+| [AeroSpace](https://github.com/nikitabobko/AeroSpace) | i3 式平铺窗口管理器，Alt+hjkl 导航，多工作区快捷键                |
 
 ### Git
 
@@ -137,14 +153,14 @@ chmod +x install_vscode_extensions.sh
 
 **VS Code** — Catppuccin Frappé 主题，语言特定格式化：
 
-| 语言 | Formatter | LSP/工具 |
-|------|-----------|----------|
-| Python | Ruff | Pylance |
-| Go | golang.go (gofumpt) | gopls |
-| 默认 | Prettier | — |
-| Astro | astro-vscode | Tailwind CSS |
-| Markdown | markdown-all-in-one | — |
-| LaTeX | LaTeX Workshop (latexmk/xelatex) | — |
+| 语言     | Formatter                        | LSP/工具     |
+| -------- | -------------------------------- | ------------ |
+| Python   | Ruff                             | Pylance      |
+| Go       | golang.go (gofumpt)              | gopls        |
+| 默认     | Prettier                         | —            |
+| Astro    | astro-vscode                     | Tailwind CSS |
+| Markdown | markdown-all-in-one              | —            |
+| LaTeX    | LaTeX Workshop (latexmk/xelatex) | —            |
 
 ### 输入法
 
