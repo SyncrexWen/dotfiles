@@ -1,10 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# 克隆 dotfiles
+# clone into dotfiles
+echo "==> cloning dotfiles"
 git clone https://github.com/SyncrexWen/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 
+# <<< START stow packages <<<
+echo "==> stow packages"
 DOTFILES_DIR="${DOTFILES_DIR:-$HOME/.dotfiles}"
 TARGET_DIR="${TARGET_DIR:-$HOME}"
 
@@ -22,24 +25,42 @@ PACKAGES=(
   wallpapers
 )
 
-# 通用 stow 选项
 STOW_OPTS=(
   --no-folding
-  --verbose=1   # 可选：0=静默, 1=摘要, 2=详细；不需要可删
+  --verbose=1
 )
 
-# 检查依赖
-command -v stow >/dev/null 2>&1 || { echo "错误: 未找到 stow，请先安装"; exit 1; }
-[[ -d "$DOTFILES_DIR" ]] || { echo "错误: dotfiles 目录不存在: $DOTFILES_DIR"; exit 1; }
+command -v stow >/dev/null 2>&1 || { echo "Error: stow not found, please install it first"; exit 1; }
+[[ -d "$DOTFILES_DIR" ]] || { echo "Error: dotfiles directory does not exist: $DOTFILES_DIR"; exit 1; }
 
-# 执行 stow
 for pkg in "${PACKAGES[@]}"; do
   if [[ -d "$DOTFILES_DIR/$pkg" ]]; then
     echo "==> stow $pkg"
     stow -d "$DOTFILES_DIR" -t "$TARGET_DIR" "${STOW_OPTS[@]}" "$pkg"
   else
-    echo "警告: 跳过不存在的包: $pkg" >&2
+    echo "Warning: skip missing package: $pkg" >&2
   fi
 done
 
-echo "完成。"
+echo "done."
+# <<< END stow packages <<<
+
+# <<< START brew packages installation <<<
+if command -v brew >/dev/null 2>&1; then
+    echo "Homebrew is installed: $(brew --version | head -n 1)"
+else
+    echo "Homebrew is not installed."
+    printf "Install homebrew? yes/no:"
+    read answer
+
+    if [ "$answer" = "yes" ]; then
+        echo "installing homebrew..."
+        /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    else
+        echo "Exiting. Stop at brew installation."
+        exit 1
+    fi
+fi
+echo "==> installing brew packages"
+[ -d "$HOME/.dotfiles/brewfiles" ] && find "$HOME/.dotfiles/brewfiles" -type f -exec brew bundle --file={} \;
+
