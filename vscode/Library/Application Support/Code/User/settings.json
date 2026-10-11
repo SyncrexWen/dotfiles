@@ -192,4 +192,5 @@
   "claudeCode.preferredLocation": "panel",
   "redhat.telemetry.enabled": true,
   "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.unicodeHighlight.invisibleCharacters": false,
 }
