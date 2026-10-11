@@ -112,7 +112,7 @@ chmod +x install_vscode_extensions.sh
 ## 服务器一键配置
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/SyncrexWen/dotfiles/main/remote/bootstrap_with_sudo.sh | bash
+bash <(curl -fsSL https://raw.githubusercontent.com/SyncrexWen/dotfiles/main/remote/bootstrap_with_sudo.sh)
 ```
 
 ## 包含的配置

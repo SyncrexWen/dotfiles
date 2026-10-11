@@ -2,7 +2,7 @@
 # bootstrap_with_sudo.sh — Debian/Ubuntu 服务器一键配置（需要 sudo）
 #
 # 用法（推荐用进程替换：保留终端 stdin，sudo 密码提示和子安装器更稳）:
-#   bash <(curl -fsSL https://raw.githubusercontent.com/<USER>/dotfiles/main/remote/bootstrap_with_sudo.sh)
+#   bash <(curl -fsSL https://raw.githubusercontent.com/SyncrexWen/dotfiles/main/remote/bootstrap_with_sudo.sh)
 #
 # 特性: 可重复执行（幂等）；单个步骤失败不影响其他；结束时汇总结果。
 #
