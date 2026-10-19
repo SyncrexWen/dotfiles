@@ -18,6 +18,8 @@ brew "glow"                      # Terminal Markdown renderer.
 brew "fzf"                       # Command-line fuzzy finder.
 brew "fastfetch"                 # Fast system information display.
 brew "neovim"                    # Extensible Vim-based terminal editor.
+brew "chafa"                     # Versatile and fast Unicode/ASCII/ANSI graphics renderer.
+brew "qsv"                       # Ultra-fast CSV data-wrangling toolkit.
 
 # ------------------------------------------------------------
 # Language Runtimes & Package Management
