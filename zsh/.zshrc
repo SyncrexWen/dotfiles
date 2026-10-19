@@ -41,3 +41,8 @@ eval "$(zoxide init zsh --cmd cd)"
 
 # zsh-syntax-highlighting
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+# Added by LM Studio CLI (lms)
+export PATH="$PATH:/Users/kcwen/.lmstudio/bin"
+# End of LM Studio CLI section
+
