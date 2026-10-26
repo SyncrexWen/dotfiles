@@ -64,3 +64,9 @@ fi
 echo "==> installing brew packages"
 [ -d "$HOME/.dotfiles/brewfiles" ] && find "$HOME/.dotfiles/brewfiles" -type f -exec brew bundle --file={} \;
 
+# ---- macOS settings ----
+echo "==> configuring macos..."
+if [[ "$(uname)" == "Darwin" ]]; then
+  echo "[macOS] Applying system settings..."
+  bash "$HOME/.dotfiles/macos/setup.sh" "$@" || echo "[WARN] macOS setup failed, continuing..."
+fi
