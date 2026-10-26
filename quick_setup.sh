@@ -19,10 +19,10 @@ PACKAGES=(
   aerospace
   starship
   vscode
-  rime
   ssh
-  docker
   wallpapers
+  boop
+  raycast
 )
 
 STOW_OPTS=(
