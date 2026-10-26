@@ -112,7 +112,7 @@ chmod +x install_vscode_extensions.sh
 ## 服务器一键配置
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/SyncrexWen/dotfiles/main/remote/bootstrap_with_sudo.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/SyncrexWen/dotfiles/main/remote/bootstrap.sh)
 ```
 
 ## 包含的配置
@@ -161,12 +161,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/SyncrexWen/dotfiles/main/rem
 | Astro    | astro-vscode                     | Tailwind CSS |
 | Markdown | markdown-all-in-one              | —            |
 | LaTeX    | LaTeX Workshop (latexmk/xelatex) | —            |
-
-### 输入法
-
-[Rime](https://rime.im/) (Squirrel) 配置，包含：
-- 朙月拼音 (`luna_pinyin`)
-- 自定义医学词库 (`med_pinyin`) — 用于医疗/影像学词汇输入
 
 ### 其他
 

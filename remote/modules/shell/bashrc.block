@@ -1,0 +1,13 @@
+case ":$PATH:" in *":$HOME/.local/bin:"*) ;; *) export PATH="$HOME/.local/bin:$PATH" ;; esac
+export RIPGREP_CONFIG_PATH="$HOME/.config/ripgrep/config"
+
+if [[ $- == *i* ]]; then
+  # 工具初始化：按文件名顺序加载 conf.d（00 别名 → 10 fzf → 50 starship → 90 zoxide）
+  for _conf in "$HOME"/.config/shell/conf.d/*.bash; do
+    [[ -f $_conf ]] && source "$_conf"
+  done
+  unset _conf
+
+  # 机器私有配置（不受本脚本管理）
+  [[ -f ~/.bashrc.local ]] && source ~/.bashrc.local
+fi

@@ -1,0 +1,14 @@
+# server profile：Debian/Ubuntu 服务器。一行一个模块名，# 开头为注释。
+# 顺序即执行顺序；MOD_DEPS 声明的依赖会被自动排到前面。
+base
+shell
+archive
+tmux
+ripgrep
+btop
+fzf
+eza
+shcopy
+zoxide
+starship
+uv
