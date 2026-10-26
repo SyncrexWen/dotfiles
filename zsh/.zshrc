@@ -46,3 +46,6 @@ source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export PATH="$PATH:/Users/kcwen/.lmstudio/bin"
 # End of LM Studio CLI section
 
+# Local private config ~/.zshrc.local
+[ -f "$HOME/.zshrc.local" ] && source "$HOME/.zshrc.local"
+

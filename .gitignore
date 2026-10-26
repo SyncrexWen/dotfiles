@@ -29,3 +29,6 @@ vscode/**/Crashpad/
 # verify files
 verify*
 
+# local zshrc secret
+.zshrc.local
+
