@@ -21,6 +21,7 @@ brew "neovim"                    # Extensible Vim-based terminal editor.
 brew "chafa"                     # Versatile and fast Unicode/ASCII/ANSI graphics renderer.
 brew "qsv"                       # Ultra-fast CSV data-wrangling toolkit.
 brew "mlx-lm"                    # Run LLMs with MLX.
+brew "gnu-sed"                   # GNU implementation of the famous stream editor.
 
 # ------------------------------------------------------------
 # Language Runtimes & Package Management

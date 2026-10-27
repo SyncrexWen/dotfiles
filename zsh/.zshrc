@@ -36,6 +36,11 @@ export GPG_TTY=$(tty)
 # activate zoxide
 eval "$(zoxide init zsh --cmd cd)"
 
+# replace original sed with gnu-sed (gnu-sed required)
+if command -v gsed >/dev/null 2>&1; then
+  alias sed='gsed'
+fi
+
 # shortcuts
 [[ -f ~/.shortcuts.zsh ]] && source ~/.shortcuts.zsh
 
