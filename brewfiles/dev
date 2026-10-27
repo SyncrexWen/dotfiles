@@ -70,6 +70,7 @@ brew "poppler"                   # PDF utilities such as pdftotext and pdfinfo.
 brew "ffmpeg"                    # Audio/video processing toolkit.
 brew "yt-dlp"                    # Video/audio downloader.
 brew "webp"                      # Webp management.
+brew "imagemagick"               # Tools and libraries to manipulate images in select formats.
 
 # ------------------------------------------------------------
 # Monitoring, Logs & System Inspection
