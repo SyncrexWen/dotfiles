@@ -39,6 +39,8 @@ eval "$(zoxide init zsh --cmd cd)"
 # replace original sed with gnu-sed (gnu-sed required)
 if command -v gsed >/dev/null 2>&1; then
   alias sed='gsed'
+else
+  echo "gnu-sed not installed; using macOS /usr/bin/sed" >&2
 fi
 
 # shortcuts

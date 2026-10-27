@@ -25,11 +25,6 @@ cask "thaw"                      # Menu bar manager.
 cask "google-chrome"             # Google Chrome browser.
 
 # ------------------------------------------------------------
-# Containers
-# ------------------------------------------------------------
-cask "docker-desktop"            # Docker Desktop for containers.
-
-# ------------------------------------------------------------
 # Cloud Storage & Sync
 # ------------------------------------------------------------
 cask "google-drive"              # Google Drive sync client.
@@ -82,11 +77,6 @@ cask "the-unarchiver"            # Archive extraction utility.
 # ------------------------------------------------------------
 cask "tailscale-app"             # WireGuard-based mesh VPN.
 cask "wireshark-app"             # Network protocol analyzer.
-
-# ------------------------------------------------------------
-# Input Method
-# ------------------------------------------------------------
-cask "squirrel-app"              # Rime input method framework.
 
 # ------------------------------------------------------------
 # Medical Imaging
