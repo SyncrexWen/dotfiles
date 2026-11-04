@@ -1,6 +1,8 @@
 # theme
 catppuccin.catppuccin-vsc
 catppuccin.catppuccin-vsc-icons
+pkief.material-icon-theme
+raillyhugo.one-hunter
 
 # general
 esbenp.prettier-vscode

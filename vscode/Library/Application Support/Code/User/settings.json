@@ -2,8 +2,8 @@
   // ==========================================
   // Theme & Appearance
   // ==========================================
-  "workbench.colorTheme": "Catppuccin Frappé",
-  "workbench.iconTheme": "catppuccin-frappe",
+  "workbench.colorTheme": "Flexoki Dark",
+  "workbench.iconTheme": "material-icon-theme",
   "catppuccin-icons.associations.languages": {
     "typescriptreact": "typescript-react",
   },
