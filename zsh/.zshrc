@@ -26,6 +26,7 @@ export LC_ALL="en_US.UTF-8"
 # uv config
 export UV_PYTHON_PREFERENCE=only-system
 export UV_PYTHON_DOWNLOADS=never
+export UV_DEFAULT_INDEX="https://pypi.tuna.tsinghua.edu.cn/simple"
 
 # gpg config
 export GPG_TTY=$(tty)
