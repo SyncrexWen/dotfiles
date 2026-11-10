@@ -1,0 +1,122 @@
+
+# ==================================================
+# Ghostty - macOS Development Configuration
+# Target: Ghostty 1.4+
+# Stack: zsh / Neovim / SSH / tmux
+# ==================================================
+
+# --------------------
+# 1. Appearance
+# --------------------
+theme = Nord
+
+font-family = FiraMono Nerd Font
+font-family = PingFang SC
+font-family = Heiti SC
+font-size = 16
+
+# Disable programming ligatures
+font-feature = -calt
+font-feature = -liga
+font-feature = -clig
+
+# Solid background, no transparency or blur
+background-opacity = 1
+
+# Comfortable padding
+window-padding-x = 8
+window-padding-y = 6
+window-padding-balance = true
+
+# Cursor
+cursor-style = bar
+cursor-style-blink = true
+
+# Dim inactive panes slightly
+unfocused-split-opacity = 0.85
+
+
+# --------------------
+# 2. Window & Tabs
+# --------------------
+# Keep native macOS titlebar and tabs
+macos-titlebar-style = tabs
+
+# New tabs appear after the current tab
+window-new-tab-position = current
+
+# Restore window / tab / split layout on restart
+window-save-state = always
+
+# Preserve current directory
+window-inherit-working-directory = true
+tab-inherit-working-directory = true
+split-inherit-working-directory = true
+
+# Confirm closing active programs
+confirm-close-surface = true
+
+
+# --------------------
+# 3. Shell & SSH
+# --------------------
+shell-integration = detect
+
+shell-integration-features = cursor,sudo,title,path,ssh-env,ssh-terminfo
+
+# Use left Option as Alt in terminal programs
+macos-option-as-alt = left
+
+
+# --------------------
+# 4. Scrollback & Clipboard
+# --------------------
+# 16 MiB per terminal surface
+scrollback-limit = 16777216
+
+# Keep clipboard protections enabled
+clipboard-paste-protection = true
+clipboard-trim-trailing-spaces = true
+
+
+# --------------------
+# 5. Tab Management
+# --------------------
+keybind = super+t=new_tab
+keybind = super+shift+left=previous_tab
+keybind = super+shift+right=next_tab
+
+
+# --------------------
+# 6. Split Management
+# --------------------
+# Create horizontal/vertical layouts
+keybind = super+d=new_split:right
+keybind = super+shift+d=new_split:down
+
+# Navigate with Ctrl+Shift+H/J/K/L
+keybind = ctrl+shift+h=goto_split:left
+keybind = ctrl+shift+j=goto_split:down
+keybind = ctrl+shift+k=goto_split:up
+keybind = ctrl+shift+l=goto_split:right
+
+# Maximize / restore current pane
+keybind = super+shift+enter=toggle_split_zoom
+
+# Balance all pane sizes
+keybind = super+shift+e=equalize_splits
+
+
+# --------------------
+# 7. Optional Productivity
+# --------------------
+# Notify when long-running commands finish
+notify-on-command-finish = unfocused
+notify-on-command-finish-action = notify
+
+# Quick Terminal (manual toggle, not global)
+keybind = super+shift+grave_accent=toggle_quick_terminal
+quick-terminal-position = top
+quick-terminal-size = 35%
+
+

@@ -14,7 +14,7 @@ cask "boop"                      # Scriptable scratchpad for developers.
 # ------------------------------------------------------------
 # Terminals & Window Management
 # ------------------------------------------------------------
-cask "wezterm"                   # GPU-accelerated terminal emulator.
+cask "ghostty"                   # Terminal emulator that uses platform-native UI and GPU acceleration.
 cask "nikitabobko/tap/aerospace" # i3-like tiling window manager for macOS.
 cask "raycast"                   # Launcher and workflow automation.
 cask "thaw"                      # Menu bar manager.
