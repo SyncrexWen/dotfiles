@@ -32,6 +32,8 @@ bradlc.vscode-tailwindcss
 
 # markdown
 yzhang.markdown-all-in-one
+yzane.markdown-pdf
+mathematic.vscode-pdf
 
 # markdoc
 stripe.markdoc-language-support
@@ -45,4 +47,7 @@ ms-vscode-remote.remote-containers
 
 # swift
 swiftlang.swift-vscode
+
+# docx
+shahilkumar.docxreader
 
