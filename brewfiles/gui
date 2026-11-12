@@ -44,6 +44,11 @@ cask "thorium"                   # EPUB reader.
 cask "skim"                      # PDF reader.
 
 # ------------------------------------------------------------
+# AI tools
+# ------------------------------------------------------------
+cask deepseek-harness            # Plugin-based AI agent desktop application.
+
+# ------------------------------------------------------------
 # Communication
 # ------------------------------------------------------------
 cask "telegram"                  # Telegram desktop client.
