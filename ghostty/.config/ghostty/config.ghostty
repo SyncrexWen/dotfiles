@@ -13,7 +13,7 @@ theme = Nord
 font-family = FiraMono Nerd Font
 font-family = PingFang SC
 font-family = Heiti SC
-font-size = 16
+font-size = 15
 
 # Disable programming ligatures
 font-feature = -calt

@@ -177,3 +177,8 @@ run = 'layout floating'
 if.app-id = 'com.coteditor.CotEditor'
 run = 'layout floating'
 
+# Ghostty compatibility workaround
+[[on-window-detected]]
+if.app-id = 'com.mitchellh.ghostty'
+run = 'layout tiling'
+
